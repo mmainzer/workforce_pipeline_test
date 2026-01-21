@@ -3070,5 +3070,37 @@
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/peach-crawford\/crawford-county-commissioners-pass-moratorium-on-data-centers\/93-3f2eec12-3bb9-4963-aaee-dc7cdc800d14",
         "date_captured":"2026-01-20"
+    },
+    {
+        "event_id":"SPALDING-20260113-001",
+        "event_date":"2026-01-13",
+        "GEOID":"13255",
+        "location_name":"Spalding County",
+        "municipality":"Griffin",
+        "event_type":"Moratorium Approved",
+        "event_title":"Griffin City Council Passes 180-Day Data Center Moratorium",
+        "event_description":"The Griffin City Council unanimously (7-0) passed a 180-day moratorium on data center permitting, applications, and cryptocurrency mining operations until mid-July 2026. The resolution allows city planning staff to study current codes and review how other metro Atlanta jurisdictions have approached data center regulations. The city's UDC currently does not specifically allow 'Technological Facilities' either by right or special use permit. Staff will make recommendations for UDC revisions.",
+        "project_name":null,
+        "outcome":"Approved 7-0",
+        "event_sentiment":"Opposed",
+        "source_name":"WSB-TV",
+        "source_url":"https:\/\/www.wsbtv.com\/news\/local\/spalding-county\/griffin-city-council-passes-data-center-moratorium-through-mid-july\/FW2ZW2LYFZEGJJLRHZYLUD3VXA\/",
+        "date_captured":"2026-01-21"
+    },
+    {
+        "event_id":"SPALDING-20260112-001",
+        "event_date":"2026-01-12",
+        "GEOID":"13255",
+        "location_name":"Spalding County",
+        "municipality":null,
+        "event_type":"Public Hearing",
+        "event_title":"Spalding County Planning Commission Special Meeting on Wallace Jackson Data Center",
+        "event_description":"The Spalding County Planning and Appeals Commission held a special called meeting to hear variance, zoning, and special exception applications for the proposed Wallace Jackson Data Center Campus. The $3.7B project would include 10 data center buildings totaling 4.986 million sq ft on 189 acres in the Wallace Jackson Industrial Park on Jackson Road.",
+        "project_name":"Wallace Jackson DC Campus",
+        "outcome":"Pending",
+        "event_sentiment":"Neutral",
+        "source_name":"Griffin Daily News",
+        "source_url":"https:\/\/www.griffindailynews.com\/news\/spalding-county-planning-commission-to-hear-data-center-request-jan-12\/article_23798d5c-e7e3-5412-af18-1ff51bdfc020.html",
+        "date_captured":"2026-01-21"
     }
 ]
