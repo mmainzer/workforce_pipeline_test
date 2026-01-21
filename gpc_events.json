@@ -2820,26 +2820,6 @@
         "date_captured":"2025-12-18"
     },
     {
-        "event_id":"TWIGGS-20181101-001",
-        "location_name":"Twiggs County",
-        "event_date":"2018-11-01",
-        "GEOID":"13289",
-        "county_name":"Twiggs",
-        "municipality":null,
-        "event_type":"Construction Start",
-        "infrastructure_type":"Solar - Utility Scale",
-        "event_title":"Twiggs County Solar (GA Solar 4) Groundbreaking Ceremony",
-        "event_description":"State officials, Georgia Power, Georgia PSC, Twiggs County Commission, Origis Energy, and First Solar representatives gathered for ceremonial groundbreaking of the 200-megawatt GA Solar 4 project in Twiggs County. The $250 million project on 2,000 acres was expected to create 400 construction jobs and become the largest solar facility in the southeastern U.S. Construction was expected to take approximately one year.",
-        "project_name":"Twiggs County Solar (GA Solar 4)",
-        "utility_company":"Origis Energy",
-        "regulatory_body":null,
-        "outcome":"Construction commenced",
-        "event_sentiment":"Supportive",
-        "source_name":"Origis Energy",
-        "source_url":"https:\/\/www.origisenergy.com\/construction-start-of-largest-solar-plant-in-georgia-celebrated-in-twiggs-county\/",
-        "date_captured":"2025-12-18"
-    },
-    {
         "event_id":"TWIGGS-20180222-001",
         "location_name":"Twiggs County",
         "event_date":"2018-02-22",
