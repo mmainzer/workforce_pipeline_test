@@ -2760,26 +2760,6 @@
         "date_captured":"2025-12-18"
     },
     {
-        "event_id":"TWIGGS-20251020-001",
-        "location_name":"Twiggs County",
-        "event_date":"2025-10-20",
-        "GEOID":"13289",
-        "county_name":"Twiggs",
-        "municipality":null,
-        "event_type":"Construction Start",
-        "infrastructure_type":"Battery Storage",
-        "event_title":"Georgia Power Begins Construction of 200 MW Battery Storage System in Twiggs County",
-        "event_description":"Georgia Power announced construction has started on a 200-megawatt battery energy storage system (BESS) in Twiggs County, southeast of Macon. The project was approved by the Georgia PSC on September 4, 2025, and is expected to be completed in 2027. The facility will be adjacent to the existing Twiggs County Solar facility and will store excess solar energy for dispatch during peak demand periods.",
-        "project_name":"Twiggs BESS",
-        "utility_company":"Georgia Power",
-        "regulatory_body":"Georgia PSC",
-        "outcome":"Approved; Construction underway",
-        "event_sentiment":"Supportive",
-        "source_name":"Georgia Power Newsroom",
-        "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-begins-construction-of-newest-battery-storage-system-near-macon.html",
-        "date_captured":"2025-12-18"
-    },
-    {
         "event_id":"TWIGGS-20250904-001",
         "location_name":"Twiggs County",
         "event_date":"2025-09-04",
