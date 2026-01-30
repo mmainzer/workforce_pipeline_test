@@ -585,11 +585,11 @@
         "event_title":"Fort Stewart 13 MW BESS Demonstration Project in Development",
         "event_description":"Fort Stewart Army Installation has a 13 MW battery energy storage system (BESS) demonstration project in development to improve installation resilience and energy security.",
         "project_name":null,
-        "outcome":"Supportive",
-        "event_sentiment":"FALSE",
-        "source_name":"https:\/\/www.savannahnow.com\/",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Under Development",
+        "event_sentiment":"Supportive",
+        "source_name":"Savannah Morning News",
+        "source_url":"https:\/\/www.savannahnow.com\/",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"CHATTOOGA-20140701-001",
@@ -825,11 +825,11 @@
         "event_title":"Silicon Ranch Establishes Gopher Tortoise Sanctuary",
         "event_description":"Silicon Ranch developed and funded a private gopher tortoise sanctuary in partnership with Georgia Department of Natural Resources on company-owned lands in Clay County, relocating gopher tortoises from surrounding projects.",
         "project_name":null,
-        "outcome":"FALSE",
-        "event_sentiment":"Completed",
-        "source_name":"FALSE",
-        "source_url":"Silicon Ranch",
-        "date_captured":"https:\/\/www.siliconranch.com\/us-solar\/ga\/clay-solar-project\/"
+        "outcome":"Completed",
+        "event_sentiment":"Supportive",
+        "source_name":"Silicon Ranch",
+        "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/clay-solar-project\/",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"COFFEE-20230801-001",
@@ -985,11 +985,11 @@
         "event_title":"Coweta County Work Session on Solar Ordinance",
         "event_description":"The Coweta County Board of Commissioners held a work session to discuss the proposed solar energy system and facilities ordinance. Discussion focused on restrictions for rural conservation zoned land, setback requirements, and acreage caps. Commissioner Al Smith supported a 500-acre maximum for solar facilities.",
         "project_name":null,
-        "outcome":"Neutral",
-        "event_sentiment":"TRUE",
-        "source_name":"https:\/\/www.times-herald.com\/news\/county-continues-to-revise-proposed-solar-ordinance\/article_e14a6b7c-7157-11ef-8f68-9fc45fcc9ffc.html",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Ongoing",
+        "event_sentiment":"Neutral",
+        "source_name":"Times-Herald (Newnan)",
+        "source_url":"https:\/\/www.times-herald.com\/news\/county-continues-to-revise-proposed-solar-ordinance\/article_e14a6b7c-7157-11ef-8f68-9fc45fcc9ffc.html",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"COWETA-20241105-001",
@@ -1001,11 +1001,11 @@
         "event_title":"Coweta County Extends Solar Ordinance Public Hearing",
         "event_description":"The Coweta County Board of Commissioners extended the public hearing on the solar ordinance to their November 5 meeting. Commissioners continue to revise the draft ordinance addressing resident concerns about rural conservation land, decommissioning requirements, and chemical safety.",
         "project_name":null,
-        "outcome":"Neutral",
-        "event_sentiment":"TRUE",
-        "source_name":"https:\/\/www.times-herald.com\/news\/county-continues-to-revise-proposed-solar-ordinance\/article_e14a6b7c-7157-11ef-8f68-9fc45fcc9ffc.html",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Extended",
+        "event_sentiment":"Neutral",
+        "source_name":"Times-Herald (Newnan)",
+        "source_url":"https:\/\/www.times-herald.com\/news\/county-continues-to-revise-proposed-solar-ordinance\/article_e14a6b7c-7157-11ef-8f68-9fc45fcc9ffc.html",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"COWETA-20250123-001",
@@ -1017,11 +1017,11 @@
         "event_title":"Coweta County Schedules Next Solar Ordinance Public Hearing",
         "event_description":"Coweta County scheduled the next public hearing on the Solar Energy System and Facilities Ordinance for January 23, 2025 at 6pm. The county has not yet adopted a solar ordinance. Opdenergy has not filed for appropriate zoning for their proposed project.",
         "project_name":null,
-        "outcome":"Neutral",
-        "event_sentiment":"TRUE",
-        "source_name":"https:\/\/www.coweta.ga.us\/Home\/Components\/News\/News\/2004\/81",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Scheduled",
+        "event_sentiment":"Neutral",
+        "source_name":"Coweta County Government",
+        "source_url":"https:\/\/www.coweta.ga.us\/Home\/Components\/News\/News\/2004\/81",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"CRISP-20200101-001",
@@ -1113,11 +1113,11 @@
         "event_title":"DeKalb County Adopts Solar Energy System Ordinance O2018-06",
         "event_description":"DeKalb County adopted Ordinance O2018-06, a Solar Energy System Ordinance covering residential and commercial solar installations. The ordinance addresses permitting procedures, setbacks, historic district requirements, and encourages solar orientation in building design.",
         "project_name":null,
-        "outcome":"Supportive",
-        "event_sentiment":"FALSE",
-        "source_name":"https:\/\/dekalbcounty.org\/departments\/community-development\/solar-ordinance-information\/",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Approved",
+        "event_sentiment":"Supportive",
+        "source_name":"DeKalb County Government",
+        "source_url":"https:\/\/dekalbcounty.org\/departments\/community-development\/solar-ordinance-information\/",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"DODGE-20240730-001",
@@ -1385,11 +1385,11 @@
         "event_title":"Fayette County Full Commission Considers Solar Farm Moratorium",
         "event_description":"The Fayette County Board of Commissioners considered the one-year solar farm moratorium that was approved by the Development Committee on February 12. The moratorium was triggered by resident concerns about an 830-acre solar farm proposal and property value impacts.",
         "project_name":null,
-        "outcome":"Opposed",
-        "event_sentiment":"TRUE",
-        "source_name":"https:\/\/www.fayettefalcon.com\/2024\/02\/18\/development-committee-approved-moratorium-on-solar-farms\/",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Pending",
+        "event_sentiment":"Opposed",
+        "source_name":"Fayette Falcon",
+        "source_url":"https:\/\/www.fayettefalcon.com\/2024\/02\/18\/development-committee-approved-moratorium-on-solar-farms\/",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"FLOYD-20240829-001",
@@ -1833,11 +1833,11 @@
         "event_title":"Amazon Web Services Purchases 985-Acre Development Site in Lamar County",
         "event_description":"Amazon Web Services purchased a 985-acre development site in Lamar County for $270 million, signaling major data center development interest in the area. This purchase prompted the county to evaluate its commercial and industrial zoning codes.",
         "project_name":null,
-        "outcome":"Neutral",
-        "event_sentiment":"FALSE",
-        "source_name":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Purchased",
+        "event_sentiment":"Neutral",
+        "source_name":"GPB",
+        "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"LANIER-20131001-001",
@@ -2121,11 +2121,11 @@
         "event_title":"BOC Chair Addresses Solar Farm Rumors in Harrison Community",
         "event_description":"Madison County Board of Commissioners Chair addressed rumors about potential solar farm development in the Harrison community, confirming no formal proposals had been received. Any solar farm would require industrial zoning or conditional use approval. This came after neighboring Elbert County denied a major NextEra solar project in February 2024.",
         "project_name":null,
-        "outcome":"Neutral",
-        "event_sentiment":"TRUE",
-        "source_name":null,
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":null,
+        "event_sentiment":"Neutral",
+        "source_name":"Madison Journal Today",
+        "source_url":null,
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"MCINTOSH-20200701-001",
@@ -2169,11 +2169,11 @@
         "event_title":"Mitchell County Approves Solar Moratorium",
         "event_description":"The Mitchell County Commission approved a moratorium on licensing new solar projects after community opposition emerged to a proposed project in the southern part of the county. Residents raised concerns about noise, appearance, wildlife impact, and effects on the farming economy.",
         "project_name":null,
-        "outcome":"Opposed",
-        "event_sentiment":"TRUE",
-        "source_name":"https:\/\/albanyherald.com\/news\/mitchell-county-officials-to-decide-if-solar-industry-has-a-bright-future-there\/",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Approved",
+        "event_sentiment":"Opposed",
+        "source_name":"Albany Herald",
+        "source_url":"https:\/\/albanyherald.com\/news\/mitchell-county-officials-to-decide-if-solar-industry-has-a-bright-future-there\/",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"MITCHELL-20230601-001",
@@ -2185,11 +2185,11 @@
         "event_title":"Mitchell County Extends Solar Moratorium",
         "event_description":"The Mitchell County Commission extended the solar moratorium originally passed in February. The extension allows time for developing new ordinance regulations for open-air businesses in agricultural zones that would apply to solar facilities.",
         "project_name":null,
-        "outcome":"Opposed",
-        "event_sentiment":"TRUE",
-        "source_name":null,
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Extended",
+        "event_sentiment":"Opposed",
+        "source_name":"Albany Herald",
+        "source_url":null,
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"MITCHELL-20230701-001",
@@ -2249,11 +2249,11 @@
         "event_title":"Monroe County Passes Solar-Encouraging Ordinance",
         "event_description":"Monroe County passed an ordinance encouraging solar energy development. The ordinance established a permitting framework that attracted solar developer interest in the county.",
         "project_name":null,
-        "outcome":"Supportive",
-        "event_sentiment":"FALSE",
-        "source_name":"https:\/\/www.41nbc.com\/monroe-county-embraces-solar-energy-farm\/",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Approved",
+        "event_sentiment":"Supportive",
+        "source_name":"41NBC News",
+        "source_url":"https:\/\/www.41nbc.com\/monroe-county-embraces-solar-energy-farm\/",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"MONROE-20210504-001",
@@ -2345,11 +2345,11 @@
         "event_title":"Walton EMC and Silicon Ranch Partnership Announced for Meta Data Center",
         "event_description":"Walton EMC announced a contract with Silicon Ranch, one of the nation's largest independent solar power producers, to develop solar facilities to support Facebook's Newton Data Center with 100% renewable energy. Morgan Stanley is also involved in the landmark energy supply arrangement.",
         "project_name":null,
-        "outcome":"Supportive",
-        "event_sentiment":"FALSE",
-        "source_name":"https:\/\/www.waltonemc.com\/meta-partners-with-walton-emc-and-silicon-ranch-for-new-solar-projects\/",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Announced",
+        "event_sentiment":"Supportive",
+        "source_name":"Walton EMC",
+        "source_url":"https:\/\/www.waltonemc.com\/meta-partners-with-walton-emc-and-silicon-ranch-for-new-solar-projects\/",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"OGLETHORPE-20230301-001",
@@ -2361,11 +2361,11 @@
         "event_title":"Oglethorpe County Approves 6-Month Solar Moratorium",
         "event_description":"Oglethorpe County approved a 6-month moratorium on solar development to address deficiencies in existing ordinance regulations. Issues with runoff from existing solar installations affecting residents prompted the review.",
         "project_name":null,
-        "outcome":"Opposed",
-        "event_sentiment":"TRUE",
-        "source_name":null,
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Approved",
+        "event_sentiment":"Opposed",
+        "source_name":"The Oglethorpe Echo",
+        "source_url":null,
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"OGLETHORPE-20230401-001",
@@ -2377,11 +2377,11 @@
         "event_title":"Zoning Board Recommends Amended Solar Ordinance",
         "event_description":"The Oglethorpe County Zoning Board recommended an amended solar ordinance with enhanced protections including: 50% tree cover protection, specific buffers to inhibit runoff (Sections 712.03-712.04), tree removal specifications, 24-month vegetation regulation, surety bonds, and tax abatement consideration.",
         "project_name":null,
-        "outcome":"Mixed",
-        "event_sentiment":"TRUE",
-        "source_name":null,
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Recommended",
+        "event_sentiment":"Mixed",
+        "source_name":"The Oglethorpe Echo",
+        "source_url":null,
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"OGLETHORPE-20200701-001",
@@ -2441,11 +2441,11 @@
         "event_title":"City of Blackshear Implementing Solar on City Buildings",
         "event_description":"The City of Blackshear is implementing green initiatives including installation of solar panels on city buildings as part of broader sustainability efforts.",
         "project_name":null,
-        "outcome":"Supportive",
-        "event_sentiment":"FALSE",
-        "source_name":"https:\/\/piercecountyga.gov\/planning-zoning\/",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Ongoing",
+        "event_sentiment":"Supportive",
+        "source_name":"Pierce County Government",
+        "source_url":"https:\/\/piercecountyga.gov\/planning-zoning\/",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"POLK-20130725-001",
@@ -2729,11 +2729,11 @@
         "event_title":"Reidsville Implementing Green Initiatives Including Solar",
         "event_description":"The City of Reidsville is implementing green initiatives including solar panels on city buildings and partnership with local biomass plant. The city was recognized as a 'Green Community' by the Georgia Municipal Association.",
         "project_name":null,
-        "outcome":"Supportive",
-        "event_sentiment":"FALSE",
-        "source_name":"https:\/\/yupsolar.com\/solar-installer\/georgia\/tattnall\/reidsville\/",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Ongoing",
+        "event_sentiment":"Supportive",
+        "source_name":"Yup Solar",
+        "source_url":"https:\/\/yupsolar.com\/solar-installer\/georgia\/tattnall\/reidsville\/",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"TELFAIR-20200701-001",
@@ -2809,11 +2809,11 @@
         "event_title":"Thomas County Adopts Solar Ordinance After Moratorium",
         "event_description":"Thomas County adopted a solar ordinance after a moratorium period. The ordinance requires facilities over 200 acres to locate in commercial\/industrial zones only. Facilities 200 acres or less may receive conditional use approval in agricultural districts. Requirements include 100-foot setbacks from property lines and decommissioning bonds.",
         "project_name":null,
-        "outcome":"Neutral",
-        "event_sentiment":"TRUE",
-        "source_name":"https:\/\/www.canarymedia.com\/articles\/enn\/as-georgias-solar-growth-continues-one-county-puts-on-the-brakes",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Approved",
+        "event_sentiment":"Neutral",
+        "source_name":"Canary Media",
+        "source_url":"https:\/\/www.canarymedia.com\/articles\/enn\/as-georgias-solar-growth-continues-one-county-puts-on-the-brakes",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"THOMAS-20181000-001",
@@ -2825,11 +2825,11 @@
         "event_title":"Thomas County Imposes Indefinite Solar Moratorium",
         "event_description":"Thomas County imposed an indefinite moratorium on new solar projects after the first facility approved under the 2017 ordinance was deemed 'a disappointing example.' Concerns included inadequate buffers, inability to police annual bond renewals, and decommissioning responsibilities. The county had approximately 6 solar operations at the time. Commissioner Michael Stephenson noted setbacks 'looked closer than we had anticipated.'",
         "project_name":null,
-        "outcome":"Opposed",
-        "event_sentiment":"TRUE",
-        "source_name":"https:\/\/www.canarymedia.com\/articles\/enn\/as-georgias-solar-growth-continues-one-county-puts-on-the-brakes",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":"Approved - Indefinite",
+        "event_sentiment":"Opposed",
+        "source_name":"Canary Media",
+        "source_url":"https:\/\/www.canarymedia.com\/articles\/enn\/as-georgias-solar-growth-continues-one-county-puts-on-the-brakes",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"THOMAS-20181001-001",
@@ -2841,11 +2841,11 @@
         "event_title":"Thomas County Residents Raise Decommissioning and Bond Concerns",
         "event_description":"Community members and county officials raised concerns about solar facility management including: Who is responsible for repair and eventual disposal of panels? How to police annual bond renewals over 35-year project life? County Administrator Chester Hickey noted they were unaware multi-year bonds were unavailable.",
         "project_name":null,
-        "outcome":"Opposed",
-        "event_sentiment":"TRUE",
-        "source_name":"https:\/\/www.canarymedia.com\/articles\/enn\/as-georgias-solar-growth-continues-one-county-puts-on-the-brakes",
-        "source_url":"2025-12-17",
-        "date_captured":null
+        "outcome":null,
+        "event_sentiment":"Opposed",
+        "source_name":"Canary Media",
+        "source_url":"https:\/\/www.canarymedia.com\/articles\/enn\/as-georgias-solar-growth-continues-one-county-puts-on-the-brakes",
+        "date_captured":"2025-12-17"
     },
     {
         "event_id":"TIFT-20170201-001",
@@ -3758,5 +3758,149 @@
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-receives-approval-from-georgia-psc-for-five-new-solar-facilities.html",
         "date_captured":"2025-12-17"
+    },
+    {
+        "event_id":"COWETA-20250124-001",
+        "event_date":"2025-01-24",
+        "GEOID":"13077",
+        "location_name":"Coweta County",
+        "municipality":null,
+        "event_type":"Ordinance Approved",
+        "event_title":"Coweta County Approves Restrictive Solar Ordinance",
+        "event_description":"After months of public hearings and debates, Coweta County Board of Commissioners unanimously approved a new solar ordinance limiting solar farms to industrial zoning with a 500-acre cap. The ordinance was developed in response to Opdenergy's proposed 476 MW solar farm near Chattahoochee Bend State Park. A representative from Opdenergy stated the ordinance would effectively eliminate potential for large-scale solar farms in the county.",
+        "project_name":null,
+        "outcome":"Approved",
+        "event_sentiment":"Opposed",
+        "source_name":"Newnan Times-Herald",
+        "source_url":"https:\/\/www.times-herald.com\/news\/solar-energy-system-regulations-approved-by-commissioners\/article_9d1cda28-da90-11ef-8238-47684aed4111.html",
+        "date_captured":"2026-01-30"
+    },
+    {
+        "event_id":"FLOYD-20251125-001",
+        "event_date":"2025-11-25",
+        "GEOID":"13115",
+        "location_name":"Floyd County",
+        "municipality":null,
+        "event_type":"Project Rejection",
+        "event_title":"Floyd County Commission Rejects Isbell Road Solar Farm",
+        "event_description":"The Floyd County Commission voted 3-0 to reject a special-use permit for a solar farm on 40 acres of undeveloped land off Isbell Road near Silver Creek. Planning staff recommended denial, noting the land could be better suited for residential development due to proximity to nearby neighborhoods. The rejection was issued 'without prejudice,' allowing the property owner to resubmit a modified request.",
+        "project_name":null,
+        "outcome":"Denied",
+        "event_sentiment":"Opposed",
+        "source_name":"Rome News-Tribune",
+        "source_url":"https:\/\/www.northwestgeorgianews.com\/rome\/news\/local\/floyd-county-commission-rejects-solar-farm-chickens\/article_46232e78-239b-4891-9737-b7a470874662.html",
+        "date_captured":"2026-01-30"
+    },
+    {
+        "event_id":"STATEWIDE-20251124-001",
+        "event_date":"2025-11-24",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"PSC Staff Reports Question Georgia Power Capacity Projections",
+        "event_description":"Two separate PSC staff reports filed November 12 warned that Georgia Power may be overestimating capacity needs for data centers. The reports stated that if the market shifts or forecasted large loads do not materialize, residential customers would bear the costs. The reports were prepared as testimony ahead of the December 19 PSC decision on Georgia Power's 9,885 MW capacity request.",
+        "project_name":null,
+        "outcome":null,
+        "event_sentiment":"Neutral",
+        "source_name":"Georgia Public Broadcasting",
+        "source_url":"https:\/\/www.gpb.org\/news\/2025\/11\/24\/psc-staff-tells-commission-georgia-powers-request-for-new-capacity-could-cost",
+        "date_captured":"2026-01-30"
+    },
+    {
+        "event_id":"STATEWIDE-20251219-001",
+        "event_date":"2025-12-19",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"Georgia PSC Approves Historic 9885 MW Capacity Expansion",
+        "event_description":"The Georgia Public Service Commission voted unanimously 5-0 to approve Georgia Power's request for approximately 9,885 MW of new generation capacity. The approved portfolio includes more than 3,600 MW of combined cycle natural gas, more than 3,000 MW of battery energy storage systems (BESS), 350 MW of BESS plus solar, and more than 2,800 MW of power purchase agreements. The decision came after extensive public hearings with emotional opposition.",
+        "project_name":null,
+        "outcome":"Approved 5-0",
+        "event_sentiment":"Supportive",
+        "source_name":"Georgia Public Broadcasting",
+        "source_url":"https:\/\/www.gpb.org\/news\/2025\/12\/19\/georgia-today-public-service-commission-approves-energy-for-data-centers-endangered",
+        "date_captured":"2026-01-30"
+    },
+    {
+        "event_id":"LAURENS-20251219-001",
+        "event_date":"2025-12-19",
+        "GEOID":"13175",
+        "location_name":"Laurens County",
+        "municipality":null,
+        "event_type":"Georgia Power Procurement",
+        "event_title":"Georgia Power Laurens County Solar Plus Storage Project Approved by PSC",
+        "event_description":"As part of the December 19 PSC approval, Georgia Power received certification for a 200 MW solar facility paired with a 200 MW battery energy storage system (BESS) in Laurens County. This company-owned project is separate from the previously approved 225 MW CARES solar PPA.",
+        "project_name":"Laurens Solar Plus Storage",
+        "outcome":"Approved",
+        "event_sentiment":"Supportive",
+        "source_name":"Georgia Power",
+        "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-requests-certification-of-approximately-9900-mw-of-new-resources-from-the-georgia-psc.html",
+        "date_captured":"2026-01-30"
+    },
+    {
+        "event_id":"DOUGHERTY-20251219-001",
+        "event_date":"2025-12-19",
+        "GEOID":"13095",
+        "location_name":"Dougherty County",
+        "municipality":null,
+        "event_type":"Georgia Power Procurement",
+        "event_title":"Georgia Power Plant Mitchell Solar Plus Storage Project Approved by PSC",
+        "event_description":"As part of the December 19 PSC approval, Georgia Power received certification for a 150 MW solar facility paired with a 150 MW battery energy storage system (BESS) at the site of the former Plant Mitchell coal facility in Dougherty County. This repurposes a retired coal plant site for renewable energy.",
+        "project_name":"Plant Mitchell Solar Plus Storage",
+        "outcome":"Approved",
+        "event_sentiment":"Supportive",
+        "source_name":"Georgia Power",
+        "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-requests-certification-of-approximately-9900-mw-of-new-resources-from-the-georgia-psc.html",
+        "date_captured":"2026-01-30"
+    },
+    {
+        "event_id":"OGLETHORPE-20251101-001",
+        "event_date":"2025-11-01",
+        "GEOID":"13221",
+        "location_name":"Oglethorpe County",
+        "municipality":null,
+        "event_type":"Ordinance Approved",
+        "event_title":"Oglethorpe County Adopts Revised Solar Farm Ordinance",
+        "event_description":"Oglethorpe County Board of Commissioners approved a new solar farm amendment after a six-month moratorium. The revised ordinance strengthens regulations on setbacks, screening, and bonding requirements. Chairman Jay Paul called it 'a huge step in the right direction.' A Leeward Renewable Energy representative expressed disappointment, warning the company's planned expansion in the county is 'DOA' without variances.",
+        "project_name":null,
+        "outcome":"Approved",
+        "event_sentiment":"Opposed",
+        "source_name":"The Oglethorpe Echo",
+        "source_url":"https:\/\/www.theoglethorpeecho.com\/local-news\/solar-farm-ordinance-approved",
+        "date_captured":"2026-01-30"
+    },
+    {
+        "event_id":"STATEWIDE-20260128-001",
+        "event_date":"2026-01-28",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"Georgia Legislators Propose Data Center Moratorium and Restrictions",
+        "event_description":"Seven bills targeting data centers were introduced in the Georgia legislature, including HB 1012 by Rep. Ruwa Romman (D-Duluth) proposing a statewide moratorium on new data center construction until March 2027. Other bills would eliminate tax breaks or prohibit costs from being passed to residential customers. The bills respond to concerns about energy demand from data centers impacting solar and clean energy development.",
+        "project_name":null,
+        "outcome":null,
+        "event_sentiment":"Neutral",
+        "source_name":"Georgia Public Broadcasting",
+        "source_url":"https:\/\/www.gpb.org\/news\/2026\/01\/28\/resistance-data-centers-fuels-flood-of-georgia-bills-targeting-the-industry",
+        "date_captured":"2026-01-30"
+    },
+    {
+        "event_id":"HOUSTON-20251201-001",
+        "event_date":"2025-12-01",
+        "GEOID":"13153",
+        "location_name":"Houston County",
+        "municipality":null,
+        "event_type":"Other",
+        "event_title":"Houston County Solar Farm Features 1000 Sheep in Agrivoltaics Program",
+        "event_description":"Silicon Ranch's 68 MW Houston Solar Project along I-75 was highlighted for its large-scale agrivoltaics program featuring approximately 1,000 sheep grazing the 705-acre facility. The project, which provides clean energy to Georgia's electric membership cooperatives, demonstrates Silicon Ranch's commitment to regenerative land management. Half of the company's 22 Georgia solar farms are grazed by sheep.",
+        "project_name":"Houston Solar Project",
+        "outcome":"Operational",
+        "event_sentiment":"Supportive",
+        "source_name":"Georgia Public Broadcasting",
+        "source_url":"https:\/\/www.gpb.org\/news\/2025\/02\/19\/why-1000-sheep-graze-houston-county-solar-farm-and-why-it-helps-economy",
+        "date_captured":"2026-01-30"
     }
 ]
