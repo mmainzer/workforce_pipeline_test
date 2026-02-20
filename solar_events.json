@@ -4302,5 +4302,37 @@
         "source_name":"Felt Maps",
         "source_url":"https:\/\/felt.com\/explore\/power-plants-mcduffie-county-georgia",
         "date_captured":"2026-02-13"
+    },
+    {
+        "event_id":"STATEWIDE-20260204-001",
+        "event_date":"2026-02-04",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"Georgia PSC Rejects Reconsideration of December Capacity Expansion",
+        "event_description":"The Georgia Public Service Commission voted 3-2 along party lines to reject a petition from environmental groups requesting reconsideration of the December 19, 2025 capacity expansion approval. The petition challenged the PSC decision to certify approximately 9,885 MW of new generation including natural gas plants, battery storage, and solar facilities for Georgia Power. Commissioners Echols, Pridemore, and Robertson voted against reconsideration while Commissioners Blackmon and Heard dissented.",
+        "project_name":null,
+        "outcome":"Reconsideration denied 3-2",
+        "event_sentiment":"Supportive",
+        "source_name":"Atlanta Journal-Constitution",
+        "source_url":"https:\/\/www.ajc.com\/business\/2026\/02\/georgia-regulators-wont-revisit-approval-of-new-power-plants-for-data-centers\/",
+        "date_captured":"2026-02-20"
+    },
+    {
+        "event_id":"BACON-20251110-001",
+        "event_date":"2025-11-10",
+        "GEOID":"13005",
+        "location_name":"Bacon County",
+        "municipality":null,
+        "event_type":"Community Protest",
+        "event_title":"Bacon County Residents Oppose Silicon Ranch Solar Farm Proposal",
+        "event_description":"Residents of Bacon County held a community town hall meeting to voice opposition to a proposed Silicon Ranch solar farm. Attendees raised concerns about loss of agricultural land, potential impacts on property values, and the scale of the proposed project in a rural farming community. The meeting drew significant turnout from area landowners and residents who questioned whether utility-scale solar development was appropriate for the county.",
+        "project_name":"Silicon Ranch Bacon County",
+        "outcome":"Ongoing",
+        "event_sentiment":"Opposed",
+        "source_name":"WALB News",
+        "source_url":null,
+        "date_captured":"2026-02-20"
     }
 ]
