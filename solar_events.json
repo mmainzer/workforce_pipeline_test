@@ -4334,5 +4334,21 @@
         "source_name":"WALB News",
         "source_url":null,
         "date_captured":"2026-02-20"
+    },
+    {
+        "event_id":"BACON-20260225-001",
+        "event_date":"2026-02-25",
+        "GEOID":"13005",
+        "location_name":"Bacon County",
+        "municipality":null,
+        "event_type":"Public Hearing",
+        "event_title":"Packed Commissioners Meeting on Silicon Ranch Solar Farm Sparks Backlash",
+        "event_description":"At a packed Bacon County commissioners meeting, residents demanded answers about how the Silicon Ranch solar project moved forward and whether county leaders were transparent about the process. The project involves nearly 800 acres of land purchased for over $5.1 million, with Silicon Ranch planning to invest more than $300 million in partnership with Green Power EMC. Construction on the first phase is already underway, with panels reportedly being installed approximately 100 feet from some homes. After the meeting, commissioners said they had signed a memorandum of understanding with Silicon Ranch before adopting solar ordinances and formed a volunteer committee to gather information and make recommendations. Residents also raised concerns about a prior Silicon Ranch erosion damage lawsuit in Stewart County.",
+        "project_name":"Silicon Ranch Bacon County Energy + Agriculture",
+        "outcome":"Volunteer committee formed; ongoing opposition",
+        "event_sentiment":"Opposed",
+        "source_name":"WJCL \/ Solar Now",
+        "source_url":"https:\/\/now.solar\/2026\/02\/25\/solar-farm-plan-in-southeast-georgia-sparks-backlash-over-transparency-land-use-wjcl\/",
+        "date_captured":"2026-02-27"
     }
 ]
