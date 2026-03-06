@@ -4350,5 +4350,53 @@
         "source_name":"WJCL \/ Solar Now",
         "source_url":"https:\/\/now.solar\/2026\/02\/25\/solar-farm-plan-in-southeast-georgia-sparks-backlash-over-transparency-land-use-wjcl\/",
         "date_captured":"2026-02-27"
+    },
+    {
+        "event_id":"STATEWIDE-20260227-001",
+        "event_date":"2026-02-27",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"Georgia Balcony Solar Bill HB 1304 Sidelined After Utility Opposition",
+        "event_description":"House Bill 1304, introduced by Rep. Imani Barnes (D-Tucker) with bipartisan support, would have exempted portable plug-in solar devices from interconnection regulations, expanding solar access to renters and those without rooftops. The bill was heard in the Energy, Utilities & Telecommunications Committee but Chairman Don Parsons declined to bring it to a vote. Georgia Power director Wilson Mallard opposed blanket exemptions for small systems, and Georgia EMC cited lineman safety concerns. The bill will not advance this legislative session.",
+        "project_name":null,
+        "outcome":"Bill sidelined; not brought to committee vote",
+        "event_sentiment":"Opposed",
+        "source_name":"The Current Georgia",
+        "source_url":"https:\/\/thecurrentga.org\/2026\/02\/27\/georgia-balcony-solar-bill-sidelined\/",
+        "date_captured":"2026-03-06"
+    },
+    {
+        "event_id":"JASPER-20260226-001",
+        "event_date":"2026-02-26",
+        "GEOID":"13159",
+        "location_name":"Jasper County",
+        "municipality":null,
+        "event_type":"Public Hearing",
+        "event_title":"Jasper County Solar Ordinance Public Hearing Draws Strong Opposition",
+        "event_description":"The Jasper County Planning and Zoning Board held a public hearing on the proposed solar farm ordinance on February 26. Residents voiced strong opposition, raising concerns about environmental impacts to the Murder Creek ecosystem, potential runoff and pollution from land clearing, and the precedent that large industrial solar farms could set for future data centers and warehouses. No final decision was reached; a follow-up discussion is scheduled for March 12 at 6:00 PM before the Board of Commissioners.",
+        "project_name":"Shy Place Solar Park (EDP Renewables)",
+        "outcome":"No decision; follow-up hearing March 12",
+        "event_sentiment":"Opposed",
+        "source_name":"Taxpayer's Watchdog Group",
+        "source_url":"https:\/\/taxdogs.wordpress.com\/2026\/02\/27\/the-gist-of-the-solar-farm-hearing\/",
+        "date_captured":"2026-03-06"
+    },
+    {
+        "event_id":"BARTOW-20260306-001",
+        "event_date":"2026-03-06",
+        "GEOID":"13015",
+        "location_name":"Bartow County",
+        "municipality":"Cartersville",
+        "event_type":"Other",
+        "event_title":"Qcells Resumes Full Solar Panel Production at Georgia Factories",
+        "event_description":"Qcells announced its solar panel production is back to normal at its Georgia manufacturing facilities after a temporary pause caused by US Customs and Border Protection detaining shipments of solar cells and polysilicon under UFLPA enforcement. The company had furloughed approximately 1,000 workers across its Dalton and Cartersville plants in late 2025. The Cartersville factory is expected to reach 3.3 GW capacity for ingots, wafers, and cells by end of 2026. Combined with Dalton, the facilities will employ nearly 4,000 workers producing 8.4 GW of solar panels and components annually.",
+        "project_name":"Qcells Cartersville Manufacturing",
+        "outcome":"Production resumed; workforce expanding to 4,000",
+        "event_sentiment":"Supportive",
+        "source_name":"AltEnergyMag",
+        "source_url":"https:\/\/www.altenergymag.com\/news\/2026\/03\/06\/qcells-workforce-resumes-solar-panel-production-at-georgia-factories\/46862\/",
+        "date_captured":"2026-03-06"
     }
 ]
