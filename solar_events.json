@@ -4398,5 +4398,21 @@
         "source_name":"AltEnergyMag",
         "source_url":"https:\/\/www.altenergymag.com\/news\/2026\/03\/06\/qcells-workforce-resumes-solar-panel-production-at-georgia-factories\/46862\/",
         "date_captured":"2026-03-06"
+    },
+    {
+        "event_id":"STATEWIDE-20260306-002",
+        "event_date":"2026-03-06",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"Data Center Bills Cross Over Georgia Legislature on Crossover Day",
+        "event_description":"Three significant data center bills survived Crossover Day in the Georgia General Assembly, advancing from one chamber to the other. SB 410 would eliminate existing tax breaks for data centers. HB 559 would shorten the sunset on data center tax breaks from 2031 to 2026. HB 1012 would institute a statewide halt on data center construction, prohibiting local governments from issuing permits, licenses, or certificates for data center construction between July 1, 2026 and March 1, 2027. These bills reflect growing legislative pushback against data center expansion, which has been the primary driver of Georgia Powers massive capacity expansion including solar procurement.",
+        "project_name":null,
+        "outcome":"Bills crossed over; advancing to opposite chambers",
+        "event_sentiment":"Neutral\/Mixed",
+        "source_name":"Atlanta News First; AJC",
+        "source_url":"https:\/\/www.atlantanewsfirst.com\/2026\/03\/06\/bill-data-center-power-costs-property-tax-fights-highlight-georgias-crossover-day-crunch\/",
+        "date_captured":"2026-03-16"
     }
 ]
