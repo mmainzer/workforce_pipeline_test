@@ -4414,5 +4414,21 @@
         "source_name":"Atlanta News First; AJC",
         "source_url":"https:\/\/www.atlantanewsfirst.com\/2026\/03\/06\/bill-data-center-power-costs-property-tax-fights-highlight-georgias-crossover-day-crunch\/",
         "date_captured":"2026-03-16"
+    },
+    {
+        "event_id":"STATEWIDE-20260317-001",
+        "event_date":"2026-03-17",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"PSC Chairman Shaw Defends Data Center Expansion and Energy Capacity Plan",
+        "event_description":"Georgia PSC Chairman Jason Shaw published an op-ed in multiple Georgia newspapers defending the December 2025 decision to approve nearly 10,000 MW of new generation capacity for Georgia Power. Shaw revealed that 42% of approved capacity will come from battery storage and solar sources, with 58% from natural gas. He disclosed that the prospective large-load project pipeline, approximately 80% of which are data centers, has grown from 16,000 MW in 2023 to roughly 69,000 MW by December 2025. Shaw acknowledged the core risk: \"The biggest fear we have had from day one is what if these loads do not materialize.\" He also noted that Georgia Power and PSC staff negotiated a customer protection stipulation guaranteeing revenue in 2029-2031 to prevent a projected $20 monthly rate increase from materializing.",
+        "project_name":null,
+        "outcome":"Public defense of capacity expansion plan; customer protections negotiated",
+        "event_sentiment":"Supportive",
+        "source_name":"Moultrie Observer; Valdosta Daily Times; Atlanta News First",
+        "source_url":"https:\/\/moultrieobserver.com\/2026\/03\/17\/jason-shaw-georgia-does-it-right-with-data-centers\/",
+        "date_captured":"2026-03-20"
     }
 ]
