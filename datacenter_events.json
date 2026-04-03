@@ -4528,22 +4528,6 @@
         "date_captured":"2026-04-02"
     },
     {
-        "event_id":"COWETA-20260210-001",
-        "event_date":"2026-02-10",
-        "GEOID":"13077",
-        "location_name":"Coweta County",
-        "municipality":null,
-        "event_type":"Application Withdrawn",
-        "event_title":"Project Sail $17B Data Center Rezoning Application Withdrawn by Applicant",
-        "event_description":"Atlas Development\/Prologis withdrew the rezoning application for Project Sail, the proposed $17 billion, 600MW hyperscale data center campus on 831 acres in northwest Coweta County. The withdrawal came after months of sustained community opposition from Citizens for Rural Coweta, which gathered thousands of petition signatures and organized red-shirt protests at county commission meetings. The April 7 public hearing is now moot. The site was zoned Rural Conservation and required rezoning to Industrial for the project to proceed.",
-        "project_name":"Project Sail",
-        "outcome":"Withdrawn",
-        "event_sentiment":"Opposed",
-        "source_name":"Coweta County; Times-Herald; The Citizen",
-        "source_url":"https:\/\/www.coweta.ga.us\/Home\/Components\/News\/News\/2006\/81",
-        "date_captured":"2026-04-02"
-    },
-    {
         "event_id":"STATE-20260402-001",
         "event_date":"2026-04-02",
         "GEOID":"99999",
