@@ -4430,5 +4430,53 @@
         "source_name":"Moultrie Observer; Valdosta Daily Times; Atlanta News First",
         "source_url":"https:\/\/moultrieobserver.com\/2026\/03\/17\/jason-shaw-georgia-does-it-right-with-data-centers\/",
         "date_captured":"2026-03-20"
+    },
+    {
+        "event_id":"STATEWIDE-20260324-001",
+        "event_date":"2026-03-24",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"Georgia Power Procurement",
+        "event_title":"Georgia Power Awards Largest Distributed Generation Solar Procurement in History",
+        "event_description":"Georgia Power announced the completion of its largest distributed generation solar procurement, awarding over 110 MW of new third-party solar generation. The final tranche included 16 new contracts totaling 70 MW approved by the Georgia PSC, building on 12 earlier contracts adding 41 MW. Projects range from 250 kW to 6 MW each under long-term power purchase agreements. Two additional DG RFPs targeting 50 MW each are planned for 2026 and 2027, with projects expected online by 2028.",
+        "project_name":"2024 Distributed Generation RFP",
+        "outcome":"110+ MW awarded across 28 contracts",
+        "event_sentiment":"Supportive",
+        "source_name":"Georgia Power \/ Southern Company",
+        "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-awards-largest-distributed-generation-solar-procurement-in-company-history.html",
+        "date_captured":"2026-04-02"
+    },
+    {
+        "event_id":"JEFFERSON-20260331-001",
+        "event_date":"2026-03-31",
+        "GEOID":"13163",
+        "location_name":"Jefferson County",
+        "municipality":"Wadley",
+        "event_type":"Project Approval",
+        "event_title":"Georgia Power Breaks Ground on 260 MW Wadley Battery Storage System",
+        "event_description":"Georgia Power broke ground on a 260 MW \/ 1,040 MWh battery energy storage system in Jefferson County near Wadley, adjacent to the existing third-party owned Wadley solar facility and near existing transmission infrastructure. Members of the Jefferson County Board of Commissioners and Wadley City Council joined the ceremony. The project, constructed by Burns & McDonnell, is designed to dispatch stored energy over a four-hour period and is expected to be completed in 2027. This is in addition to four other BESS facilities totaling 765 MW nearing completion across Bibb, Cherokee, Floyd, and Lowndes counties.",
+        "project_name":"Wadley BESS",
+        "outcome":"Construction begun; completion expected 2027",
+        "event_sentiment":"Supportive",
+        "source_name":"Georgia Power \/ PR Newswire",
+        "source_url":"https:\/\/www.prnewswire.com\/news-releases\/georgia-power-begins-construction-of-newest-battery-storage-system-in-wadley-ga-302730157.html",
+        "date_captured":"2026-04-02"
+    },
+    {
+        "event_id":"STATEWIDE-20260402-001",
+        "event_date":"2026-04-02",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"Georgia 2026 Legislative Session Ends With Data Center Bills Stalled",
+        "event_description":"The Georgia General Assembly concluded its 2026 legislative session on Sine Die, April 2, with key data center energy legislation failing to complete passage. SB 410, which would have repealed data center sales tax exemptions and required data centers to cover infrastructure costs, passed the Senate 32-21 but sat in the House without committee hearings for weeks and appeared dead. HB 1063, which would have codified requirements preventing data center infrastructure costs from being passed to residential ratepayers, passed the House 159-5 but stalled in the Senate. The failure of these bills means the existing framework governing data center energy costs and tax incentives remains unchanged, preserving the status quo that has driven Georgia Powers massive capacity expansion including significant solar procurement.",
+        "project_name":null,
+        "outcome":"Key DC bills failed to pass both chambers; status quo preserved",
+        "event_sentiment":"Neutral\/Mixed",
+        "source_name":"WABE; Georgia Watch; Rough Draft Atlanta",
+        "source_url":"https:\/\/georgiawatch.org\/bill-to-scrap-data-center-tax-breaks-in-peril\/",
+        "date_captured":"2026-04-02"
     }
 ]
