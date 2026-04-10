@@ -4478,5 +4478,53 @@
         "source_name":"WABE; Georgia Watch; Rough Draft Atlanta",
         "source_url":"https:\/\/georgiawatch.org\/bill-to-scrap-data-center-tax-breaks-in-peril\/",
         "date_captured":"2026-04-02"
+    },
+    {
+        "event_id":"JASPER-20260312-001",
+        "event_date":"2026-03-12",
+        "GEOID":"13159",
+        "location_name":"Jasper County",
+        "municipality":null,
+        "event_type":"Public Hearing",
+        "event_title":"Jasper County P&Z Board Holds Final Discussion on Solar Farm Ordinance",
+        "event_description":"The Jasper County Planning and Zoning Board held a final discussion of the proposed solar farm ordinance on March 12 at 6:00 PM, following the February 26 public hearing where residents voiced strong opposition. The board reviewed community feedback regarding environmental concerns about the Murder Creek ecosystem and fears that solar farms would set a precedent for data centers and warehouses. The discussion preceded the ordinance moving to the Board of County Commissioners for formal action.",
+        "project_name":null,
+        "outcome":"Ordinance forwarded to BOC",
+        "event_sentiment":"Opposed",
+        "source_name":"Jasper County P&Z; Taxpayer's Watchdog Group",
+        "source_url":"https:\/\/taxdogs.wordpress.com\/2026\/02\/27\/the-gist-of-the-solar-farm-hearing\/",
+        "date_captured":"2026-04-10"
+    },
+    {
+        "event_id":"JASPER-20260406-001",
+        "event_date":"2026-04-06",
+        "GEOID":"13159",
+        "location_name":"Jasper County",
+        "municipality":null,
+        "event_type":"Ordinance Approved",
+        "event_title":"Jasper County Commissioners Add Solar Farms to Not Allowed Uses in Zoning",
+        "event_description":"The Jasper County Board of County Commissioners considered an ordinance amendment at their April 6 regular meeting that adds \"Not Allowed\" to the zoning description for Solar Farms, effectively prohibiting large-scale solar development in the county. The action follows months of sustained community opposition including a January town hall, February public hearing, and March P&Z discussion, all of which drew strong resident opposition to the proposed EDP Renewables Shy Place Solar Park and solar development generally.",
+        "project_name":"Shy Place Solar Park (EDP Renewables)",
+        "outcome":"Solar farms prohibited in zoning",
+        "event_sentiment":"Opposed",
+        "source_name":"Jasper County BOC Agenda",
+        "source_url":"https:\/\/jaspercountyga.org\/wp-content\/uploads\/2026\/03\/BOC-Agenda-April-6-2026.pdf",
+        "date_captured":"2026-04-10"
+    },
+    {
+        "event_id":"STATEWIDE-20260327-001",
+        "event_date":"2026-03-27",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"Environmental and Faith Groups Sue PSC Over Georgia Power Expansion Approval",
+        "event_description":"The Southern Environmental Law Center and Sierra Club, representing Georgia Interfaith Power & Light and member churches, filed a 42-page lawsuit in Fulton County Superior Court challenging the Georgia PSC approval of nearly 10 GW of new energy generation for Georgia Power. The groups argue GP never proved all new resources were needed as required by state law, and that overbuilding for data centers that lack signed contracts exposes ratepayers to higher bills. Georgia Power called the suit meritless. The challenge has implications for the renewable energy mix as groups contend more renewables should have been pursued over gas plants.",
+        "project_name":null,
+        "outcome":"Lawsuit filed; pending",
+        "event_sentiment":"Neutral",
+        "source_name":"The Current GA; WABE; AJC",
+        "source_url":"https:\/\/thecurrentga.org\/2026\/03\/27\/environmental-groups-sue-over-georgia-powers-energy-expansion-for-data-centers\/",
+        "date_captured":"2026-04-10"
     }
 ]
