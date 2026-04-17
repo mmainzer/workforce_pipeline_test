@@ -4526,5 +4526,37 @@
         "source_name":"The Current GA; WABE; AJC",
         "source_url":"https:\/\/thecurrentga.org\/2026\/03\/27\/environmental-groups-sue-over-georgia-powers-energy-expansion-for-data-centers\/",
         "date_captured":"2026-04-10"
+    },
+    {
+        "event_id":"STATEWIDE-20260407-001",
+        "event_date":"2026-04-07",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"Georgia PSC Unanimously Approves Customer Identified Resource Program for Corporate Clean Energy",
+        "event_description":"The Georgia Public Service Commission unanimously approved Georgia Power's Customer Identified Resource (CIR) program, also known as \"BYONCE\" (Bring Your Own Clean Energy). The program allows large commercial and industrial customers, including data center operators, to contract directly with renewable energy developers and connect clean energy projects (solar, battery, wind) to the grid. Companies pay Georgia Power a monthly tariff in exchange for renewable energy credits. The framework allows up to 3 GW of customer-identified resources through 2035, representing the majority of Georgia Power's plan to procure 4 GW of new renewables. The program is expected to open by summer 2026 and could help prevent data center growth from raising bills for other customers.",
+        "project_name":null,
+        "outcome":"Approved unanimously",
+        "event_sentiment":"Supportive",
+        "source_name":"Utility Dive; AJC; Canary Media; Grist",
+        "source_url":"https:\/\/www.utilitydive.com\/news\/regulators-approve-georgia-powers-byo-clean-resources-plan-for-large-loads\/817462\/",
+        "date_captured":"2026-04-17"
+    },
+    {
+        "event_id":"STATEWIDE-20260413-001",
+        "event_date":"2026-04-13",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"Other",
+        "event_title":"Southern Renewable Energy Association Launches Powering Georgia Initiative",
+        "event_description":"The Southern Renewable Energy Association officially launched \"Powering Georgia,\" a collaborative statewide initiative to promote affordable clean energy access for all Georgia residents. The initiative brings together stakeholders across the renewable energy sector to advance responsible development of solar energy, wind energy, and transmission solutions in the state.",
+        "project_name":null,
+        "outcome":"Initiative launched",
+        "event_sentiment":"Supportive",
+        "source_name":"PR Newswire; Middle Georgia CEO",
+        "source_url":"https:\/\/www.prnewswire.com\/news-releases\/southern-renewable-energy-association-launches-powering-georgia-initiative-302740842.html",
+        "date_captured":"2026-04-17"
     }
 ]
