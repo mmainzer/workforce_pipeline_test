@@ -4702,5 +4702,37 @@
         "source_name":"Data Center Dynamics; WWALS Watershed Coalition",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/12gw-data-center-campus-proposed-in-irwin-county-georgia\/",
         "date_captured":"2026-04-17"
+    },
+    {
+        "event_id":"TROUP-20260421-001",
+        "event_date":"2026-04-21",
+        "GEOID":"13285",
+        "location_name":"Troup County",
+        "municipality":"LaGrange",
+        "event_type":"Other",
+        "event_title":"Google Confirmed as End User for Project Pegasus; Announces $8B Expansion Plans and $1M Community Investment",
+        "event_description":"Google publicly confirmed it is the end user for Project Pegasus, the $8 billion, 270-acre data center campus at 411 Pegasus Parkway in LaGrange. Google will cover 100% of power and infrastructure costs and committed a $1 million donation to Groundswell SOUL (Save On Utilities Long-term) for senior and family utility efficiency upgrades. Existing Building A is targeting 2026 operation with Buildings B and C scheduled for 2029. The site was originally acquired by Thor Equities\/Form8tion in 2024; Google's identity had not been publicly confirmed until this announcement. This is Google's second Georgia data center (first is in Lithia Springs, Douglas County).",
+        "project_name":"Project Pegasus",
+        "outcome":"Tenant Disclosed \/ Expansion Announced",
+        "event_sentiment":"Supportive",
+        "source_name":"AJC; Atlanta News First; WSB-TV",
+        "source_url":"https:\/\/www.ajc.com\/business\/2026\/04\/what-is-georgias-project-pegasus-tech-giant-unveils-8-billion-answer\/",
+        "date_captured":"2026-04-24"
+    },
+    {
+        "event_id":"NEWTON-20260423-001",
+        "event_date":"2026-04-23",
+        "GEOID":"13217",
+        "location_name":"Newton County",
+        "municipality":null,
+        "event_type":"Tax Incentive Approved",
+        "event_title":"Joint Development Authority Unanimously Approves $3M Meta PILOT Dispersal Across Newton, Walton, Morgan, Jasper Counties",
+        "event_description":"The Joint Development Authority of Jasper, Morgan, Newton, and Walton counties voted unanimously on April 23, 2026 to disperse $3 million in Meta PILOT (Payment In Lieu Of Taxes) payments from Meta's Stanton Springs data center campus. The split: Newton County $1.125M (37.5%), Walton County $1.125M (37.5%), Morgan County $450K (15%), Jasper County $300K (10%). Meta is scheduled to pay $8 million total to the JDA in 2026 from its two completed data center projects, with additional dispersals to follow. Payment is ahead of schedule.",
+        "project_name":"Meta Stanton Springs",
+        "outcome":"Approved - $3M Disbursed",
+        "event_sentiment":"Supportive",
+        "source_name":"Rockdale Newton Citizen; The Covington News",
+        "source_url":"https:\/\/www.rockdalenewtoncitizen.com\/news\/meta-payments-to-joint-development-authority-ahead-of-schedule-8-million-to-be-paid-in\/article_8db2cd6c-82d3-4a82-9e0a-09ca1c8de8ba.html",
+        "date_captured":"2026-04-24"
     }
 ]
