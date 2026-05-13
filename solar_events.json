@@ -4622,5 +4622,37 @@
         "source_name":"GlobeNewsWire",
         "source_url":"https:\/\/www.globenewswire.com\/news-release\/2026\/04\/23\/3280066\/0\/en\/VPS-and-Kia-Georgia-Complete-Landmark-Automotive-Hail-Protection-and-Solar-Canopy-Project.html",
         "date_captured":"2026-04-24"
+    },
+    {
+        "event_id":"BARTOW-20260427-001",
+        "event_date":"2026-04-27",
+        "GEOID":"13015",
+        "location_name":"Bartow County",
+        "municipality":null,
+        "event_type":"Public Hearing",
+        "event_title":"Bartow Planning Commission Recommends Approval 4-2 of DG Kingston Farms Solar CUP",
+        "event_description":"The Bartow County Planning Commission voted 4-2 to recommend approval of a conditional use permit for a solar generation facility on A-1 (agricultural) zoned land at 211 Hall Station Road. Applicant DG Kingston Farms LLC proposes a roughly 25-acre solar footprint on a ~270-acre tract, with power for personal use and resale to Georgia Power; screening and sound barriers were required. Adjacent landowner Julian Saul (1,750 acres) opposed citing viewshed, hunting habitat, missing renderings, and sound concerns. Final decision by Sole Commissioner Steve Taylor scheduled for May 13, 2026.",
+        "project_name":"DG Kingston Farms Solar (Hall Station Road)",
+        "outcome":"Recommended approval 4-2; BOC decision May 13",
+        "event_sentiment":"Mixed",
+        "source_name":"Daily Tribune News",
+        "source_url":"https:\/\/www.daily-tribune.com\/news\/bcpc-green-lights-solar-farm\/article_7290eddf-5487-5f62-b9c1-bb5995e29a39.html",
+        "date_captured":"2026-05-09"
+    },
+    {
+        "event_id":"SUMTER-20260428-001",
+        "event_date":"2026-04-28",
+        "GEOID":"13261",
+        "location_name":"Sumter County",
+        "municipality":"Plains",
+        "event_type":"Other",
+        "event_title":"Plains Agrivoltaics Research Site Featured in The Current GA Farm Bill Coverage",
+        "event_description":"The Current GA published a feature on federal solar-funding obstacles for farmers that centered on the existing Plains, Georgia agrivoltaics research site \u2014 a ~7-acre, 3,800-panel, 1.3 MW solar installation on Jimmy Carter family peanut\/soybean land. UGA College of Agricultural and Environmental Sciences researchers are testing pollinator habitat (red clover, wildflowers) at the site, originally developed by SolAmerica Energy. Logged for context only \u2014 not weighted in county sentiment modeling per analyst direction.",
+        "project_name":"Plains Agrivoltaics (Carter Farms \/ SolAmerica)",
+        "outcome":"Coverage \/ research feature",
+        "event_sentiment":"Neutral",
+        "source_name":"The Current GA",
+        "source_url":"https:\/\/thecurrentga.org\/2026\/04\/28\/trump-is-blocking-solar-for-farmers-can-the-farm-bill-fix-that\/",
+        "date_captured":"2026-05-09"
     }
 ]
