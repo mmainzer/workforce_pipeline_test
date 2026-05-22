@@ -13,7 +13,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/appling-solar-farm\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.7492184669,
+        "Longitude":-82.2889221919
     },
     {
         "event_id":"APPLING-20200401-001",
@@ -29,7 +31,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/appling-solar-farm\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.7492184669,
+        "Longitude":-82.2889221919
     },
     {
         "event_id":"BACON-20200101-001",
@@ -45,7 +49,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5536707452,
+        "Longitude":-82.452637616
     },
     {
         "event_id":"BANKS-20240730-001",
@@ -61,7 +67,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2024\/07\/30\/3m-in-federal-money-will-help-ga-farms-and-businesses-clean-energy-saving-money",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.3543108964,
+        "Longitude":-83.4971968276
     },
     {
         "event_id":"BARTOW-20230111-001",
@@ -77,7 +85,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia.org",
         "source_url":"https:\/\/georgia.org\/press-release\/qcells-supplier-invest-147-million-cartersville-manufacturing-facility",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"BARTOW-20230323-001",
@@ -93,7 +103,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia.org",
         "source_url":"https:\/\/georgia.org\/press-release\/qcells-supplier-invest-147-million-cartersville-manufacturing-facility",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"BENHILL-20200101-001",
@@ -109,7 +121,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.7598209989,
+        "Longitude":-83.2203966335
     },
     {
         "event_id":"BIBB-20230701-001",
@@ -125,7 +139,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.8064948932,
+        "Longitude":-83.6974023774
     },
     {
         "event_id":"BIBB-20250601-001",
@@ -141,7 +157,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.8064948932,
+        "Longitude":-83.6974023774
     },
     {
         "event_id":"BROOKS-20240901-001",
@@ -157,7 +175,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WCTV",
         "source_url":"https:\/\/www.wctv.tv\/2024\/09\/11\/brooks-county-residents-fed-up-with-expanding-solar-farms\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8418919155,
+        "Longitude":-83.5801959046
     },
     {
         "event_id":"BROOKS-20240911-001",
@@ -173,7 +193,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WCTV",
         "source_url":"https:\/\/www.wctv.tv\/2024\/09\/11\/brooks-county-residents-fed-up-with-expanding-solar-farms\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8418919155,
+        "Longitude":-83.5801959046
     },
     {
         "event_id":"BROOKS-20240101-001",
@@ -189,7 +211,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WCTV",
         "source_url":"https:\/\/www.wctv.tv\/2024\/09\/11\/brooks-county-residents-fed-up-with-expanding-solar-farms\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8418919155,
+        "Longitude":-83.5801959046
     },
     {
         "event_id":"BROOKS-20200101-001",
@@ -205,7 +229,9 @@
         "event_sentiment":"Neutral",
         "source_name":"WCTV",
         "source_url":"https:\/\/www.wctv.tv\/2024\/09\/11\/brooks-county-residents-fed-up-with-expanding-solar-farms\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8418919155,
+        "Longitude":-83.5801959046
     },
     {
         "event_id":"BRYAN-20200101-001",
@@ -221,7 +247,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.0131622318,
+        "Longitude":-81.4421155825
     },
     {
         "event_id":"BULLOCH-20180901-001",
@@ -237,7 +265,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Statesboro Herald",
         "source_url":"https:\/\/www.statesboroherald.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.3967498564,
+        "Longitude":-81.7430098282
     },
     {
         "event_id":"BULLOCH-20180101-001",
@@ -253,7 +283,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Statesboro Herald",
         "source_url":"https:\/\/www.statesboroherald.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.3967498564,
+        "Longitude":-81.7430098282
     },
     {
         "event_id":"BULLOCH-20190101-001",
@@ -269,7 +301,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.3967498564,
+        "Longitude":-81.7430098282
     },
     {
         "event_id":"BURKE-20211201-001",
@@ -285,7 +319,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.augustachronicle.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0611857682,
+        "Longitude":-82.0008271982
     },
     {
         "event_id":"BURKE-20230101-001",
@@ -301,7 +337,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.augustachronicle.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0611857682,
+        "Longitude":-82.0008271982
     },
     {
         "event_id":"BURKE-20230701-001",
@@ -317,7 +355,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.augustachronicle.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0611857682,
+        "Longitude":-82.0008271982
     },
     {
         "event_id":"BURKE-20191001-001",
@@ -333,7 +373,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.augustachronicle.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0611857682,
+        "Longitude":-82.0008271982
     },
     {
         "event_id":"BURKE-20200101-001",
@@ -349,7 +391,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.augustachronicle.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0611857682,
+        "Longitude":-82.0008271982
     },
     {
         "event_id":"BURKE-20190101-001",
@@ -365,7 +409,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.augustachronicle.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0611857682,
+        "Longitude":-82.0008271982
     },
     {
         "event_id":"BURKE-20200101-002",
@@ -381,7 +427,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.augustachronicle.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0611857682,
+        "Longitude":-82.0008271982
     },
     {
         "event_id":"CALHOUN-20211215-001",
@@ -397,7 +445,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/lancaster-solar-farm\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5292175022,
+        "Longitude":-84.6244964282
     },
     {
         "event_id":"CALHOUN-20201201-001",
@@ -413,7 +463,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Solar Power World",
         "source_url":"https:\/\/www.solarpowerworldonline.com\/2020\/12\/construction-continues-on-solar-farms-to-support-facebooks-huge-data-center-in-georgia\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5292175022,
+        "Longitude":-84.6244964282
     },
     {
         "event_id":"CAMDEN-20150921-001",
@@ -429,7 +481,9 @@
         "event_sentiment":"Supportive",
         "source_name":"News4Jax",
         "source_url":"https:\/\/www.news4jax.com\/news\/2015\/09\/21\/georgia-power-to-build-solar-farm-at-kings-bay\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.9224967213,
+        "Longitude":-81.6362741899
     },
     {
         "event_id":"CAMDEN-20161201-001",
@@ -445,7 +499,9 @@
         "event_sentiment":"Supportive",
         "source_name":"News4Jax",
         "source_url":"https:\/\/www.news4jax.com\/news\/2015\/09\/21\/georgia-power-to-build-solar-farm-at-kings-bay\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.9224967213,
+        "Longitude":-81.6362741899
     },
     {
         "event_id":"CAMDEN-20200101-001",
@@ -461,7 +517,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.9224967213,
+        "Longitude":-81.6362741899
     },
     {
         "event_id":"CANDLER-20250217-001",
@@ -477,7 +535,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WTOC",
         "source_url":"https:\/\/www.wtoc.com\/2025\/02\/17\/candler-county-officials-hold-meeting-discuss-solar-farm\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.4034196505,
+        "Longitude":-82.0736743513
     },
     {
         "event_id":"CANDLER-20251029-001",
@@ -493,7 +553,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Metter Advertiser",
         "source_url":"https:\/\/www.metteradvertiser.com\/articles\/headlines\/silicon-ranch-proposes-4m-community-benefit\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.4034196505,
+        "Longitude":-82.0736743513
     },
     {
         "event_id":"CANDLER-20200101-001",
@@ -509,7 +571,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WTOC",
         "source_url":"https:\/\/www.wtoc.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.4034196505,
+        "Longitude":-82.0736743513
     },
     {
         "event_id":"CHATHAM-20251201-001",
@@ -525,7 +589,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Savannah Morning News",
         "source_url":"https:\/\/www.savannahnow.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.9738870247,
+        "Longitude":-81.0938281893
     },
     {
         "event_id":"CHATHAM-20250301-001",
@@ -541,7 +607,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Savannah Morning News",
         "source_url":"https:\/\/www.savannahnow.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.9738870247,
+        "Longitude":-81.0938281893
     },
     {
         "event_id":"CHATHAM-20200101-001",
@@ -557,7 +625,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/residential\/save-money-and-energy\/products-programs\/residential-solar-solutions\/community-solar.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.9738870247,
+        "Longitude":-81.0938281893
     },
     {
         "event_id":"CHATHAM-20200101-002",
@@ -573,7 +643,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Savannah Morning News",
         "source_url":"https:\/\/www.savannahnow.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.9738870247,
+        "Longitude":-81.0938281893
     },
     {
         "event_id":"CHATHAM-20250101-001",
@@ -589,7 +661,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Savannah Morning News",
         "source_url":"https:\/\/www.savannahnow.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.9738870247,
+        "Longitude":-81.0938281893
     },
     {
         "event_id":"CHATTOOGA-20140701-001",
@@ -605,7 +679,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Chattanooga Times Free Press",
         "source_url":"https:\/\/www.timesfreepress.com\/news\/local\/story\/2014\/jul\/11\/lyerly-solar-farm-part-of-state-sun-power-target\/251963\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.4749929099,
+        "Longitude":-85.3453456675
     },
     {
         "event_id":"CHATTOOGA-20190701-001",
@@ -621,7 +697,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Chattooga 1180 Radio",
         "source_url":"https:\/\/chattooga1180.com\/ucb-assisting-with-solar-project-in-chattooga-county\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.4749929099,
+        "Longitude":-85.3453456675
     },
     {
         "event_id":"CHATTOOGA-20190701-002",
@@ -637,7 +715,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Chattooga 1180 Radio",
         "source_url":"https:\/\/chattooga1180.com\/solar-plant-in-chattooga-county-transfers-owners\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.4749929099,
+        "Longitude":-85.3453456675
     },
     {
         "event_id":"CHEROKEE-20220701-001",
@@ -653,7 +733,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/construction-now-underway-on-765-mw-of-new-battery-energy-storage-systems-across-georgia.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2439485549,
+        "Longitude":-84.4762447419
     },
     {
         "event_id":"CHEROKEE-20230701-001",
@@ -669,7 +751,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/construction-now-underway-on-765-mw-of-new-battery-energy-storage-systems-across-georgia.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2439485549,
+        "Longitude":-84.4762447419
     },
     {
         "event_id":"CHEROKEE-20250404-001",
@@ -685,7 +769,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/construction-now-underway-on-765-mw-of-new-battery-energy-storage-systems-across-georgia.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2439485549,
+        "Longitude":-84.4762447419
     },
     {
         "event_id":"CLARKE-20190101-001",
@@ -701,7 +787,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Online Athens",
         "source_url":"https:\/\/www.onlineathens.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.951243409,
+        "Longitude":-83.3673171393
     },
     {
         "event_id":"CLARKE-20201101-001",
@@ -717,7 +805,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Online Athens",
         "source_url":"https:\/\/www.onlineathens.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.951243409,
+        "Longitude":-83.3673171393
     },
     {
         "event_id":"CLARKE-20210101-001",
@@ -733,7 +823,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Online Athens",
         "source_url":"https:\/\/www.onlineathens.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.951243409,
+        "Longitude":-83.3673171393
     },
     {
         "event_id":"CLARKE-20250601-001",
@@ -749,7 +841,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Online Athens",
         "source_url":"https:\/\/www.onlineathens.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.951243409,
+        "Longitude":-83.3673171393
     },
     {
         "event_id":"CLARKE-20220101-001",
@@ -765,7 +859,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Online Athens",
         "source_url":"https:\/\/www.onlineathens.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.951243409,
+        "Longitude":-83.3673171393
     },
     {
         "event_id":"CLAY-20181030-001",
@@ -781,7 +877,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Early County News",
         "source_url":"https:\/\/www.earlycountynews.com\/articles\/clay-county-site-for-new-solar-project\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.6262372007,
+        "Longitude":-84.9800197172
     },
     {
         "event_id":"CLAY-20221201-001",
@@ -797,7 +895,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/clay-solar-project\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.6262372007,
+        "Longitude":-84.9800197172
     },
     {
         "event_id":"CLAY-20230425-001",
@@ -813,7 +913,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/clay-solar-dedication",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.6262372007,
+        "Longitude":-84.9800197172
     },
     {
         "event_id":"CLAY-20220101-001",
@@ -829,7 +931,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/clay-solar-project\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.6262372007,
+        "Longitude":-84.9800197172
     },
     {
         "event_id":"COFFEE-20230801-001",
@@ -845,7 +949,9 @@
         "event_sentiment":"Neutral",
         "source_name":"WALB",
         "source_url":"https:\/\/www.walb.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5492457456,
+        "Longitude":-82.8491606831
     },
     {
         "event_id":"COFFEE-20250905-001",
@@ -861,7 +967,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-receives-approval-from-georgia-psc-for-five-new-solar-facilities.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5492457456,
+        "Longitude":-82.8491606831
     },
     {
         "event_id":"COLQUITT-20200601-001",
@@ -877,7 +985,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.1884065967,
+        "Longitude":-83.7688632174
     },
     {
         "event_id":"COLQUITT-20211201-001",
@@ -893,7 +1003,9 @@
         "event_sentiment":"Supportive",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2021\/12\/16\/south-georgia-adds-three-new-solar-farms",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.1884065967,
+        "Longitude":-83.7688632174
     },
     {
         "event_id":"COLUMBIA-20200101-001",
@@ -909,7 +1021,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.augustachronicle.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COLUMBIA-20250901-001",
@@ -925,7 +1039,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.augustachronicle.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COLUMBIA-20250801-001",
@@ -941,7 +1057,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.augustachronicle.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COWETA-20240901-001",
@@ -957,7 +1075,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Times-Herald (Newnan)",
         "source_url":"https:\/\/www.times-herald.com\/news\/county-continues-to-revise-proposed-solar-ordinance\/article_e14a6b7c-7157-11ef-8f68-9fc45fcc9ffc.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"COWETA-20240912-001",
@@ -973,7 +1093,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Times-Herald (Newnan)",
         "source_url":"https:\/\/www.times-herald.com\/news\/county-continues-to-revise-proposed-solar-ordinance\/article_e14a6b7c-7157-11ef-8f68-9fc45fcc9ffc.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"COWETA-20241024-001",
@@ -989,7 +1111,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Times-Herald (Newnan)",
         "source_url":"https:\/\/www.times-herald.com\/news\/county-continues-to-revise-proposed-solar-ordinance\/article_e14a6b7c-7157-11ef-8f68-9fc45fcc9ffc.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"COWETA-20241105-001",
@@ -1005,7 +1129,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Times-Herald (Newnan)",
         "source_url":"https:\/\/www.times-herald.com\/news\/county-continues-to-revise-proposed-solar-ordinance\/article_e14a6b7c-7157-11ef-8f68-9fc45fcc9ffc.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"COWETA-20250123-001",
@@ -1021,7 +1147,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Coweta County Government",
         "source_url":"https:\/\/www.coweta.ga.us\/Home\/Components\/News\/News\/2004\/81",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"CRISP-20200101-001",
@@ -1037,7 +1165,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Cordele Dispatch",
         "source_url":"https:\/\/www.cordeledispatch.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.9229273294,
+        "Longitude":-83.7680852812
     },
     {
         "event_id":"CRISP-20200101-002",
@@ -1053,7 +1183,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Crisp County Power Commission",
         "source_url":"https:\/\/www.cordeledispatch.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.9229273294,
+        "Longitude":-83.7680852812
     },
     {
         "event_id":"DECATUR-20150301-001",
@@ -1069,7 +1201,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Southern Power",
         "source_url":"https:\/\/www.southerncompany.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8782959667,
+        "Longitude":-84.5791133912
     },
     {
         "event_id":"DECATUR-20150301-002",
@@ -1085,7 +1219,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Southern Power",
         "source_url":"https:\/\/www.southerncompany.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8782959667,
+        "Longitude":-84.5791133912
     },
     {
         "event_id":"DECATUR-20200101-001",
@@ -1101,7 +1237,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Post-Searchlight",
         "source_url":"https:\/\/www.thepostsearchlight.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8782959667,
+        "Longitude":-84.5791133912
     },
     {
         "event_id":"DEKALB-20180301-001",
@@ -1117,7 +1255,9 @@
         "event_sentiment":"Supportive",
         "source_name":"DeKalb County Government",
         "source_url":"https:\/\/dekalbcounty.org\/departments\/community-development\/solar-ordinance-information\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7715120512,
+        "Longitude":-84.2263564668
     },
     {
         "event_id":"DODGE-20240730-001",
@@ -1133,7 +1273,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2024\/07\/30\/3m-in-federal-money-will-help-ga-farms-and-businesses-clean-energy-saving-money",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.1720727437,
+        "Longitude":-83.1683783069
     },
     {
         "event_id":"DOOLY-20200101-001",
@@ -1149,7 +1291,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Dooly County IDA",
         "source_url":"http:\/\/www.doolycountyida.com\/solar-power.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.1571780525,
+        "Longitude":-83.7987748926
     },
     {
         "event_id":"DOOLY-20200101-002",
@@ -1165,7 +1309,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Dooly County IDA",
         "source_url":"http:\/\/www.doolycountyida.com\/solar-power.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.1571780525,
+        "Longitude":-83.7987748926
     },
     {
         "event_id":"DOUGHERTY-20180801-001",
@@ -1181,7 +1327,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Albany Herald",
         "source_url":"https:\/\/www.albanyherald.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5334198601,
+        "Longitude":-84.2162546468
     },
     {
         "event_id":"DOUGHERTY-20201201-001",
@@ -1197,7 +1345,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Albany Herald",
         "source_url":"https:\/\/www.albanyherald.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5334198601,
+        "Longitude":-84.2162546468
     },
     {
         "event_id":"DOUGHERTY-20230101-001",
@@ -1213,7 +1363,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Albany Herald",
         "source_url":"https:\/\/www.albanyherald.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5334198601,
+        "Longitude":-84.2162546468
     },
     {
         "event_id":"DOUGLAS-20170701-001",
@@ -1229,7 +1381,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Times-Georgian",
         "source_url":"https:\/\/www.times-georgian.com\/solar-farm-being-developed-in-douglas\/article_620bcc32-4e06-5e3e-a81f-385b81ab961d.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7018905526,
+        "Longitude":-84.768007883
     },
     {
         "event_id":"DOUGLAS-20180501-001",
@@ -1245,7 +1399,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Times-Georgian",
         "source_url":"https:\/\/www.times-georgian.com\/solar-farm-being-developed-in-douglas\/article_620bcc32-4e06-5e3e-a81f-385b81ab961d.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7018905526,
+        "Longitude":-84.768007883
     },
     {
         "event_id":"EARLY-20190228-001",
@@ -1261,7 +1417,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Governor's Office Press Release",
         "source_url":"https:\/\/gov.georgia.gov\/press-releases\/2019-02-28\/governor-kemp-announces-150-million-solar-investment-early-county",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.3228027158,
+        "Longitude":-84.9037185551
     },
     {
         "event_id":"EARLY-20191101-001",
@@ -1277,7 +1435,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/bancroft-station-solar-farm\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.3228027158,
+        "Longitude":-84.9037185551
     },
     {
         "event_id":"EARLY-20211015-001",
@@ -1293,7 +1453,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/silicon-ranch-and-pcl-construction-partnering-to-construct-20-megawatt-solar-farm-for-green-power-emc-in-early-county-georgia\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.3228027158,
+        "Longitude":-84.9037185551
     },
     {
         "event_id":"EARLY-20211201-001",
@@ -1309,7 +1471,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2021\/12\/16\/south-georgia-adds-three-new-solar-farms",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.3228027158,
+        "Longitude":-84.9037185551
     },
     {
         "event_id":"EFFINGHAM-20220517-001",
@@ -1325,7 +1489,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Effingham County Document Center",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.3672226087,
+        "Longitude":-81.3412763727
     },
     {
         "event_id":"ELBERT-20240126-001",
@@ -1341,7 +1507,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WYFF4",
         "source_url":"https:\/\/www.wyff4.com\/article\/committee-recommends-denial-solar-farm-elbert-county-georgia\/46544533",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.1167841304,
+        "Longitude":-82.8400061602
     },
     {
         "event_id":"ELBERT-20241015-001",
@@ -1357,7 +1525,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Elberton Star",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.1167841304,
+        "Longitude":-82.8400061602
     },
     {
         "event_id":"FAYETTE-20240212-001",
@@ -1373,7 +1543,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Fayette Falcon",
         "source_url":"https:\/\/www.fayettefalcon.com\/2024\/02\/18\/development-committee-approved-moratorium-on-solar-farms\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"FAYETTE-20240227-001",
@@ -1389,7 +1561,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Fayette Falcon",
         "source_url":"https:\/\/www.fayettefalcon.com\/2024\/02\/18\/development-committee-approved-moratorium-on-solar-farms\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"FLOYD-20240829-001",
@@ -1405,7 +1579,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-determines-locations-for-500-mw-of-new-battery-energy-storage-systems-approved-in-2023-irp-update.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20241201-001",
@@ -1421,7 +1597,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Northwest Georgia News",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FULTON-20200901-001",
@@ -1437,7 +1615,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Fulton County Government",
         "source_url":"https:\/\/fultoncountyga.gov\/News\/2025\/06\/11\/Happening-in-Fulton-Fulton-County-Powers-Ahead-with-Solar-Panel-Expansion",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"FULTON-20210901-001",
@@ -1453,7 +1633,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Fulton County Government",
         "source_url":"https:\/\/fultoncountyga.gov\/News\/2025\/06\/11\/Happening-in-Fulton-Fulton-County-Powers-Ahead-with-Solar-Panel-Expansion",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"FULTON-20240820-001",
@@ -1469,7 +1651,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Cherry Street Energy",
         "source_url":"https:\/\/www.cherrystreet.com\/press-releases\/fulton-county-solar-battery-storage",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"FULTON-20240901-001",
@@ -1485,7 +1669,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Fulton County Government",
         "source_url":"https:\/\/fulton.legistar.com\/ViewReport.ashx?M=R&N=Master&GID=817&ID=7053016",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"FULTON-20250529-001",
@@ -1501,7 +1687,9 @@
         "event_sentiment":"Supportive",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/06\/02\/we-drove-them-here-fulton-county-partners-georgia-company-on-solar-panel-expansion",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"FULTON-20250530-001",
@@ -1517,7 +1705,9 @@
         "event_sentiment":"Supportive",
         "source_name":"AJC",
         "source_url":"https:\/\/www.ajc.com\/business\/2025\/06\/fulton-county-adding-more-solar-panels-on-its-facilities-in-major-expansion\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"GLYNN-20160701-001",
@@ -1533,7 +1723,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Golden Isles Development Authority",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.2132964716,
+        "Longitude":-81.4936241962
     },
     {
         "event_id":"GLYNN-20200701-001",
@@ -1549,7 +1741,9 @@
         "event_sentiment":"Supportive",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2024\/07\/30\/3m-in-federal-money-will-help-ga-farms-and-businesses-clean-energy-saving-money",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.2132964716,
+        "Longitude":-81.4936241962
     },
     {
         "event_id":"GORDON-20220701-001",
@@ -1565,7 +1759,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Northwest Georgia News",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.5031936991,
+        "Longitude":-84.8759115165
     },
     {
         "event_id":"HANCOCK-20240701-001",
@@ -1581,7 +1777,9 @@
         "event_sentiment":"Neutral",
         "source_name":"AES Project Website",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.2703897913,
+        "Longitude":-83.0007438839
     },
     {
         "event_id":"HOUSTON-20210701-001",
@@ -1597,7 +1795,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/02\/19\/why-1000-sheep-graze-houston-county-solar-farm-and-why-it-helps-economy",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.458922754,
+        "Longitude":-83.6663077277
     },
     {
         "event_id":"HOUSTON-20231201-001",
@@ -1613,7 +1813,9 @@
         "event_sentiment":"Supportive",
         "source_name":"13WMAZ",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.458922754,
+        "Longitude":-83.6663077277
     },
     {
         "event_id":"HOUSTON-20240607-001",
@@ -1629,7 +1831,9 @@
         "event_sentiment":"Neutral",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/warner-robins\/houston-county-man-worries-about-new-solar-farm-area\/93-bdd923b8-2435-4ff6-b62f-72ba83c6a3e9",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.458922754,
+        "Longitude":-83.6663077277
     },
     {
         "event_id":"HOUSTON-20240826-001",
@@ -1645,7 +1849,9 @@
         "event_sentiment":"Opposed",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/zoning-and-appeals-board-does-not-recommend-proposed-solar-farm-project\/93-c1835c13-0f26-46f8-9685-45e40868ab56",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.458922754,
+        "Longitude":-83.6663077277
     },
     {
         "event_id":"HOUSTON-20240903-001",
@@ -1661,7 +1867,9 @@
         "event_sentiment":"Opposed",
         "source_name":"AJC",
         "source_url":"https:\/\/www.ajc.com\/news\/business\/georgia-county-rejects-300m-solar-project-near-oaky-woods\/7VCFHFWFWBHT3KSJV35NVHD2PM\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.458922754,
+        "Longitude":-83.6663077277
     },
     {
         "event_id":"JACKSON-20200701-001",
@@ -1677,7 +1885,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.133970045,
+        "Longitude":-83.5664213864
     },
     {
         "event_id":"JACKSON-20210701-001",
@@ -1693,7 +1903,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.133970045,
+        "Longitude":-83.5664213864
     },
     {
         "event_id":"JEFFDAVIS-20161201-001",
@@ -1709,7 +1921,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/hazlehurst-i-and-ii-solar-farm\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.805583563,
+        "Longitude":-82.6370330667
     },
     {
         "event_id":"JEFFDAVIS-20170701-001",
@@ -1725,7 +1939,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/hazlehurst-i-and-ii-solar-farm\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.805583563,
+        "Longitude":-82.6370330667
     },
     {
         "event_id":"JEFFDAVIS-20201201-001",
@@ -1741,7 +1957,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2021\/12\/16\/south-georgia-adds-three-new-solar-farms",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.805583563,
+        "Longitude":-82.6370330667
     },
     {
         "event_id":"JEFFDAVIS-20211201-001",
@@ -1757,7 +1975,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Solar Power World",
         "source_url":"https:\/\/www.solarpowerworldonline.com\/2020\/12\/construction-continues-on-solar-farms-to-support-facebooks-huge-data-center-in-georgia\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.805583563,
+        "Longitude":-82.6370330667
     },
     {
         "event_id":"JEFFDAVIS-20240701-001",
@@ -1773,7 +1993,9 @@
         "event_sentiment":"Neutral",
         "source_name":"NextEra Energy Resources",
         "source_url":"https:\/\/www.nexteraenergyresources.com\/brooker-trail-solar\/project-overview.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.805583563,
+        "Longitude":-82.6370330667
     },
     {
         "event_id":"JEFFERSON-20250905-001",
@@ -1789,7 +2011,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-receives-approval-from-georgia-psc-for-five-new-solar-facilities.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0546914594,
+        "Longitude":-82.4181823228
     },
     {
         "event_id":"JONES-20241216-001",
@@ -1805,7 +2029,9 @@
         "event_sentiment":"Mixed",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/jones-county-planning-zoning-commission-recommend-rejection-against-solar-farm\/93-d7fb6fc5-f037-4bbd-ab6f-636c6b2908d8",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0251040152,
+        "Longitude":-83.5604855474
     },
     {
         "event_id":"JONES-20241218-001",
@@ -1821,7 +2047,9 @@
         "event_sentiment":"Opposed",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/jones-county-planning-zoning-commission-recommend-rejection-against-solar-farm\/93-d7fb6fc5-f037-4bbd-ab6f-636c6b2908d8",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0251040152,
+        "Longitude":-83.5604855474
     },
     {
         "event_id":"LAMAR-20250701-001",
@@ -1837,7 +2065,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0765038999,
+        "Longitude":-84.1394568965
     },
     {
         "event_id":"LANIER-20131001-001",
@@ -1853,7 +2083,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Invenergy Press Release",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0765038999,
+        "Longitude":-84.1394568965
     },
     {
         "event_id":"LANIER-20140701-001",
@@ -1869,7 +2101,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Invenergy Press Release",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0765038999,
+        "Longitude":-84.1394568965
     },
     {
         "event_id":"LAURENS-20240801-001",
@@ -1885,7 +2119,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Courier Herald Today",
         "source_url":"https:\/\/courierheraldtoday.com\/laurens-county-commission-sets-fee-for-solar-farms\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.4635490608,
+        "Longitude":-82.9222302756
     },
     {
         "event_id":"LAURENS-20241101-001",
@@ -1901,7 +2137,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Courier Herald Today",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.4635490608,
+        "Longitude":-82.9222302756
     },
     {
         "event_id":"LAURENS-20250606-001",
@@ -1917,7 +2155,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Courier Herald Today",
         "source_url":"https:\/\/courierheraldtoday.com\/laurens-county-commission-sets-fee-for-solar-farms\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.4635490608,
+        "Longitude":-82.9222302756
     },
     {
         "event_id":"LAURENS-20250905-001",
@@ -1933,7 +2173,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-receives-approval-from-georgia-psc-for-five-new-solar-facilities.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.4635490608,
+        "Longitude":-82.9222302756
     },
     {
         "event_id":"LEE-20211001-001",
@@ -1949,7 +2191,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.779472731,
+        "Longitude":-84.1411609002
     },
     {
         "event_id":"LEE-20220701-001",
@@ -1965,7 +2209,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GPB",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.779472731,
+        "Longitude":-84.1411609002
     },
     {
         "event_id":"LEE-20230701-001",
@@ -1981,7 +2227,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.779472731,
+        "Longitude":-84.1411609002
     },
     {
         "event_id":"LEE-20240701-001",
@@ -1997,7 +2245,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Lee County Ledger",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.779472731,
+        "Longitude":-84.1411609002
     },
     {
         "event_id":"LIBERTY-20180701-001",
@@ -2013,7 +2263,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Power",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.8072390096,
+        "Longitude":-81.4557648465
     },
     {
         "event_id":"LIBERTY-20240701-001",
@@ -2029,7 +2281,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Coastal Courier",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.8072390096,
+        "Longitude":-81.4557648465
     },
     {
         "event_id":"LINCOLN-20130701-001",
@@ -2045,7 +2299,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Lincoln Times-News",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7936308951,
+        "Longitude":-82.4511056042
     },
     {
         "event_id":"LOWNDES-20170701-001",
@@ -2061,7 +2317,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Valdosta Daily Times",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8337923882,
+        "Longitude":-83.2677042158
     },
     {
         "event_id":"LOWNDES-20170716-001",
@@ -2077,7 +2335,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Valdosta Daily Times",
         "source_url":"https:\/\/valdostadailytimes.com\/2017\/07\/16\/here-comes-the-sun-solar-power-faces-challenges\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8337923882,
+        "Longitude":-83.2677042158
     },
     {
         "event_id":"MACON-20240701-001",
@@ -2093,7 +2353,9 @@
         "event_sentiment":"Supportive",
         "source_name":"USDA Rural Development",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.3583620639,
+        "Longitude":-84.042522744
     },
     {
         "event_id":"MADISON-20240701-001",
@@ -2109,7 +2371,9 @@
         "event_sentiment":"Supportive",
         "source_name":"USDA Rural Development",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.1277715165,
+        "Longitude":-83.2090135364
     },
     {
         "event_id":"MADISON-20240702-001",
@@ -2125,7 +2389,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Madison Journal Today",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.1277715165,
+        "Longitude":-83.2090135364
     },
     {
         "event_id":"MCINTOSH-20200701-001",
@@ -2141,7 +2407,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.4837921629,
+        "Longitude":-81.3755230161
     },
     {
         "event_id":"MITCHELL-20210101-001",
@@ -2157,7 +2425,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Albany Herald",
         "source_url":"https:\/\/albanyherald.com\/news\/mitchell-county-officials-to-decide-if-solar-industry-has-a-bright-future-there\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.2253019103,
+        "Longitude":-84.1944253968
     },
     {
         "event_id":"MITCHELL-20230201-001",
@@ -2173,7 +2443,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Albany Herald",
         "source_url":"https:\/\/albanyherald.com\/news\/mitchell-county-officials-to-decide-if-solar-industry-has-a-bright-future-there\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.2253019103,
+        "Longitude":-84.1944253968
     },
     {
         "event_id":"MITCHELL-20230601-001",
@@ -2189,7 +2461,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Albany Herald",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.2253019103,
+        "Longitude":-84.1944253968
     },
     {
         "event_id":"MITCHELL-20230701-001",
@@ -2205,7 +2479,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Solar Power World",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.2253019103,
+        "Longitude":-84.1944253968
     },
     {
         "event_id":"MITCHELL-20230701-002",
@@ -2221,7 +2497,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Origis Energy",
         "source_url":"https:\/\/origisenergy.com\/project\/tanglewood-solar\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.2253019103,
+        "Longitude":-84.1944253968
     },
     {
         "event_id":"MITCHELL-20250905-001",
@@ -2237,7 +2515,9 @@
         "event_sentiment":"Supportive",
         "source_name":"SolarQuarter",
         "source_url":"https:\/\/solarquarter.com\/2025\/09\/06\/georgia-power-secures-approval-for-1068-mw-of-new-solar-ppas-across-georgia\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.2253019103,
+        "Longitude":-84.1944253968
     },
     {
         "event_id":"MONROE-20210500-001",
@@ -2253,7 +2533,9 @@
         "event_sentiment":"Supportive",
         "source_name":"41NBC News",
         "source_url":"https:\/\/www.41nbc.com\/monroe-county-embraces-solar-energy-farm\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.013836134,
+        "Longitude":-83.9187076484
     },
     {
         "event_id":"MONROE-20210504-001",
@@ -2269,7 +2551,9 @@
         "event_sentiment":"Supportive",
         "source_name":"41NBC News",
         "source_url":"https:\/\/www.41nbc.com\/monroe-county-embraces-solar-energy-farm\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.013836134,
+        "Longitude":-83.9187076484
     },
     {
         "event_id":"MONROE-20250318-001",
@@ -2285,7 +2569,9 @@
         "event_sentiment":"Neutral",
         "source_name":"USDA Rural Development",
         "source_url":"https:\/\/www.rd.usda.gov\/resources\/environmental-studies\/categorical-exclusions\/monroe-county-battery-energy-storage-system",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.013836134,
+        "Longitude":-83.9187076484
     },
     {
         "event_id":"MONTGOMERY-20200701-001",
@@ -2301,7 +2587,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.1732716469,
+        "Longitude":-82.5348222811
     },
     {
         "event_id":"MURRAY-20160408-001",
@@ -2317,7 +2605,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Environmental Finance Authority",
         "source_url":"https:\/\/gefa.georgia.gov\/blog-post\/2016-04-08\/chatsworth-water-works-commission-installs-solar-panels",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.7883339754,
+        "Longitude":-84.7481526805
     },
     {
         "event_id":"NEWTON-20180301-001",
@@ -2333,7 +2623,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Walton Tribune",
         "source_url":"https:\/\/www.waltontribune.com\/article_17419bb4-25d2-11ea-9b55-1771789c0f62.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.5550185366,
+        "Longitude":-83.85019106
     },
     {
         "event_id":"NEWTON-20181201-001",
@@ -2349,7 +2641,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Walton EMC",
         "source_url":"https:\/\/www.waltonemc.com\/meta-partners-with-walton-emc-and-silicon-ranch-for-new-solar-projects\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.5550185366,
+        "Longitude":-83.85019106
     },
     {
         "event_id":"OGLETHORPE-20230301-001",
@@ -2365,7 +2659,9 @@
         "event_sentiment":"Opposed",
         "source_name":"The Oglethorpe Echo",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.8806128515,
+        "Longitude":-83.0807547065
     },
     {
         "event_id":"OGLETHORPE-20230401-001",
@@ -2381,7 +2677,9 @@
         "event_sentiment":"Mixed",
         "source_name":"The Oglethorpe Echo",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.8806128515,
+        "Longitude":-83.0807547065
     },
     {
         "event_id":"OGLETHORPE-20200701-001",
@@ -2397,7 +2695,9 @@
         "event_sentiment":"Neutral",
         "source_name":"The Oglethorpe Echo",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.8806128515,
+        "Longitude":-83.0807547065
     },
     {
         "event_id":"PAULDING-20160701-001",
@@ -2413,7 +2713,9 @@
         "event_sentiment":"Supportive",
         "source_name":"MDJOnline",
         "source_url":"https:\/\/www.mdjonline.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.9205050158,
+        "Longitude":-84.8672869854
     },
     {
         "event_id":"PIERCE-20240901-001",
@@ -2429,7 +2731,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GridInfo",
         "source_url":"https:\/\/www.gridinfo.com\/plant\/pierce-eunice\/68621",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.3587464575,
+        "Longitude":-82.2127396992
     },
     {
         "event_id":"PIERCE-20241001-001",
@@ -2445,7 +2749,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Pierce County Government",
         "source_url":"https:\/\/piercecountyga.gov\/planning-zoning\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.3587464575,
+        "Longitude":-82.2127396992
     },
     {
         "event_id":"POLK-20130725-001",
@@ -2461,7 +2767,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/blogs\/georgia-works\/2013\/07\/25\/polk-county-going-solar",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.0018223419,
+        "Longitude":-85.1881769724
     },
     {
         "event_id":"POLK-20240701-001",
@@ -2477,7 +2785,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Beltline Energy",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.0018223419,
+        "Longitude":-85.1881769724
     },
     {
         "event_id":"POLK-20241001-001",
@@ -2493,7 +2803,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Northwest Georgia News",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.0018223419,
+        "Longitude":-85.1881769724
     },
     {
         "event_id":"POLK-20250101-001",
@@ -2509,7 +2821,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Northwest Georgia News",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.0018223419,
+        "Longitude":-85.1881769724
     },
     {
         "event_id":"PUTNAM-20200701-001",
@@ -2525,7 +2839,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.3217443495,
+        "Longitude":-83.3728661903
     },
     {
         "event_id":"RANDOLPH-20221001-001",
@@ -2541,7 +2857,9 @@
         "event_sentiment":"Supportive",
         "source_name":"GPB",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.7626000278,
+        "Longitude":-84.7541863174
     },
     {
         "event_id":"RANDOLPH-20250101-001",
@@ -2557,7 +2875,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GPB",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.7626000278,
+        "Longitude":-84.7541863174
     },
     {
         "event_id":"RICHMOND-20200701-001",
@@ -2573,7 +2893,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Power",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.3596280175,
+        "Longitude":-82.073552367
     },
     {
         "event_id":"RICHMOND-20210101-001",
@@ -2589,7 +2911,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Power",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.3596280175,
+        "Longitude":-82.073552367
     },
     {
         "event_id":"RICHMOND-20250101-001",
@@ -2605,7 +2929,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Augusta Chronicle",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.3596280175,
+        "Longitude":-82.073552367
     },
     {
         "event_id":"SEMINOLE-20200701-001",
@@ -2621,7 +2947,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Global Energy Monitor",
         "source_url":"https:\/\/www.gem.wiki\/Seminole_solar_farm",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.9387253815,
+        "Longitude":-84.86885528
     },
     {
         "event_id":"STEWART-20211200-001",
@@ -2637,7 +2965,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.078448483,
+        "Longitude":-84.8352083436
     },
     {
         "event_id":"SUMTER-20191000-001",
@@ -2653,7 +2983,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Americus Times-Recorder",
         "source_url":"https:\/\/americustimesrecorder.com\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.0399808289,
+        "Longitude":-84.1970398685
     },
     {
         "event_id":"SUMTER-20201200-001",
@@ -2669,7 +3001,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Americus Times-Recorder",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.0399808289,
+        "Longitude":-84.1970398685
     },
     {
         "event_id":"SUMTER-20210101-001",
@@ -2685,7 +3019,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Americus Times-Recorder",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.0399808289,
+        "Longitude":-84.1970398685
     },
     {
         "event_id":"SUMTER-20231200-001",
@@ -2701,7 +3037,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Americus Times-Recorder",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.0399808289,
+        "Longitude":-84.1970398685
     },
     {
         "event_id":"TATTNALL-20240701-001",
@@ -2717,7 +3055,9 @@
         "event_sentiment":"Supportive",
         "source_name":"USDA Rural Development",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.0456296726,
+        "Longitude":-82.0580705336
     },
     {
         "event_id":"TATTNALL-20241001-001",
@@ -2733,7 +3073,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Yup Solar",
         "source_url":"https:\/\/yupsolar.com\/solar-installer\/georgia\/tattnall\/reidsville\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.0456296726,
+        "Longitude":-82.0580705336
     },
     {
         "event_id":"TELFAIR-20200701-001",
@@ -2749,7 +3091,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Beltline Energy",
         "source_url":"http:\/\/www.beltlineenergy.com\/mcrae-solar-farm",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.9298047919,
+        "Longitude":-82.9390224785
     },
     {
         "event_id":"TELFAIR-20200702-001",
@@ -2765,7 +3109,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GridInfo",
         "source_url":"https:\/\/www.gridinfo.com\/plant\/telfair-thompson\/62883",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.9298047919,
+        "Longitude":-82.9390224785
     },
     {
         "event_id":"TERRELL-20200801-001",
@@ -2781,7 +3127,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/us-solar\/ga\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.7768425181,
+        "Longitude":-84.4368902609
     },
     {
         "event_id":"TERRELL-20210701-001",
@@ -2797,7 +3145,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GPB",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.7768425181,
+        "Longitude":-84.4368902609
     },
     {
         "event_id":"THOMAS-20170401-001",
@@ -2813,7 +3163,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Canary Media",
         "source_url":"https:\/\/www.canarymedia.com\/articles\/enn\/as-georgias-solar-growth-continues-one-county-puts-on-the-brakes",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8636123689,
+        "Longitude":-83.9192726371
     },
     {
         "event_id":"THOMAS-20181000-001",
@@ -2829,7 +3181,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Canary Media",
         "source_url":"https:\/\/www.canarymedia.com\/articles\/enn\/as-georgias-solar-growth-continues-one-county-puts-on-the-brakes",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8636123689,
+        "Longitude":-83.9192726371
     },
     {
         "event_id":"THOMAS-20181001-001",
@@ -2845,7 +3199,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Canary Media",
         "source_url":"https:\/\/www.canarymedia.com\/articles\/enn\/as-georgias-solar-growth-continues-one-county-puts-on-the-brakes",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":30.8636123689,
+        "Longitude":-83.9192726371
     },
     {
         "event_id":"TIFT-20170201-001",
@@ -2861,7 +3217,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Tifton Gazette",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.4574140354,
+        "Longitude":-83.5265859751
     },
     {
         "event_id":"TOOMBS-20210101-001",
@@ -2877,7 +3235,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.121633591,
+        "Longitude":-82.3312915896
     },
     {
         "event_id":"TOOMBS-20210701-001",
@@ -2893,7 +3253,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.121633591,
+        "Longitude":-82.3312915896
     },
     {
         "event_id":"TOOMBS-20230501-001",
@@ -2909,7 +3271,9 @@
         "event_sentiment":"Supportive",
         "source_name":"The Advance News",
         "source_url":"https:\/\/www.theadvancenews.com\/2023\/05\/31\/local-veteran-leads-massive-toombs-county-solar-project\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.121633591,
+        "Longitude":-82.3312915896
     },
     {
         "event_id":"TOOMBS-20230701-001",
@@ -2925,7 +3289,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GridInfo",
         "source_url":"https:\/\/www.gridinfo.com\/plant\/sr-toombs-llc\/67127",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.121633591,
+        "Longitude":-82.3312915896
     },
     {
         "event_id":"TOWNS-20240730-001",
@@ -2941,7 +3307,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2024\/07\/30\/3m-in-federal-money-will-help-ga-farms-and-businesses-clean-energy-saving-money",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.9167064224,
+        "Longitude":-83.7372713097
     },
     {
         "event_id":"TROUP-20151020-001",
@@ -2957,7 +3325,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Ray C. Anderson Foundation",
         "source_url":"https:\/\/www.raycandersonfoundation.org\/articles\/west-point-visitor-information-center-features-georgia%E2%80%99s-first-solar-powered-electric-vehicle-charging-station,-allowing-greater-travel-across-ga-and-al",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20160908-001",
@@ -2973,7 +3343,9 @@
         "event_sentiment":"Supportive",
         "source_name":"The Ray Foundation",
         "source_url":"https:\/\/theray.org\/2016\/10\/26\/georgia-public-service-commission-approves-innovative-right-of-way-solar-project-along-the-ray-in-troup-county\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20180824-001",
@@ -2989,7 +3361,9 @@
         "event_sentiment":"Supportive",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/2018\/08\/24\/first-pollinator-friendly-right-of-way-solar-in-nation-coming-to-troup-co\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20190802-001",
@@ -3005,7 +3379,9 @@
         "event_sentiment":"Supportive",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/2019\/08\/02\/vegetative-waste-re-use-partnership-pilot-project-underway\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20191221-001",
@@ -3021,7 +3397,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WRBL",
         "source_url":"https:\/\/www.wrbl.com\/news\/local-news\/troup-county-becomes-home-to-the-first-solar-road-in-the-united-states\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TURNER-20200101-001",
@@ -3037,7 +3415,9 @@
         "event_sentiment":"Supportive",
         "source_name":"USDA Rural Development",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.7163783738,
+        "Longitude":-83.6241118042
     },
     {
         "event_id":"TWIGGS-20180701-001",
@@ -3053,7 +3433,9 @@
         "event_sentiment":"Neutral",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/2000-acre-solar-plant-in-twiggs-co-will-be-largest-in-southeast\/521501623",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"TWIGGS-20181024-001",
@@ -3069,7 +3451,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Business Wire",
         "source_url":"https:\/\/www.businesswire.com\/news\/home\/20181024005076\/en\/Origis-Energy-Acquires-200MWAC-GA-Solar-4",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"TWIGGS-20181108-001",
@@ -3085,7 +3469,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Origis Energy",
         "source_url":"https:\/\/www.origisenergy.com\/construction-start-of-largest-solar-plant-in-georgia-celebrated-in-twiggs-county\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"TWIGGS-20181108-002",
@@ -3101,7 +3487,9 @@
         "event_sentiment":"Supportive",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/twiggs-county-solar-project-breaks-ground\/93-612815457",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"TWIGGS-20191201-001",
@@ -3117,7 +3505,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Origis Energy",
         "source_url":"https:\/\/origisenergy.com\/project\/twiggs-county-solar\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"TWIGGS-20210215-001",
@@ -3133,7 +3523,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Origis Energy",
         "source_url":"https:\/\/origisenergy.com\/project\/twiggs-county-solar\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"TWIGGS-20230101-001",
@@ -3149,7 +3541,9 @@
         "event_sentiment":"Supportive",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/twiggs-county-goat-farm-central-georgia-solar-farm\/93-282e1769-5195-4442-a90f-2935f792ed1b",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"TWIGGS-20231106-001",
@@ -3165,7 +3559,9 @@
         "event_sentiment":"Neutral",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/twiggs\/jury-decide-13m-twiggs-county-solar-farm-dispute-macon-courtroom\/93-3ce0f44a-a81b-4a27-82bd-b28b136d475c",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"TWIGGS-20251201-001",
@@ -3181,7 +3577,9 @@
         "event_sentiment":"Opposed",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/twiggs\/twiggs-county-land-owners-fight-data-center\/93-d4bef939-0b12-4c05-8a05-17d5bea03408",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"UPSON-20120708-001",
@@ -3197,7 +3595,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Origis Energy; The Telegraph",
         "source_url":"https:\/\/origisenergy.com\/project\/rocky-creek-solar-farm-upson\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.881266875,
+        "Longitude":-84.2993014696
     },
     {
         "event_id":"UPSON-20240101-001",
@@ -3213,7 +3613,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Global Energy Monitor",
         "source_url":"https:\/\/www.gem.wiki\/Upson_County_GA_S1_LLC_solar_project",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.881266875,
+        "Longitude":-84.2993014696
     },
     {
         "event_id":"WALKER-20240501-001",
@@ -3229,7 +3631,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Walker County Government",
         "source_url":"https:\/\/walkercountyga.gov\/wp-content\/uploads\/2024\/05\/R-018-24-Enact-a-Moratorium-on-New-Solar-Farms.pdf",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.735536307,
+        "Longitude":-85.3009197137
     },
     {
         "event_id":"WALKER-20241024-001",
@@ -3245,7 +3649,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Walker County Government",
         "source_url":"https:\/\/walkercountyga.gov\/2024\/10\/25\/walker-county-board-of-commissioners-meeting-audio-from-10-24-24\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.735536307,
+        "Longitude":-85.3009197137
     },
     {
         "event_id":"WALKER-20241219-001",
@@ -3261,7 +3667,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Walker County Government",
         "source_url":"https:\/\/walkercountyga.gov\/2024\/12\/20\/walker-county-board-of-commissioners-meeting-audio-from-december-19-2024\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.735536307,
+        "Longitude":-85.3009197137
     },
     {
         "event_id":"WALTON-20110701-001",
@@ -3277,7 +3685,9 @@
         "event_sentiment":"Supportive",
         "source_name":"L-A-K-E",
         "source_url":"http:\/\/www.l-a-k-e.org\/blog\/2014\/06\/simon-solar-farm-ribbon-cutting-in-social-circle-georgia.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WALTON-20131201-001",
@@ -3293,7 +3703,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/projects\/social-circle\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WALTON-20140513-001",
@@ -3309,7 +3721,9 @@
         "event_sentiment":"Supportive",
         "source_name":"L-A-K-E",
         "source_url":"http:\/\/www.l-a-k-e.org\/blog\/2014\/06\/simon-solar-farm-ribbon-cutting-in-social-circle-georgia.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WALTON-20191201-001",
@@ -3325,7 +3739,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Walton Tribune",
         "source_url":"https:\/\/www.waltontribune.com\/article_17419bb4-25d2-11ea-9b55-1771789c0f62.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WALTON-20211215-001",
@@ -3341,7 +3757,9 @@
         "event_sentiment":"Supportive",
         "source_name":"PR Newswire",
         "source_url":"https:\/\/www.prnewswire.com\/news-releases\/silicon-ranch-and-walton-emc-complete-construction-of-three-new-solar-farms-for-metas-data-center-in-georgia-301444884.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WALTON-20230117-001",
@@ -3357,7 +3775,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Walton EMC",
         "source_url":"https:\/\/www.waltonemc.com\/meta-partners-with-walton-emc-and-silicon-ranch-for-new-solar-projects\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WARE-20140101-001",
@@ -3373,7 +3793,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Hannah Solar",
         "source_url":"https:\/\/hannahsolar.com\/projects\/chase-farms\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.0531523847,
+        "Longitude":-82.423259065
     },
     {
         "event_id":"WARE-20160101-001",
@@ -3389,7 +3811,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Duke Energy",
         "source_url":"https:\/\/news.duke-energy.com\/releases\/duke-energy-renewables-acquires-six-georgia-solar-projects-from-solamerica-energy",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.0531523847,
+        "Longitude":-82.423259065
     },
     {
         "event_id":"WARE-20180101-001",
@@ -3405,7 +3829,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Global Energy Monitor",
         "source_url":"https:\/\/www.gem.wiki\/Ware_Avra_I_solar_farm",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.0531523847,
+        "Longitude":-82.423259065
     },
     {
         "event_id":"WARE-20250211-001",
@@ -3421,7 +3847,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Waycross-Ware County Planning Commission",
         "source_url":"https:\/\/cdn.prod.website-files.com\/63d5ca60103cc0d24935804f\/67a4fd6bf7a14318175690bb_2025-02-11-WWCPC-AGENDA.pdf",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.0531523847,
+        "Longitude":-82.423259065
     },
     {
         "event_id":"WARREN-20230101-001",
@@ -3437,7 +3865,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Amazon News",
         "source_url":"https:\/\/www.aboutamazon.com\/news\/sustainability\/amazons-solar-and-wind-projects-support-communities-throughout-the-southeastern-us",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4089317503,
+        "Longitude":-82.6767147976
     },
     {
         "event_id":"WARREN-20230701-001",
@@ -3453,7 +3883,9 @@
         "event_sentiment":"Neutral",
         "source_name":"WRDW",
         "source_url":"https:\/\/www.wrdw.com\/2023\/07\/19\/amazon-launches-warren-county-solar-farm-track-burke-county\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4089317503,
+        "Longitude":-82.6767147976
     },
     {
         "event_id":"WARREN-20230719-001",
@@ -3469,7 +3901,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WRDW",
         "source_url":"https:\/\/www.wrdw.com\/2023\/07\/19\/amazon-launches-warren-county-solar-farm-track-burke-county\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4089317503,
+        "Longitude":-82.6767147976
     },
     {
         "event_id":"WASHINGTON-20140101-001",
@@ -3485,7 +3919,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Trend",
         "source_url":"https:\/\/www.georgiatrend.com\/2014\/01\/31\/sandersville-washington-county-changing-landscape\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.9694962648,
+        "Longitude":-82.7958690687
     },
     {
         "event_id":"WASHINGTON-20210101-001",
@@ -3501,7 +3937,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.9694962648,
+        "Longitude":-82.7958690687
     },
     {
         "event_id":"WASHINGTON-20240101-001",
@@ -3517,7 +3955,9 @@
         "event_sentiment":"Neutral",
         "source_name":"NextEra Energy Resources",
         "source_url":"https:\/\/www.nexteraenergyresources.com\/walnut-branch-solar.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.9694962648,
+        "Longitude":-82.7958690687
     },
     {
         "event_id":"WAYNE-20180101-001",
@@ -3533,7 +3973,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Global Energy Monitor",
         "source_url":"https:\/\/www.gem.wiki\/Westberry_Jesup_solar_farm",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5514031934,
+        "Longitude":-81.9166438163
     },
     {
         "event_id":"WAYNE-20200101-001",
@@ -3549,7 +3991,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Beltline Energy",
         "source_url":"http:\/\/www.beltlineenergy.com\/johnson-solar-farm",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5514031934,
+        "Longitude":-81.9166438163
     },
     {
         "event_id":"WAYNE-20200101-002",
@@ -3565,7 +4009,9 @@
         "event_sentiment":"Supportive",
         "source_name":"USDA Rural Development",
         "source_url":"https:\/\/peachcountydevelopment.com\/news\/article\/trump-administration-invests-1.4-million-in-georgia-for-solar-and-energy-ef",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5514031934,
+        "Longitude":-81.9166438163
     },
     {
         "event_id":"WAYNE-20250301-001",
@@ -3581,7 +4027,9 @@
         "event_sentiment":"Neutral",
         "source_name":"BrightNight",
         "source_url":"https:\/\/brightnightpower.com\/pepper-hammock-community\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5514031934,
+        "Longitude":-81.9166438163
     },
     {
         "event_id":"WAYNE-20250304-001",
@@ -3597,7 +4045,9 @@
         "event_sentiment":"Neutral",
         "source_name":"The Blackshear Times",
         "source_url":"https:\/\/www.theblacksheartimes.com\/article\/5290,brantley-citizens-question-solar-farm-officials",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.5514031934,
+        "Longitude":-81.9166438163
     },
     {
         "event_id":"WHEELER-20230701-001",
@@ -3613,7 +4063,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WRDW",
         "source_url":"https:\/\/www.wrdw.com\/2023\/07\/19\/amazon-launches-warren-county-solar-farm-track-burke-county\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.1170113275,
+        "Longitude":-82.7245399969
     },
     {
         "event_id":"WHITE-20200101-001",
@@ -3629,7 +4081,9 @@
         "event_sentiment":"Neutral",
         "source_name":"White County News",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.6463345923,
+        "Longitude":-83.747113989
     },
     {
         "event_id":"WHITFIELD-20190101-001",
@@ -3645,7 +4099,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia.org",
         "source_url":"https:\/\/georgia.org\/press-release\/solar-energy-giant-qcells-power-470-new-jobs-new-whitfield-county-facility",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20220526-001",
@@ -3661,7 +4117,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Governor's Office",
         "source_url":"https:\/\/gov.georgia.gov\/press-releases\/2022-05-26\/gov-kemp-solar-energy-giant-qcells-power-470-new-jobs-whitfield-county",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20230111-001",
@@ -3677,7 +4135,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Governor's Office",
         "source_url":"https:\/\/gov.georgia.gov\/press-releases\/2023-01-11\/gov-kemp-qcells-more-double-production-georgia-create-2500-new-jobs",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20231018-001",
@@ -3693,7 +4153,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Qcells",
         "source_url":"https:\/\/us.qcells.com\/blog\/qcells-north-america-completes-dalton-factory-expansion\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WILCOX-20150101-001",
@@ -3709,7 +4171,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Duke Energy",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":31.9728811442,
+        "Longitude":-83.4323183975
     },
     {
         "event_id":"WILKINSON-20200101-001",
@@ -3725,7 +4189,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GridInfo",
         "source_url":"https:\/\/felt.com\/explore\/power-plants-wilkinson-county-georgia",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.8023608269,
+        "Longitude":-83.1712107951
     },
     {
         "event_id":"WILKINSON-20220101-001",
@@ -3741,7 +4207,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GridInfo",
         "source_url":"https:\/\/felt.com\/explore\/power-plants-wilkinson-county-georgia",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.8023608269,
+        "Longitude":-83.1712107951
     },
     {
         "event_id":"WILKINSON-20250905-001",
@@ -3757,7 +4225,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-receives-approval-from-georgia-psc-for-five-new-solar-facilities.html",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":32.8023608269,
+        "Longitude":-83.1712107951
     },
     {
         "event_id":"COWETA-20250124-001",
@@ -3773,7 +4243,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Newnan Times-Herald",
         "source_url":"https:\/\/www.times-herald.com\/news\/solar-energy-system-regulations-approved-by-commissioners\/article_9d1cda28-da90-11ef-8238-47684aed4111.html",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"FLOYD-20251125-001",
@@ -3789,7 +4261,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Rome News-Tribune",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/rome\/news\/local\/floyd-county-commission-rejects-solar-farm-chickens\/article_46232e78-239b-4891-9737-b7a470874662.html",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"STATEWIDE-20251124-001",
@@ -3805,7 +4279,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/11\/24\/psc-staff-tells-commission-georgia-powers-request-for-new-capacity-could-cost",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"STATEWIDE-20251219-001",
@@ -3821,7 +4297,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/12\/19\/georgia-today-public-service-commission-approves-energy-for-data-centers-endangered",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"LAURENS-20251219-001",
@@ -3837,7 +4315,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-requests-certification-of-approximately-9900-mw-of-new-resources-from-the-georgia-psc.html",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":32.4635490608,
+        "Longitude":-82.9222302756
     },
     {
         "event_id":"DOUGHERTY-20251219-001",
@@ -3853,7 +4333,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-requests-certification-of-approximately-9900-mw-of-new-resources-from-the-georgia-psc.html",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":31.5334198601,
+        "Longitude":-84.2162546468
     },
     {
         "event_id":"OGLETHORPE-20251101-001",
@@ -3869,7 +4351,9 @@
         "event_sentiment":"Opposed",
         "source_name":"The Oglethorpe Echo",
         "source_url":"https:\/\/www.theoglethorpeecho.com\/local-news\/solar-farm-ordinance-approved",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":33.8806128515,
+        "Longitude":-83.0807547065
     },
     {
         "event_id":"STATEWIDE-20260128-001",
@@ -3885,7 +4369,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2026\/01\/28\/resistance-data-centers-fuels-flood-of-georgia-bills-targeting-the-industry",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"HOUSTON-20251201-001",
@@ -3901,7 +4387,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/02\/19\/why-1000-sheep-graze-houston-county-solar-farm-and-why-it-helps-economy",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":32.458922754,
+        "Longitude":-83.6663077277
     },
     {
         "event_id":"GRADY-20260123-001",
@@ -3917,7 +4405,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WALB",
         "source_url":"https:\/\/www.walb.com\/2026\/01\/23\/grady-county-commissioners-weigh-solar-farm-moratorium-extension-deadline-nears\/",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":30.874584392,
+        "Longitude":-84.2344060676
     },
     {
         "event_id":"GRADY-20260205-001",
@@ -3933,7 +4423,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WCTV",
         "source_url":"https:\/\/www.wctv.tv\/2026\/02\/05\/grady-county-commissioners-extend-moratorium-solar-farm-permits\/",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":30.874584392,
+        "Longitude":-84.2344060676
     },
     {
         "event_id":"POLK-20260129-001",
@@ -3949,7 +4441,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Solar Power World",
         "source_url":"https:\/\/www.solarpowerworldonline.com\/2026\/01\/solarcycle-begins-solar-panel-recycling-in-georgia\/",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":34.0018223419,
+        "Longitude":-85.1881769724
     },
     {
         "event_id":"BERRIEN-20200101-001",
@@ -3965,7 +4459,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Beltline Energy",
         "source_url":"http:\/\/www.beltlineenergy.com\/gaskins-solar-farm",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":31.2759791173,
+        "Longitude":-83.2295772222
     },
     {
         "event_id":"IRWIN-20240109-001",
@@ -3981,7 +4477,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WALB",
         "source_url":"https:\/\/www.walb.com\/video\/2024\/01\/09\/irwin-co-solar-panel-ordinance-approved\/",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":31.6023031205,
+        "Longitude":-83.2763182052
     },
     {
         "event_id":"HEARD-20240901-001",
@@ -3997,7 +4495,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Opdenergy",
         "source_url":"https:\/\/cleanenergyforcoweta.com\/",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.2970003,
+        "Longitude":-85.1282643391
     },
     {
         "event_id":"PAULDING-20200101-001",
@@ -4013,7 +4513,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.9205050158,
+        "Longitude":-84.8672869854
     },
     {
         "event_id":"BARROW-20200101-001",
@@ -4029,7 +4531,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Green Power EMC",
         "source_url":"https:\/\/greenpoweremc.com\/emc-solar-sites",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.9931921183,
+        "Longitude":-83.7127286321
     },
     {
         "event_id":"COBB-20230831-001",
@@ -4045,7 +4549,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Marietta Daily Journal",
         "source_url":"https:\/\/www.mdjonline.com\/news\/local\/new-program-in-cobb-aims-to-make-solar-panels-cheaper\/article_3e1368c4-6ce8-11ee-858a-4f412fac21e2.html",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.9415461374,
+        "Longitude":-84.5766950178
     },
     {
         "event_id":"COBB-20200101-001",
@@ -4061,7 +4567,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Cobb EMC",
         "source_url":"https:\/\/www.cobbemc.com\/solar-initiatives",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.9415461374,
+        "Longitude":-84.5766950178
     },
     {
         "event_id":"SCREVEN-20200101-001",
@@ -4077,7 +4585,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Felt Maps",
         "source_url":"https:\/\/felt.com\/explore\/power-plants-screven-county-georgia",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":32.7504786593,
+        "Longitude":-81.6119252204
     },
     {
         "event_id":"GORDON-20200101-001",
@@ -4093,7 +4603,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Rome News-Tribune",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/rome\/gordon-county-home-to-2-solar-power-farms\/article_e28ffa7d-090a-5eff-8b36-5d0b56ca6a65.html",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":34.5031936991,
+        "Longitude":-84.8759115165
     },
     {
         "event_id":"HART-20250311-001",
@@ -4109,7 +4621,9 @@
         "event_sentiment":"Mixed",
         "source_name":"CitizenPortal.ai",
         "source_url":"https:\/\/citizenportal.ai\/articles\/2570724\/Hart-County\/Georgia\/Georgia-legislature-considers-bill-protecting-solar-applications-on-agricultural-land",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":34.3508709883,
+        "Longitude":-82.9642488795
     },
     {
         "event_id":"DADE-20260201-001",
@@ -4125,7 +4639,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Dade County Sentinel",
         "source_url":"https:\/\/www.dadecountysentinel.com\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":34.8544989371,
+        "Longitude":-85.5044708959
     },
     {
         "event_id":"DADE-20260207-001",
@@ -4141,7 +4657,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Discover Dade",
         "source_url":"https:\/\/now.solar\/2026\/02\/07\/county-officials-provide-update-on-splost-vote-solar-moratorium-and-clean-annual-audit-discover-dade\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":34.8544989371,
+        "Longitude":-85.5044708959
     },
     {
         "event_id":"JASPER-20260115-001",
@@ -4157,7 +4675,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Taxpayers Watchdog Group",
         "source_url":"https:\/\/taxdogs.wordpress.com\/2026\/01\/12\/jasper-county-alert-your-voice-matters-on-solar-farms\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.3163689005,
+        "Longitude":-83.6881022676
     },
     {
         "event_id":"JASPER-20260209-001",
@@ -4173,7 +4693,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Taxpayers Watchdog Group",
         "source_url":"https:\/\/taxdogs.wordpress.com\/2026\/02\/09\/you-should-attend-the-planning-zoning-public-hearing-on-the-solar-farm-ordinance-for-jasper-county\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.3163689005,
+        "Longitude":-83.6881022676
     },
     {
         "event_id":"TWIGGS-20250904-001",
@@ -4189,7 +4711,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-begins-construction-of-newest-battery-storage-system-near-macon.html",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"CARROLL-20241219-001",
@@ -4205,7 +4729,9 @@
         "event_sentiment":"Supportive",
         "source_name":"The Carroll News",
         "source_url":"https:\/\/www.thecarrollnews.com\/news\/carroll-approves-solar-project-siting-agreement\/article_64b12272-7f1d-11ee-81a5-a7ae515fce60.html",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"MERIWETHER-20200101-001",
@@ -4221,7 +4747,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Beltline Energy",
         "source_url":"http:\/\/www.beltlineenergy.com\/meriweather-solar-farm",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.0404622736,
+        "Longitude":-84.6882984364
     },
     {
         "event_id":"STEPHENS-20240901-001",
@@ -4237,7 +4765,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Now Habersham",
         "source_url":"https:\/\/nowhabersham.com\/stephens-county-approves-investment-in-solar-panels\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":34.5540678002,
+        "Longitude":-83.2931829178
     },
     {
         "event_id":"SPALDING-20240916-001",
@@ -4253,7 +4783,9 @@
         "event_sentiment":"Mixed",
         "source_name":"CitizenPortal.ai",
         "source_url":"https:\/\/citizenportal.ai\/articles\/1486231\/Spalding-County\/Georgia\/Solar-Ordinance-Sparks-Controversy-in-Spalding-County",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"HABERSHAM-20240401-001",
@@ -4269,7 +4801,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Now Habersham",
         "source_url":"https:\/\/nowhabersham.com\/georgia-power-fieldale-partner-on-solar-farm-in-baldwin\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":34.6309695021,
+        "Longitude":-83.5311315452
     },
     {
         "event_id":"MCDUFFIE-20230111-001",
@@ -4285,7 +4819,9 @@
         "event_sentiment":"Neutral",
         "source_name":"McDuffie Progress",
         "source_url":"https:\/\/www.mcduffieprogress.com\/news\/320m-solar-farm-proposed-in-mcduffie-county\/article_ac34fb8c-91b1-11ed-bc0b-9b7bf3f9f2d4.html",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.4827681381,
+        "Longitude":-82.4813088962
     },
     {
         "event_id":"MCDUFFIE-20190101-001",
@@ -4301,7 +4837,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Felt Maps",
         "source_url":"https:\/\/felt.com\/explore\/power-plants-mcduffie-county-georgia",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.4827681381,
+        "Longitude":-82.4813088962
     },
     {
         "event_id":"STATEWIDE-20260204-001",
@@ -4317,7 +4855,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Atlanta Journal-Constitution",
         "source_url":"https:\/\/www.ajc.com\/business\/2026\/02\/georgia-regulators-wont-revisit-approval-of-new-power-plants-for-data-centers\/",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"BACON-20251110-001",
@@ -4333,7 +4873,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WALB News",
         "source_url":null,
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":31.5536707452,
+        "Longitude":-82.452637616
     },
     {
         "event_id":"BACON-20260225-001",
@@ -4349,7 +4891,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WJCL \/ Solar Now",
         "source_url":"https:\/\/now.solar\/2026\/02\/25\/solar-farm-plan-in-southeast-georgia-sparks-backlash-over-transparency-land-use-wjcl\/",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":31.5536707452,
+        "Longitude":-82.452637616
     },
     {
         "event_id":"STATEWIDE-20260227-001",
@@ -4365,7 +4909,9 @@
         "event_sentiment":"Opposed",
         "source_name":"The Current Georgia",
         "source_url":"https:\/\/thecurrentga.org\/2026\/02\/27\/georgia-balcony-solar-bill-sidelined\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"JASPER-20260226-001",
@@ -4381,7 +4927,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Taxpayer's Watchdog Group",
         "source_url":"https:\/\/taxdogs.wordpress.com\/2026\/02\/27\/the-gist-of-the-solar-farm-hearing\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":33.3163689005,
+        "Longitude":-83.6881022676
     },
     {
         "event_id":"BARTOW-20260306-001",
@@ -4397,7 +4945,9 @@
         "event_sentiment":"Supportive",
         "source_name":"AltEnergyMag",
         "source_url":"https:\/\/www.altenergymag.com\/news\/2026\/03\/06\/qcells-workforce-resumes-solar-panel-production-at-georgia-factories\/46862\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"STATEWIDE-20260306-002",
@@ -4413,7 +4963,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"Atlanta News First; AJC",
         "source_url":"https:\/\/www.atlantanewsfirst.com\/2026\/03\/06\/bill-data-center-power-costs-property-tax-fights-highlight-georgias-crossover-day-crunch\/",
-        "date_captured":"2026-03-16"
+        "date_captured":"2026-03-16",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"STATEWIDE-20260317-001",
@@ -4429,7 +4981,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Moultrie Observer; Valdosta Daily Times; Atlanta News First",
         "source_url":"https:\/\/moultrieobserver.com\/2026\/03\/17\/jason-shaw-georgia-does-it-right-with-data-centers\/",
-        "date_captured":"2026-03-20"
+        "date_captured":"2026-03-20",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"STATEWIDE-20260324-001",
@@ -4445,7 +4999,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power \/ Southern Company",
         "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-awards-largest-distributed-generation-solar-procurement-in-company-history.html",
-        "date_captured":"2026-04-02"
+        "date_captured":"2026-04-02",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"JEFFERSON-20260331-001",
@@ -4461,7 +5017,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Power \/ PR Newswire",
         "source_url":"https:\/\/www.prnewswire.com\/news-releases\/georgia-power-begins-construction-of-newest-battery-storage-system-in-wadley-ga-302730157.html",
-        "date_captured":"2026-04-02"
+        "date_captured":"2026-04-02",
+        "Latitude":33.0546914594,
+        "Longitude":-82.4181823228
     },
     {
         "event_id":"STATEWIDE-20260402-001",
@@ -4477,7 +5035,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"WABE; Georgia Watch; Rough Draft Atlanta",
         "source_url":"https:\/\/georgiawatch.org\/bill-to-scrap-data-center-tax-breaks-in-peril\/",
-        "date_captured":"2026-04-02"
+        "date_captured":"2026-04-02",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"JASPER-20260312-001",
@@ -4493,7 +5053,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Jasper County P&Z; Taxpayer's Watchdog Group",
         "source_url":"https:\/\/taxdogs.wordpress.com\/2026\/02\/27\/the-gist-of-the-solar-farm-hearing\/",
-        "date_captured":"2026-04-10"
+        "date_captured":"2026-04-10",
+        "Latitude":33.3163689005,
+        "Longitude":-83.6881022676
     },
     {
         "event_id":"JASPER-20260406-001",
@@ -4509,7 +5071,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Jasper County BOC Agenda",
         "source_url":"https:\/\/jaspercountyga.org\/wp-content\/uploads\/2026\/03\/BOC-Agenda-April-6-2026.pdf",
-        "date_captured":"2026-04-10"
+        "date_captured":"2026-04-10",
+        "Latitude":33.3163689005,
+        "Longitude":-83.6881022676
     },
     {
         "event_id":"STATEWIDE-20260327-001",
@@ -4525,7 +5089,9 @@
         "event_sentiment":"Neutral",
         "source_name":"The Current GA; WABE; AJC",
         "source_url":"https:\/\/thecurrentga.org\/2026\/03\/27\/environmental-groups-sue-over-georgia-powers-energy-expansion-for-data-centers\/",
-        "date_captured":"2026-04-10"
+        "date_captured":"2026-04-10",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"STATEWIDE-20260407-001",
@@ -4541,7 +5107,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Utility Dive; AJC; Canary Media; Grist",
         "source_url":"https:\/\/www.utilitydive.com\/news\/regulators-approve-georgia-powers-byo-clean-resources-plan-for-large-loads\/817462\/",
-        "date_captured":"2026-04-17"
+        "date_captured":"2026-04-17",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"STATEWIDE-20260413-001",
@@ -4557,7 +5125,9 @@
         "event_sentiment":"Supportive",
         "source_name":"PR Newswire; Middle Georgia CEO",
         "source_url":"https:\/\/www.prnewswire.com\/news-releases\/southern-renewable-energy-association-launches-powering-georgia-initiative-302740842.html",
-        "date_captured":"2026-04-17"
+        "date_captured":"2026-04-17",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"DADE-20260416-001",
@@ -4573,7 +5143,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Discover Dade",
         "source_url":"https:\/\/www.discoverdade.com\/local\/dade-county-approves-new-solar-ordinance-following-public-hearing\/",
-        "date_captured":"2026-04-24"
+        "date_captured":"2026-04-24",
+        "Latitude":34.8544989371,
+        "Longitude":-85.5044708959
     },
     {
         "event_id":"DEKALB-20260421-001",
@@ -4589,7 +5161,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Solar Power World; CleanTechnica",
         "source_url":"https:\/\/www.solarpowerworldonline.com\/2026\/04\/georgia-church-adds-solar-storage-and-ev-chargers-to-campus-to-act-as-communitys-resilience-hub\/",
-        "date_captured":"2026-04-24"
+        "date_captured":"2026-04-24",
+        "Latitude":33.7715120512,
+        "Longitude":-84.2263564668
     },
     {
         "event_id":"STATEWIDE-20260423-001",
@@ -4605,7 +5179,9 @@
         "event_sentiment":"Supportive",
         "source_name":"PR Newswire; Southern Company Newsroom",
         "source_url":"https:\/\/www.prnewswire.com\/news-releases\/georgia-power-continues-to-plan-for-additional-generation-to-meet-the-energy-needs-of-a-growing-georgia-302752256.html",
-        "date_captured":"2026-04-24"
+        "date_captured":"2026-04-24",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"TROUP-20260424-001",
@@ -4621,7 +5197,9 @@
         "event_sentiment":"Supportive",
         "source_name":"GlobeNewsWire",
         "source_url":"https:\/\/www.globenewswire.com\/news-release\/2026\/04\/23\/3280066\/0\/en\/VPS-and-Kia-Georgia-Complete-Landmark-Automotive-Hail-Protection-and-Solar-Canopy-Project.html",
-        "date_captured":"2026-04-24"
+        "date_captured":"2026-04-24",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"BARTOW-20260427-001",
@@ -4637,7 +5215,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Daily Tribune News",
         "source_url":"https:\/\/www.daily-tribune.com\/news\/bcpc-green-lights-solar-farm\/article_7290eddf-5487-5f62-b9c1-bb5995e29a39.html",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"SUMTER-20260428-001",
@@ -4653,6 +5233,44 @@
         "event_sentiment":"Neutral",
         "source_name":"The Current GA",
         "source_url":"https:\/\/thecurrentga.org\/2026\/04\/28\/trump-is-blocking-solar-for-farmers-can-the-farm-bill-fix-that\/",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":32.0399808289,
+        "Longitude":-84.1970398685
+    },
+    {
+        "event_id":"BARTOW-20260513-001",
+        "event_date":"2026-05-13",
+        "GEOID":"13015",
+        "location_name":"Bartow County",
+        "municipality":null,
+        "event_type":"Project Approval",
+        "event_title":"Bartow Sole Commissioner Approves DG Kingston Farms Solar CUP at Hall Station Road",
+        "event_description":"Bartow County Sole Commissioner Steve Taylor approved the conditional use permit for the DG Kingston Farms LLC solar generation facility at 211 Hall Station Road at his May 13 public commissioner's meeting, following the Planning Commission's April 27 4-2 recommendation to approve. The project is a roughly 25-acre solar footprint on a ~270-acre A-1 (agricultural) tract, with required screening, vegetative buffers, and sound barriers. Adjacent landowner Julian Saul (1,750 acres) had opposed citing viewshed, hunting habitat, and sound concerns. Outcome reported by WBHF Radio (Cartersville); full decision conditions could not be retrieved from the egress-blocked Daily Tribune News follow-up.",
+        "project_name":"DG Kingston Farms Solar (Hall Station Road)",
+        "outcome":"Approved by Sole Commissioner (CUP granted)",
+        "event_sentiment":"Supportive",
+        "source_name":"WBHF Radio \/ Daily Tribune News",
+        "source_url":"https:\/\/www.facebook.com\/wbhfradio\/posts\/1159489569511767\/",
+        "date_captured":"2026-05-22",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
+    },
+    {
+        "event_id":"BALDWIN-20260520-001",
+        "event_date":"2026-05-20",
+        "GEOID":"13009",
+        "location_name":"Baldwin County",
+        "municipality":null,
+        "event_type":"Georgia Power Procurement",
+        "event_title":"Grenergy Signs 20-Year Georgia Power PPA for Beaver Creek Solar-Plus-Storage",
+        "event_description":"Spanish developer Grenergy signed a 20-year power-purchase agreement with Georgia Power for 100% of the output (~400 GWh\/year) of its Beaver Creek hybrid project near Milledgeville\/Coopers in Baldwin County, fully contracting the project under Georgia Power's CARES 2023 program. Beaver Creek pairs 229 MW of solar with 183 MWh of battery storage; commercial operation is expected Q3 2028 with the PPA effective May 2029. The local development authority had signed an MOU welcoming the project in March 2026; no land-use opposition has surfaced.",
+        "project_name":"Beaver Creek Solar (Grenergy)",
+        "outcome":"20-year PPA signed with Georgia Power; COD expected Q3 2028",
+        "event_sentiment":"Supportive",
+        "source_name":"ESS-News \/ Renewable Energy Magazine",
+        "source_url":"https:\/\/www.ess-news.com\/2026\/05\/20\/grenergy-locks-in-20-year-georgia-power-400-gwh-100-ppa-for-its-beaver-creek-hybrid-project\/",
+        "date_captured":"2026-05-22",
+        "Latitude":33.0692716093,
+        "Longitude":-83.2495719521
     }
 ]
