@@ -13,7 +13,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Silicon Ranch",
         "source_url":"https:\/\/www.siliconranch.com\/portfolio-item\/appling-solar-farm\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.7492184669,
+        "Longitude":-82.2889221919
     },
     {
         "event_id":"APPLING-20201201-001",
@@ -29,7 +31,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Solar Power World",
         "source_url":"https:\/\/www.solarpowerworldonline.com\/2021\/01\/two-additional-georgia-solar-projects-powering-facebook-data-center-now-operational\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.7492184669,
+        "Longitude":-82.2889221919
     },
     {
         "event_id":"AWS-20250107-001",
@@ -45,7 +49,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/aws-reveals-11bn-data-center-investment-plan-for-georgia\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.287838349,
+        "Longitude":-83.9571852114
     },
     {
         "event_id":"BARTOW-20250514-001",
@@ -61,7 +67,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Daily Tribune News",
         "source_url":"https:\/\/www.daily-tribune.com",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"BARTOW-20250600-001",
@@ -77,7 +85,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Atlanta Journal-Constitution",
         "source_url":"https:\/\/www.ajc.com\/news\/business\/19b-data-center-campus-proposed-northwest-of-atlanta\/FPMRPJCYERGXLLAND6IZACSVEM\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"BIBB-20251201-001",
@@ -93,7 +103,9 @@
         "event_sentiment":"Neutral",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/macon\/could-data-center-projects-be-headed-to-bibb-county\/93-f457b9b0-95e6-4aab-b48d-4bd6f506fe80",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":32.8064948932,
+        "Longitude":-83.6974023774
     },
     {
         "event_id":"BULLOCH-20200806-001",
@@ -109,7 +121,9 @@
         "event_sentiment":"Supportive",
         "source_name":"EdgePresence",
         "source_url":"https:\/\/www.edgepresence.com\/edgepresence-announces-deployment-of-new-edge-data-center-in-statesboro-ga\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":32.3967498564,
+        "Longitude":-81.7430098282
     },
     {
         "event_id":"BULLOCH-20210504-001",
@@ -125,7 +139,9 @@
         "event_sentiment":"Supportive",
         "source_name":"EdgePresence",
         "source_url":"https:\/\/www.edgepresence.com\/bulloch-solutions-partners-with-edgepresence-to-deliver-edge-infrastructure-solutions-to-customers-in-statesboro\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":32.3967498564,
+        "Longitude":-81.7430098282
     },
     {
         "event_id":"BULLOCH-20230706-001",
@@ -141,7 +157,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/ubiquity-acquires-edge-data-center-firm-edgepresence\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":32.3967498564,
+        "Longitude":-81.7430098282
     },
     {
         "event_id":"CARROLL-20250114-001",
@@ -157,7 +175,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Times-Georgian",
         "source_url":"https:\/\/www.times-georgian.com\/news\/local\/data-center-location-water-use-concerns-locals\/article_b4eade07-7bef-5155-8f7e-1bb56db0fd99.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"CARROLL-20250114-002",
@@ -173,7 +193,9 @@
         "event_sentiment":"Opposed",
         "source_name":"StarNews Georgia",
         "source_url":"https:\/\/starnewsgaonline.com\/2025\/02\/07\/villa-rica-citizens-in-literal-uproar-at-council-meeting-about-rezoning-that-would-allow-data-centers\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"CARROLL-20250401-001",
@@ -189,7 +211,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/atlas-files-for-428-acre-technology-and-data-park-outside-atlanta-georgia\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"CARROLL-20250416-001",
@@ -205,7 +229,9 @@
         "event_sentiment":"Neutral",
         "source_name":"CitizenPortal.ai",
         "source_url":"https:\/\/citizenportal.ai\/articles\/3030915\/Villa-Rica\/Carroll-County\/Georgia\/Atlas-Development-proposes-data-center-project-to-replace-2000-home-residential-plan",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"CARROLL-20250513-001",
@@ -221,7 +247,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Times-Georgian",
         "source_url":"https:\/\/www.times-georgian.com\/news\/local\/data-center-location-water-use-concerns-locals\/article_b4eade07-7bef-5155-8f7e-1bb56db0fd99.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"CARROLL-20250527-001",
@@ -237,7 +265,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Times-Georgian",
         "source_url":"https:\/\/www.times-georgian.com\/news\/local\/data-center-location-water-use-concerns-locals\/article_b4eade07-7bef-5155-8f7e-1bb56db0fd99.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"CARROLL-20251203-001",
@@ -253,7 +283,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Gradick Communications",
         "source_url":"https:\/\/gradickcommunications.com\/carroll-county-residents-file-petition-vs-developer-city-of-villa-rica-hope-to-stop-development-of-reported-400-acre-data-center-between-hickory-level-van-wert-road\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"CLARKE-20251202-001",
@@ -269,7 +301,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Athens-Clarke County Government",
         "source_url":"https:\/\/www.accgov.com\/DocumentCenter\/View\/113020\/27-Data-Center-Moratorium-Ordinance",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.951243409,
+        "Longitude":-83.3673171393
     },
     {
         "event_id":"COLQUITT-20200623-001",
@@ -285,7 +319,9 @@
         "event_sentiment":"Supportive",
         "source_name":"PR Newswire",
         "source_url":"https:\/\/www.prnewswire.com\/news-releases\/silicon-ranch-pcl-commence-construction-for-20-megawatt-solar-project-in-colquitt-county-georgia-to-help-power-facebook-data-center-301082273.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.1884065967,
+        "Longitude":-83.7688632174
     },
     {
         "event_id":"COLUMBIA-20250404-001",
@@ -301,7 +337,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Atlanta Journal-Constitution",
         "source_url":"https:\/\/www.ajc.com\/news\/business\/plan-for-data-center-campus-near-augusta-adds-to-georgias-backlog\/Q4SYKHMXGBBX5JQOQ6IFGINS3I\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COLUMBIA-20250501-001",
@@ -317,7 +355,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Augusta Chronicle",
         "source_url":"https:\/\/www.yahoo.com\/news\/big-plans-big-data-columbia-080409549.html",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COLUMBIA-20250805-001",
@@ -333,7 +373,9 @@
         "event_sentiment":"Neutral",
         "source_name":"The Augusta Press",
         "source_url":"https:\/\/theaugustapress.com\/columbia-county-development-authority-launches-website-to-inform-the-public-about-data-center-park\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COLUMBIA-20251022-001",
@@ -349,7 +391,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WGAC",
         "source_url":"https:\/\/wgac.com\/2025\/10\/22\/appling-residents-protest-secretive-data-center-plans-amid-rapid-expansion-fears\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COLUMBIA-20251026-001",
@@ -365,7 +409,9 @@
         "event_sentiment":"Neutral",
         "source_name":"WJBF",
         "source_url":"https:\/\/www.wjbf.com\/csra-news\/proposed-columbia-county-data-center-draws-questions-during-georgia-public-service-commissioner-tim-echols-visit\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COLUMBIA-20251107-001",
@@ -381,7 +427,9 @@
         "event_sentiment":"Mixed",
         "source_name":"The Augusta Press",
         "source_url":"https:\/\/theaugustapress.com\/columbia-county-planning-commission-recommends-approval-for-data-center-zoning-draft-amid-vocal-resistance-from-locals\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COLUMBIA-20251117-001",
@@ -397,7 +445,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WRDW\/WAGT",
         "source_url":"https:\/\/www.wrdw.com\/2025\/11\/17\/columbia-county-leaders-hold-hearing-proposed-data-center\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COLUMBIA-20251118-001",
@@ -413,7 +463,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WJBF",
         "source_url":"https:\/\/www.wjbf.com\/news\/georgia-power-approves-columbia-countys-proposed-power-consumption-model-for-data-center\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COOK-20190801-001",
@@ -429,7 +481,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Forbes",
         "source_url":"https:\/\/www.forbes.com\/sites\/billybambrough\/2019\/08\/08\/blockstream-reveals-massive-bitcoin-mining-facilities-fidelity-an-early-customer\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.1539527836,
+        "Longitude":-83.4304434308
     },
     {
         "event_id":"COOK-20190801-002",
@@ -445,7 +499,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Environmental Working Group",
         "source_url":"https:\/\/www.ewg.org\/research\/proof-problems-bitcoin-minings-pollution-toll-us-communities\/georgia",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.1539527836,
+        "Longitude":-83.4304434308
     },
     {
         "event_id":"COOK-20200701-001",
@@ -461,7 +517,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Trend Magazine",
         "source_url":"https:\/\/www.georgiatrend.com\/2020\/07\/31\/adel-cook-county-community-in-motion\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.1539527836,
+        "Longitude":-83.4304434308
     },
     {
         "event_id":"COOK-20200701-002",
@@ -477,7 +535,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Trend Magazine",
         "source_url":"https:\/\/www.georgiatrend.com\/2020\/07\/31\/adel-cook-county-community-in-motion\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.1539527836,
+        "Longitude":-83.4304434308
     },
     {
         "event_id":"COOK-20210518-001",
@@ -493,7 +553,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Nasdaq",
         "source_url":"https:\/\/www.nasdaq.com\/articles\/blockfi-hosts-bitcoin-mining-operations-with-blockstream-2021-05-18",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.1539527836,
+        "Longitude":-83.4304434308
     },
     {
         "event_id":"COOK-20211101-001",
@@ -509,7 +571,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Wall Street Journal",
         "source_url":null,
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.1539527836,
+        "Longitude":-83.4304434308
     },
     {
         "event_id":"COOK-20211221-001",
@@ -525,7 +589,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WFXL",
         "source_url":null,
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.1539527836,
+        "Longitude":-83.4304434308
     },
     {
         "event_id":"COOK-20220906-001",
@@ -541,7 +607,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Adel News Tribune",
         "source_url":"https:\/\/www.adelnewstribune.com\/2022\/09\/15\/blockstream-shuts-down-local-units\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.1539527836,
+        "Longitude":-83.4304434308
     },
     {
         "event_id":"COWETA-20250416-001",
@@ -557,7 +625,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Newnan Times-Herald",
         "source_url":"https:\/\/www.times-herald.com\/news\/new-proposed-4-billion-data-center-development-under-review-in-coweta\/article_2fad1ded-9f1c-4b67-9be1-29a4f027a3d3.html",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"COWETA-20251204-001",
@@ -573,7 +643,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Coweta County Government",
         "source_url":"https:\/\/www.coweta.ga.us\/government\/planning-development-ordinances\/data-center-ordinance",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"CRISP-20250307-001",
@@ -589,7 +661,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/21-million-sq-ft-technology-campus-proposed-in-southern-georgia\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.9229273294,
+        "Longitude":-83.7680852812
     },
     {
         "event_id":"CRISP-20250513-001",
@@ -605,7 +679,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Cordele Dispatch",
         "source_url":"https:\/\/cordeledispatch.com\/2025\/05\/20\/residents-voice-opposition-to-rezoning-for-data-center\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.9229273294,
+        "Longitude":-83.7680852812
     },
     {
         "event_id":"CRISP-20250610-001",
@@ -621,7 +697,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Cordele Dispatch",
         "source_url":"https:\/\/cordeledispatch.com\/2025\/06\/11\/rezoning-approved-for-crisp-county-data-center\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.9229273294,
+        "Longitude":-83.7680852812
     },
     {
         "event_id":"DCA-20251121-001",
@@ -637,7 +715,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Recorder",
         "source_url":"https:\/\/georgiarecorder.com\/2025\/11\/21\/georgia-board-approves-new-review-process-for-large-data-centers\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"DOUGHERTY-20190408-001",
@@ -653,7 +733,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Albany Herald",
         "source_url":"https:\/\/albanyherald.com\/news\/local\/developer-to-bring-13-5-million-boutique-hotel-downtown\/article_0afb06e7-9a24-503a-bf85-1a463b8df124.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.5334198601,
+        "Longitude":-84.2162546468
     },
     {
         "event_id":"DOUGLAS-20250301-001",
@@ -669,7 +751,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Fox 5 Atlanta",
         "source_url":"https:\/\/www.fox5atlanta.com",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.7018905526,
+        "Longitude":-84.768007883
     },
     {
         "event_id":"EARLY-20240501-001",
@@ -685,7 +769,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Early County News",
         "source_url":"https:\/\/www.earlycountynews.com\/articles\/qts-data-centers-considers-a-location-in-blakely\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.3228027158,
+        "Longitude":-84.9037185551
     },
     {
         "event_id":"EARLY-20251114-001",
@@ -701,7 +787,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Rickey Stokes News",
         "source_url":"https:\/\/rickeystokesnews.com\/740-pm-cst-good-news-early-county-georgia\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.3228027158,
+        "Longitude":-84.9037185551
     },
     {
         "event_id":"EARLY-20251118-001",
@@ -717,7 +805,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Early County News",
         "source_url":"https:\/\/www.earlycountynews.com\/articles\/qts-data-centers-considers-a-location-in-blakely\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.3228027158,
+        "Longitude":-84.9037185551
     },
     {
         "event_id":"FANNIN-20240501-001",
@@ -733,7 +823,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Capitol Beat",
         "source_url":"https:\/\/capitol-beat.org\/2024\/05\/cryptocurrency-mining-stirring-concerns-across-rural-georgia\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8641132366,
+        "Longitude":-84.3196810724
     },
     {
         "event_id":"FORSYTH-20240801-001",
@@ -749,7 +841,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Forsyth News",
         "source_url":"https:\/\/www.appenmedia.com\/forsyth\/forsyth-commissioners-focus-on-rules-to-ensure-data-centers-are-quiet\/article_6ab0ce26-b0ee-11ef-9c19-3fc1b16b992e.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.2255068281,
+        "Longitude":-84.125085988
     },
     {
         "event_id":"FORSYTH-20241126-001",
@@ -765,7 +859,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Forsyth News",
         "source_url":"https:\/\/www.appenmedia.com\/forsyth\/forsyth-commissioners-focus-on-rules-to-ensure-data-centers-are-quiet\/article_6ab0ce26-b0ee-11ef-9c19-3fc1b16b992e.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.2255068281,
+        "Longitude":-84.125085988
     },
     {
         "event_id":"FORSYTH-20250101-001",
@@ -781,7 +877,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.2255068281,
+        "Longitude":-84.125085988
     },
     {
         "event_id":"FULTON-20240903-001",
@@ -797,7 +895,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"FULTON-20250601-001",
@@ -813,7 +913,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"GILMER-20240301-001",
@@ -829,7 +931,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Capitol Beat",
         "source_url":"https:\/\/capitol-beat.org\/2024\/05\/cryptocurrency-mining-stirring-concerns-across-rural-georgia\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.6911620993,
+        "Longitude":-84.455610099
     },
     {
         "event_id":"GILMER-20241001-001",
@@ -845,7 +949,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/12\/04\/the-costs-of-crypto-mining-in-georgia-will-it-be-regulated-along-new-data-center",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.6911620993,
+        "Longitude":-84.455610099
     },
     {
         "event_id":"GILMER-20241001-002",
@@ -861,7 +967,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/12\/04\/the-costs-of-crypto-mining-in-georgia-will-it-be-regulated-along-new-data-center",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.6911620993,
+        "Longitude":-84.455610099
     },
     {
         "event_id":"GLYNN-20250318-001",
@@ -877,7 +985,9 @@
         "event_sentiment":"Neutral",
         "source_name":"The Brunswick News",
         "source_url":"https:\/\/thebrunswicknews.com\/news\/local_news\/county-to-consider-data-center-ordinance\/article_dbdd4b00-034c-11f0-bb5b-4365191e3e12.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":31.2132964716,
+        "Longitude":-81.4936241962
     },
     {
         "event_id":"HABERSHAM-20251117-001",
@@ -893,7 +1003,9 @@
         "event_sentiment":"Neutral",
         "source_name":"AccessWDUN",
         "source_url":"https:\/\/accesswdun.com\/news\/data-center-284-acre-mixed-use-development-proposed-in-habersham-county",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.6309695021,
+        "Longitude":-83.5311315452
     },
     {
         "event_id":"HALL-20251201-001",
@@ -909,7 +1021,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WSB-TV",
         "source_url":"https:\/\/www.wsbtv.com\/news\/local\/hall-county\/plans-12b-data-center-abandoned-hall-county\/3T36FITZWRBMXD5USUERFBILRY\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":34.3169996671,
+        "Longitude":-83.8196613929
     },
     {
         "event_id":"HOUSTON-20241217-001",
@@ -925,7 +1039,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Houston Home Journal",
         "source_url":"https:\/\/hhjonline.com\/perry-city-council-propose-an-amendment-to-prevent-city-data-centers\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":32.458922754,
+        "Longitude":-83.6663077277
     },
     {
         "event_id":"JONES-20250916-001",
@@ -941,7 +1057,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0251040152,
+        "Longitude":-83.5604855474
     },
     {
         "event_id":"JONES-20251106-001",
@@ -957,7 +1075,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/11\/06\/jones-county-rescinds-zoning-ordinances-around-data-centers-due-legal-issues",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0251040152,
+        "Longitude":-83.5604855474
     },
     {
         "event_id":"MONROE-20250805-001",
@@ -973,7 +1093,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/14\/google-drops-42-million-on-monroe-county-land-for-data-center-what-we-know",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.013836134,
+        "Longitude":-83.9187076484
     },
     {
         "event_id":"MONROE-20250926-001",
@@ -989,7 +1111,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/14\/google-drops-42-million-on-monroe-county-land-for-data-center-what-we-know",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.013836134,
+        "Longitude":-83.9187076484
     },
     {
         "event_id":"MONROE-20251101-001",
@@ -1005,7 +1129,9 @@
         "event_sentiment":"Opposed",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/forsyth-monroe\/monroe-county-passes-data-center-moratorium-will-review-potential-limitations\/93-195cbb55-5a2a-4f29-879f-c0f3f859aef2",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.013836134,
+        "Longitude":-83.9187076484
     },
     {
         "event_id":"MUSCOGEE-20240515-001",
@@ -1021,7 +1147,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Knowledge",
         "source_url":"https:\/\/www.datacenterknowledge.com\/investing\/synovus-plans-22m-georgia-data-center",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":32.5099625993,
+        "Longitude":-84.8770360566
     },
     {
         "event_id":"POLK-20251007-001",
@@ -1037,7 +1165,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Northwest Georgia News",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/rome\/news\/local\/cave-spring-mulls-moratorium-on-data-centers\/article_b299150d-236a-417f-86db-054bab63b0bb.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.0018223419,
+        "Longitude":-85.1881769724
     },
     {
         "event_id":"QTS-20240801-001",
@@ -1053,7 +1183,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Baxtel",
         "source_url":"https:\/\/baxtel.com\/data-center\/qts-fayetteville",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"RICHMOND-20220118-001",
@@ -1069,7 +1201,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WRDW\/WAGT",
         "source_url":"https:\/\/www.wrdw.com\/2022\/01\/18\/company-plans-140-acre-data-center-campus-next-fort-gordon\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.3596280175,
+        "Longitude":-82.073552367
     },
     {
         "event_id":"RICHMOND-20220502-001",
@@ -1085,7 +1219,9 @@
         "event_sentiment":"Supportive",
         "source_name":"The Augusta Press",
         "source_url":"https:\/\/theaugustapress.com\/t5-data-center-near-fort-gordon-further-underway\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.3596280175,
+        "Longitude":-82.073552367
     },
     {
         "event_id":"RICHMOND-20240329-001",
@@ -1101,7 +1237,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/plans-filed-to-expand-former-t5-campus-site-in-augusta-georgia\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.3596280175,
+        "Longitude":-82.073552367
     },
     {
         "event_id":"RICHMOND-20240603-001",
@@ -1117,7 +1255,9 @@
         "event_sentiment":"Supportive",
         "source_name":"The Augusta Press",
         "source_url":"https:\/\/theaugustapress.com\/augusta-planning-commission-vote-to-recommend-rezoning-for-data-center-on-gordon-highway\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.3596280175,
+        "Longitude":-82.073552367
     },
     {
         "event_id":"SPALDING-20241201-001",
@@ -1133,7 +1273,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Griffin Daily News",
         "source_url":"https:\/\/www.griffindailynews.com\/news\/spalding-county-resident-raises-alarm-about-a-proposed-data-center-on-high-falls-road\/article_ec6873d9-ad5a-5327-b940-fbec3e36b16c.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"SPALDING-20250331-001",
@@ -1149,7 +1291,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/plans-filed-for-255-million-sq-ft-data-center-campus-outside-atlanta\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"SPALDING-20250408-001",
@@ -1165,7 +1309,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Griffin Daily News",
         "source_url":"https:\/\/www.griffindailynews.com\/news\/spalding-county-resident-raises-alarm-about-a-proposed-data-center-on-high-falls-road\/article_ec6873d9-ad5a-5327-b940-fbec3e36b16c.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"SPALDING-20250624-001",
@@ -1181,7 +1327,9 @@
         "event_sentiment":"Supportive",
         "source_name":"CitizenPortal.ai",
         "source_url":"https:\/\/citizenportal.ai\/articles\/5106623\/Spalding-County\/Georgia\/Griffin-Planning-Commission-reviews-rezoning-request-for-data-center-campus",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"SPALDING-20250714-001",
@@ -1197,7 +1345,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Griffin Daily News",
         "source_url":"https:\/\/www.griffindailynews.com\/news\/spalding-county-boc-approves-first-data-center-in-county\/article_015019a2-3ef7-5366-8413-6715e178e9cc.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"SPALDING-20250714-002",
@@ -1213,7 +1363,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WSB-TV",
         "source_url":"https:\/\/www.wsbtv.com\/news\/local\/spalding-county\/spalding-county-commissioners-hold-hearing-data-center-development\/EE6EZTH4OVHYDBDQUBBA6UR7LI\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"SPALDING-20250828-001",
@@ -1229,7 +1381,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Griffin Daily News",
         "source_url":"https:\/\/www.griffindailynews.com\/news\/second-data-center-project-approved-by-spalding-county-boc\/article_05aa6b00-ca33-58f8-b979-bc4d8ed59034.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"SPALDING-20251023-001",
@@ -1245,7 +1399,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Griffin Daily News",
         "source_url":"https:\/\/www.griffindailynews.com\/news\/second-data-center-project-approved-by-spalding-county-boc\/article_05aa6b00-ca33-58f8-b979-bc4d8ed59034.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"SPALDING-20251023-002",
@@ -1261,7 +1417,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Griffin Daily News",
         "source_url":"https:\/\/www.griffindailynews.com\/news\/second-data-center-project-approved-by-spalding-county-boc\/article_05aa6b00-ca33-58f8-b979-bc4d8ed59034.html",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"SWITCH-20240801-001",
@@ -1277,7 +1435,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/switch-to-invest-772-million-in-second-georgia-campus-outside-atlanta\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"T5-20240828-001",
@@ -1293,7 +1453,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"TROUP-20240809-001",
@@ -1309,7 +1471,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/thor-equities-buys-270-acres-in-georgia-for-data-center\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20250310-001",
@@ -1325,7 +1489,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/15-million-sq-ft-technology-campus-proposed-in-lagrange-georgia\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20250325-001",
@@ -1341,7 +1507,9 @@
         "event_sentiment":"Opposed",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/2025\/03\/29\/vote-to-request-annexation-for-controversial-data-center-fails-in-lagrange\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20250904-001",
@@ -1357,7 +1525,9 @@
         "event_sentiment":"Opposed",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/2025\/09\/09\/citizens-raise-concerns-over-data-centers-in-town-hall-meeting\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20250916-001",
@@ -1373,7 +1543,9 @@
         "event_sentiment":"Opposed",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/2025\/09\/18\/hold-on-county-sets-90-day-moratorium-on-new-data-centers\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20250916-002",
@@ -1389,7 +1561,9 @@
         "event_sentiment":"Opposed",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/2025\/09\/16\/185894\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20250923-001",
@@ -1405,7 +1579,9 @@
         "event_sentiment":"Opposed",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/2025\/09\/27\/lagrange-approves-180-day-moratorium-on-new-data-centers-project-pegasus-unaffected-2\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20250927-001",
@@ -1421,7 +1597,9 @@
         "event_sentiment":"Opposed",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/2025\/09\/27\/lagrange-approves-180-day-moratorium-on-new-data-centers-project-pegasus-unaffected-2\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20251101-001",
@@ -1437,7 +1615,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/11\/26\/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20251104-001",
@@ -1453,7 +1633,9 @@
         "event_sentiment":"Opposed",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/news\/hogansville-residents-protest-against-proposed-data-center-c8f47f93",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20251117-001",
@@ -1469,7 +1651,9 @@
         "event_sentiment":"Opposed",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/news\/whats-hogansvilles-legacy-hogansville-council-hears-from-bailey-bfde2a68",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20251202-001",
@@ -1485,7 +1669,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/11\/26\/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20251203-001",
@@ -1501,7 +1687,9 @@
         "event_sentiment":"Opposed",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/news\/update-county-extends-data-center-moratorium-0b70e74c",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TROUP-20251203-002",
@@ -1517,7 +1705,9 @@
         "event_sentiment":"Neutral",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/news\/county-considers-extending-data-center-moratorium-fa828bdf",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"TWIGGS-20250918-001",
@@ -1533,7 +1723,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/09\/19\/rural-twiggs-county-approves-rezoning-for-data-center-city-sized-appetite-for-power",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"WALTON-20241210-001",
@@ -1549,7 +1741,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Walton Tribune",
         "source_url":"https:\/\/www.waltontribune.com",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WALTON-20250916-001",
@@ -1565,7 +1759,9 @@
         "event_sentiment":"Opposed",
         "source_name":"The Covington News",
         "source_url":"https:\/\/www.covnews.com\/news\/cities\/social-circle-enacts-90-day-moratorium-data-centers-vote-annexations\/",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WALTON-20251021-001",
@@ -1581,7 +1777,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WALTON-20251100-001",
@@ -1597,7 +1795,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Walton Tribune",
         "source_url":"https:\/\/www.waltontribune.com\/news\/article_9dc408ba-b705-11ef-9be2-5ff2fc6d68d5.html",
-        "date_captured":"2025-12-15"
+        "date_captured":"2025-12-15",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WASHINGTON-20200701-001",
@@ -1613,7 +1813,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Mawson Infrastructure Group",
         "source_url":"https:\/\/www.mawsoninc.com\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":32.9694962648,
+        "Longitude":-82.7958690687
     },
     {
         "event_id":"WASHINGTON-20220203-001",
@@ -1629,7 +1831,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WGXA",
         "source_url":"https:\/\/wgxa.tv\/news\/local\/bitcoin-facility-expansion-celebrated-with-ribbon-cutting-in-washington-county",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":32.9694962648,
+        "Longitude":-82.7958690687
     },
     {
         "event_id":"WASHINGTON-20220303-001",
@@ -1645,7 +1849,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Mawson Infrastructure Group",
         "source_url":"https:\/\/www.mawsoninc.com\/mawson-announces-expansion-of-sandersville-georgia-bitcoin-mining-facility-to-230mw\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":32.9694962648,
+        "Longitude":-82.7958690687
     },
     {
         "event_id":"WASHINGTON-20220701-001",
@@ -1661,7 +1867,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Baxtel",
         "source_url":"https:\/\/baxtel.com\/data-center\/cleanspark-sandersville",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":32.9694962648,
+        "Longitude":-82.7958690687
     },
     {
         "event_id":"WASHINGTON-20240620-001",
@@ -1677,7 +1885,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/cleanspark-to-acquire-five-cryptomine-sites-in-georgia\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":32.9694962648,
+        "Longitude":-82.7958690687
     },
     {
         "event_id":"WHITFIELD-20180701-001",
@@ -1693,7 +1903,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Global Energy Monitor",
         "source_url":"https:\/\/www.gem.wiki\/Core_Scientific_Whitfield_County_facility",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20191203-001",
@@ -1709,7 +1921,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Dalton Daily Citizen",
         "source_url":null,
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20210701-001",
@@ -1725,7 +1939,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Baxtel",
         "source_url":"https:\/\/baxtel.com\/data-center\/core-scientific-dalton-1",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20241201-001",
@@ -1741,7 +1957,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Dalton Daily Citizen",
         "source_url":"https:\/\/daltoncitizen.com\/2025\/09\/27\/dalton-whitfield-joint-development-authority-moves-forward-on-deal-for-data-center\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20250201-001",
@@ -1757,7 +1975,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Dalton Daily Citizen",
         "source_url":"https:\/\/daltoncitizen.com\/2025\/09\/27\/dalton-whitfield-joint-development-authority-moves-forward-on-deal-for-data-center\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20250310-001",
@@ -1773,7 +1993,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Dalton Daily Citizen",
         "source_url":"https:\/\/daltoncitizen.com\/2025\/03\/11\/whitfield-county-commissioners-approve-rezoning-for-data-center-despite-opposition\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20250317-001",
@@ -1789,7 +2011,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/core-scientific-plans-new-ai-data-centers-in-dalton-georgia\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20250419-001",
@@ -1805,7 +2029,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Dalton Daily Citizen",
         "source_url":"https:\/\/daltoncitizen.com\/2025\/04\/19\/data-center-will-be-revenue-generator-says-robbins\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20250501-001",
@@ -1821,7 +2047,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Dalton Daily Citizen",
         "source_url":"https:\/\/daltoncitizen.com\/2025\/09\/27\/dalton-whitfield-joint-development-authority-moves-forward-on-deal-for-data-center\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"WHITFIELD-20250927-001",
@@ -1837,7 +2065,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Dalton Daily Citizen",
         "source_url":"https:\/\/daltoncitizen.com\/2025\/09\/27\/dalton-whitfield-joint-development-authority-moves-forward-on-deal-for-data-center\/",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.8055302861,
+        "Longitude":-84.9672933459
     },
     {
         "event_id":"LUMPKIN-20250101-001",
@@ -1853,7 +2083,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.5713100265,
+        "Longitude":-84.0030213406
     },
     {
         "event_id":"LUMPKIN-20250601-001",
@@ -1869,7 +2101,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.5713100265,
+        "Longitude":-84.0030213406
     },
     {
         "event_id":"LUMPKIN-20251022-001",
@@ -1885,7 +2119,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-16"
+        "date_captured":"2025-12-16",
+        "Latitude":34.5713100265,
+        "Longitude":-84.0030213406
     },
     {
         "event_id":"BARTOW-20250101-001",
@@ -1901,7 +2137,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"BARTOW-20250320-001",
@@ -1917,7 +2155,9 @@
         "event_sentiment":"Opposed",
         "source_name":"FOX 5 Atlanta",
         "source_url":"https:\/\/www.fox5atlanta.com\/news\/backlash-over-proposed-data-center-near-adairsville",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"BARTOW-20250320-002",
@@ -1933,7 +2173,9 @@
         "event_sentiment":"Neutral",
         "source_name":"FOX 5 Atlanta",
         "source_url":"https:\/\/www.fox5atlanta.com\/news\/backlash-over-proposed-data-center-near-adairsville",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"BARTOW-20250428-001",
@@ -1949,7 +2191,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Media Group",
         "source_url":"https:\/\/georgiamediagroup.org\/2025\/04\/28\/data-center-rezoning-meeting-set-for-tonight\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"BARTOW-20250101-002",
@@ -1965,7 +2209,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Blackridge Research",
         "source_url":"https:\/\/www.blackridgeresearch.com\/blog\/latest-list-upcoming-data-centers-in-georgia-ga-united-states-us",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"BARTOW-20240701-001",
@@ -1981,7 +2227,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Location of Choice",
         "source_url":"https:\/\/locationofchoice.com\/index.php\/news\/article\/1046",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":34.2376196923,
+        "Longitude":-84.8403629572
     },
     {
         "event_id":"BUTTS-20250107-001",
@@ -1997,7 +2245,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WSB-TV",
         "source_url":"https:\/\/www.wsbtv.com\/news\/local\/atlanta\/amazon-invest-11-billion-ga-it-adds-facilities-butts-douglas-counties-ai-expansion\/NLWFLIC5JRCIHAUXGNX2R47Y3Y\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.287838349,
+        "Longitude":-83.9571852114
     },
     {
         "event_id":"CLAYTON-20250903-001",
@@ -2013,7 +2263,9 @@
         "event_sentiment":"Opposed",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.5418991619,
+        "Longitude":-84.3575646762
     },
     {
         "event_id":"CLAYTON-20240701-001",
@@ -2029,7 +2281,9 @@
         "event_sentiment":"Supportive",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.5418991619,
+        "Longitude":-84.3575646762
     },
     {
         "event_id":"COWETA-20250506-001",
@@ -2045,7 +2299,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Atlanta News First",
         "source_url":"https:\/\/www.atlantanewsfirst.com\/2025\/05\/07\/coweta-county-puts-moratorium-proposed-data-center\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"COWETA-20250401-001",
@@ -2061,7 +2317,9 @@
         "event_sentiment":"Supportive",
         "source_name":"AJC",
         "source_url":"https:\/\/www.ajc.com\/news\/business\/coweta-county-issues-moratorium-to-pause-data-center-projects\/2J464ISZIVB4VMFSBXZXNVHZXE\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"COWETA-20250301-001",
@@ -2077,7 +2335,9 @@
         "event_sentiment":"Opposed",
         "source_name":"AJC",
         "source_url":"https:\/\/www.ajc.com\/news\/business\/coweta-county-issues-moratorium-to-pause-data-center-projects\/2J464ISZIVB4VMFSBXZXNVHZXE\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"COWETA-20250201-001",
@@ -2093,7 +2353,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Atlanta News First",
         "source_url":"https:\/\/www.atlantanewsfirst.com\/2025\/05\/07\/coweta-county-puts-moratorium-proposed-data-center\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"DEKALB-20251216-001",
@@ -2109,7 +2371,9 @@
         "event_sentiment":"Opposed",
         "source_name":"AJC",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7715120512,
+        "Longitude":-84.2263564668
     },
     {
         "event_id":"DEKALB-20251015-001",
@@ -2125,7 +2389,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Atlanta News First",
         "source_url":"https:\/\/www.atlantanewsfirst.com\/2025\/10\/15\/dekalb-county-commissioners-extend-data-center-moratorium\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7715120512,
+        "Longitude":-84.2263564668
     },
     {
         "event_id":"DEKALB-20251014-001",
@@ -2141,7 +2407,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Decaturish",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7715120512,
+        "Longitude":-84.2263564668
     },
     {
         "event_id":"DEKALB-20250701-001",
@@ -2157,7 +2425,9 @@
         "event_sentiment":"Opposed",
         "source_name":"AJC",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7715120512,
+        "Longitude":-84.2263564668
     },
     {
         "event_id":"DEKALB-20250601-001",
@@ -2173,7 +2443,9 @@
         "event_sentiment":"Neutral",
         "source_name":"roughdraftatlanta.com",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7715120512,
+        "Longitude":-84.2263564668
     },
     {
         "event_id":"DOUGLAS-20250811-001",
@@ -2189,7 +2461,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Blackridge Research",
         "source_url":"https:\/\/www.blackridgeresearch.com\/blog\/latest-list-upcoming-data-centers-in-georgia-ga-united-states-us",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7018905526,
+        "Longitude":-84.768007883
     },
     {
         "event_id":"DOUGLAS-20250801-001",
@@ -2205,7 +2479,9 @@
         "event_sentiment":"Opposed",
         "source_name":"FOX 5 Atlanta",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7018905526,
+        "Longitude":-84.768007883
     },
     {
         "event_id":"DOUGLAS-20250319-001",
@@ -2221,7 +2497,9 @@
         "event_sentiment":"Opposed",
         "source_name":"FOX 5 Atlanta",
         "source_url":"https:\/\/www.fox5atlanta.com\/news\/douglas-county-data-centers-moratorium",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7018905526,
+        "Longitude":-84.768007883
     },
     {
         "event_id":"DOUGLAS-20250107-001",
@@ -2237,7 +2515,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Atlanta News First",
         "source_url":"https:\/\/www.atlantanewsfirst.com\/2025\/01\/08\/amazon-subsidiary-pledges-11-billion-build-more-data-ai-infrastructure-metro-atlanta\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7018905526,
+        "Longitude":-84.768007883
     },
     {
         "event_id":"DOUGLAS-20240101-001",
@@ -2253,7 +2533,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Blackridge Research",
         "source_url":"https:\/\/www.blackridgeresearch.com\/blog\/latest-list-upcoming-data-centers-in-georgia-ga-united-states-us",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7018905526,
+        "Longitude":-84.768007883
     },
     {
         "event_id":"DOUGLAS-20080101-001",
@@ -2269,7 +2551,9 @@
         "event_sentiment":"Supportive",
         "source_name":"AJC",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7018905526,
+        "Longitude":-84.768007883
     },
     {
         "event_id":"FAYETTE-20230101-001",
@@ -2285,7 +2569,9 @@
         "event_sentiment":"Supportive",
         "source_name":"QTS Data Centers",
         "source_url":"https:\/\/qtsdatacenters.com\/data-centers\/fayetteville\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"FAYETTE-20220817-001",
@@ -2301,7 +2587,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Urbanize Atlanta",
         "source_url":"https:\/\/atlanta.urbanize.city\/post\/worlds-largest-data-center-announced-south-city-multi-tenant",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"FAYETTE-20250601-001",
@@ -2317,7 +2605,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WABE",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"FULTON-20250603-001",
@@ -2333,7 +2623,9 @@
         "event_sentiment":"Opposed",
         "source_name":"AJC",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"FULTON-20240901-001",
@@ -2349,7 +2641,9 @@
         "event_sentiment":"Opposed",
         "source_name":"AJC",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"FULTON-20240828-001",
@@ -2365,7 +2659,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Blackridge Research",
         "source_url":"https:\/\/www.blackridgeresearch.com\/blog\/latest-list-upcoming-data-centers-in-georgia-ga-united-states-us",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"FULTON-20240701-001",
@@ -2381,7 +2677,9 @@
         "event_sentiment":"Supportive",
         "source_name":"AJC",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"FULTON-20240601-001",
@@ -2397,7 +2695,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Capital B News",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"GWINNETT-20240101-001",
@@ -2413,7 +2713,9 @@
         "event_sentiment":"Supportive",
         "source_name":"QTS Data Centers",
         "source_url":"https:\/\/qtsdatacenters.com",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.961862623,
+        "Longitude":-84.0235734076
     },
     {
         "event_id":"HENRY-20250325-001",
@@ -2429,7 +2731,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/133-acre-data-center-approved-in-hampton-georgia\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4529655949,
+        "Longitude":-84.1541705805
     },
     {
         "event_id":"HENRY-20250106-001",
@@ -2445,7 +2749,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Henry GA News",
         "source_url":"https:\/\/henryga.news",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4529655949,
+        "Longitude":-84.1541705805
     },
     {
         "event_id":"HENRY-20241101-001",
@@ -2461,7 +2767,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Henry GA News",
         "source_url":"https:\/\/henryga.news",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.4529655949,
+        "Longitude":-84.1541705805
     },
     {
         "event_id":"LAMAR-20250901-001",
@@ -2477,7 +2785,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0765038999,
+        "Longitude":-84.1394568965
     },
     {
         "event_id":"LAMAR-20250725-001",
@@ -2493,7 +2803,9 @@
         "event_sentiment":"Supportive",
         "source_name":"AJC",
         "source_url":"https:\/\/www.ajc.com\/business\/2025\/08\/amazons-data-center-division-pays-270m-to-buy-sprawling-georgia-property\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0765038999,
+        "Longitude":-84.1394568965
     },
     {
         "event_id":"NEWTON-20250101-001",
@@ -2509,7 +2821,9 @@
         "event_sentiment":"Neutral",
         "source_name":"ppc.land",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.5550185366,
+        "Longitude":-83.85019106
     },
     {
         "event_id":"NEWTON-20250601-001",
@@ -2525,7 +2839,9 @@
         "event_sentiment":"Opposed",
         "source_name":"New York Times",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.5550185366,
+        "Longitude":-83.85019106
     },
     {
         "event_id":"NEWTON-20180101-001",
@@ -2541,7 +2857,9 @@
         "event_sentiment":"Supportive",
         "source_name":"AJC",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.5550185366,
+        "Longitude":-83.85019106
     },
     {
         "event_id":"PIKE-20250901-001",
@@ -2557,7 +2875,9 @@
         "event_sentiment":"Neutral",
         "source_name":"GPB",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/10\/22\/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.0922536658,
+        "Longitude":-84.3892457845
     },
     {
         "event_id":"ROCKDALE-20250901-001",
@@ -2573,7 +2893,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Rockdale Newton Citizen",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.6542111627,
+        "Longitude":-84.0266554724
     },
     {
         "event_id":"ROCKDALE-20240901-001",
@@ -2589,7 +2911,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/dc-blox-breaks-ground-on-216mw-data-center-campus-outside-atlanta-georgia\/",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.6542111627,
+        "Longitude":-84.0266554724
     },
     {
         "event_id":"ROCKDALE-20231212-001",
@@ -2605,7 +2929,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Business Wire",
         "source_url":"https:\/\/www.businesswire.com\/news\/home\/20231212252266\/en\/DC-BLOX-Set-to-Build-Hyperscale-Ready-Data-Center-Campus-in-Rockdale-County-Georgia",
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.6542111627,
+        "Longitude":-84.0266554724
     },
     {
         "event_id":"WALTON-20240701-001",
@@ -2621,7 +2947,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Fox Business",
         "source_url":null,
-        "date_captured":"2025-12-17"
+        "date_captured":"2025-12-17",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"FLOYD-20211001-001",
@@ -2637,7 +2965,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Northwest Georgia News",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/rome\/news\/local\/microsoft-to-invest-1-billion-in-data-center-in-floyd-county\/article_128f3c2c-772f-11ee-a991-7fb8d4f28f86.html",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20231030-001",
@@ -2653,7 +2983,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Northwest Georgia News",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/rome\/news\/local\/microsoft-to-invest-1-billion-in-data-center-in-floyd-county\/article_128f3c2c-772f-11ee-a991-7fb8d4f28f86.html",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20231030-002",
@@ -2669,7 +3001,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Rome Floyd Development Authority",
         "source_url":"https:\/\/developromefloyd.com\/2023\/10\/updated-microsoft-to-invest-1-billion-in-data-center-in-floyd-county\/",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20241126-001",
@@ -2685,7 +3019,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Northwest Georgia News",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/rome\/news\/local\/data-center-planned-for-114-acres-behind-coosa-high-school\/article_1070f5ce-bc8f-11ef-9282-17d448ca4261.html",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20241217-001",
@@ -2701,7 +3037,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WRGA News",
         "source_url":"https:\/\/www.wrganews.com\/2024\/12\/17\/data-center-planned-for-114-acres-behind-coosa-high-school\/",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20241217-002",
@@ -2717,7 +3055,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Northwest Georgia News",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/rome\/news\/local\/a-third-data-center-expected-in-north-floyd-county\/article_e05b3e38-cded-11ef-847a-b73ba7068327.html",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20250101-001",
@@ -2733,7 +3073,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/atlas-named-as-developer-on-project-sassy-in-rome-georgia\/",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20250206-001",
@@ -2749,7 +3091,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WRGA News",
         "source_url":"https:\/\/www.wrganews.com\/2025\/02\/06\/rezoning-application-for-data-center-at-plainville-road-at-highway-53-withdrawn\/",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20250401-001",
@@ -2765,7 +3109,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Bisnow Atlanta",
         "source_url":"https:\/\/www.bisnow.com\/atlanta\/news\/data-center\/developer-pitches-24m-sf-georgia-data-center-campus-129233",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20250502-001",
@@ -2781,7 +3127,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WRGA News",
         "source_url":"https:\/\/www.wrganews.com\/2025\/05\/02\/planning-commission-recommends-approval-of-rezoning-for-data-center-in-coosa\/",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20250527-001",
@@ -2797,7 +3145,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WRGA News",
         "source_url":"https:\/\/www.wrganews.com\/2025\/05\/27\/coosa-residents-pack-the-room-as-floyd-county-commission-approves-data-center-rezoning\/",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20250527-002",
@@ -2813,7 +3163,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Northwest Georgia News",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/rome\/news\/local\/floyd-county-commission-clears-the-way-for-coosa-data-center\/article_a6062a6a-e6f2-4302-818d-83ee2bb09bf9.html",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"FLOYD-20250827-001",
@@ -2829,7 +3181,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WRGA News",
         "source_url":"https:\/\/www.wrganews.com\/2025\/08\/27\/development-authority-approves-sale-of-property-for-data-center\/",
-        "date_captured":"2025-12-19"
+        "date_captured":"2025-12-19",
+        "Latitude":34.263081092,
+        "Longitude":-85.2143831723
     },
     {
         "event_id":"CLAYTON-20240701-002",
@@ -2845,7 +3199,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Clayton News",
         "source_url":"https:\/\/www.news-daily.com\/news\/clayton-boc-passes-data-center-moratorium\/article_e3ebec5c-f6ce-432f-a584-8968556756ae.html",
-        "date_captured":"2026-01-08"
+        "date_captured":"2026-01-08",
+        "Latitude":33.5418991619,
+        "Longitude":-84.3575646762
     },
     {
         "event_id":"GWINNETT-20240101-002",
@@ -2861,7 +3217,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Brightlio",
         "source_url":"https:\/\/brightlio.com\/data-centers-in-georgia\/",
-        "date_captured":"2026-01-08"
+        "date_captured":"2026-01-08",
+        "Latitude":33.961862623,
+        "Longitude":-84.0235734076
     },
     {
         "event_id":"JACKSON-20241205-001",
@@ -2877,7 +3235,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/northern-data-to-develop-120mw-hpc-data-center-in-georgia\/",
-        "date_captured":"2026-01-08"
+        "date_captured":"2026-01-08",
+        "Latitude":34.133970045,
+        "Longitude":-83.5664213864
     },
     {
         "event_id":"BANKS-20241205-001",
@@ -2893,7 +3253,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/northern-data-to-develop-120mw-hpc-data-center-in-georgia\/",
-        "date_captured":"2026-01-08"
+        "date_captured":"2026-01-08",
+        "Latitude":34.3543108964,
+        "Longitude":-83.4971968276
     },
     {
         "event_id":"CHATHAM-20251121-001",
@@ -2909,7 +3271,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Recorder",
         "source_url":"https:\/\/georgiarecorder.com\/2025\/11\/21\/georgia-board-approves-new-review-process-for-large-data-centers\/",
-        "date_captured":"2026-01-08"
+        "date_captured":"2026-01-08",
+        "Latitude":31.9738870247,
+        "Longitude":-81.0938281893
     },
     {
         "event_id":"COLQUITT-20250802-001",
@@ -2925,7 +3289,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/09\/10\/how-georgia-became-the-wild-west-of-data-centers-transparency-on-the-horizon",
-        "date_captured":"2026-01-08"
+        "date_captured":"2026-01-08",
+        "Latitude":31.1884065967,
+        "Longitude":-83.7688632174
     },
     {
         "event_id":"MCDUFFIE-20260114-001",
@@ -2941,7 +3307,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/plans-filed-for-six-building-data-center-campus-outside-augusta-georgia\/",
-        "date_captured":"2026-01-20"
+        "date_captured":"2026-01-20",
+        "Latitude":33.4827681381,
+        "Longitude":-82.4813088962
     },
     {
         "event_id":"COWETA-20251215-001",
@@ -2957,7 +3325,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2026\/01\/06\/georgia-mayor-pushes-hard-for-data-centers-in-small-town-grantville-heres-why",
-        "date_captured":"2026-01-20"
+        "date_captured":"2026-01-20",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"NEWTON-20250101-002",
@@ -2973,7 +3343,9 @@
         "event_sentiment":"Opposed",
         "source_name":"The Covington News",
         "source_url":"https:\/\/www.covnews.com\/news\/cities\/city-covington-imposes-moratorium-new-data-center-requests\/",
-        "date_captured":"2026-01-20"
+        "date_captured":"2026-01-20",
+        "Latitude":33.5550185366,
+        "Longitude":-83.85019106
     },
     {
         "event_id":"PSC-20251219-001",
@@ -2989,7 +3361,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2025\/12\/19\/georgia-psc-gives-the-greenlight-georgia-powers-massive-data-center-spurred",
-        "date_captured":"2026-01-20"
+        "date_captured":"2026-01-20",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"STATE-20260114-001",
@@ -3005,7 +3379,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WRDW",
         "source_url":"https:\/\/www.wrdw.com\/2026\/01\/15\/ga-lawmakers-propose-temporary-pause-data-center-boom\/",
-        "date_captured":"2026-01-20"
+        "date_captured":"2026-01-20",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"FAYETTE-20251001-001",
@@ -3021,7 +3397,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/microsoft-launches-atlanta-fairwater-data-center-two-stories-no-ups-or-gen-sets\/",
-        "date_captured":"2026-01-20"
+        "date_captured":"2026-01-20",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"FAYETTE-20251101-001",
@@ -3037,7 +3415,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/qts-files-to-expand-fayetteville-data-center-campus-in-georgia\/",
-        "date_captured":"2026-01-20"
+        "date_captured":"2026-01-20",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"SPALDING-20251125-001",
@@ -3053,7 +3433,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/application-filed-for-5-million-sq-ft-data-center-campus-outside-atlanta-georgia\/",
-        "date_captured":"2026-01-20"
+        "date_captured":"2026-01-20",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"CRAWFORD-20260106-001",
@@ -3069,7 +3451,9 @@
         "event_sentiment":"Opposed",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/peach-crawford\/crawford-county-commissioners-pass-moratorium-on-data-centers\/93-3f2eec12-3bb9-4963-aaee-dc7cdc800d14",
-        "date_captured":"2026-01-20"
+        "date_captured":"2026-01-20",
+        "Latitude":32.7144844332,
+        "Longitude":-83.9863224672
     },
     {
         "event_id":"SPALDING-20260113-001",
@@ -3085,7 +3469,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WSB-TV",
         "source_url":"https:\/\/www.wsbtv.com\/news\/local\/spalding-county\/griffin-city-council-passes-data-center-moratorium-through-mid-july\/FW2ZW2LYFZEGJJLRHZYLUD3VXA\/",
-        "date_captured":"2026-01-21"
+        "date_captured":"2026-01-21",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"COLUMBIA-20251202-001",
@@ -3101,7 +3487,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"CitizenPortal.ai",
         "source_url":"https:\/\/citizenportal.ai\/articles\/7035858\/Columbia-County\/Georgia\/Columbia-County-approves-datacenter-zoning-despite-public-concern-over-noise-water-and-transparency",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"COLUMBIA-20260121-001",
@@ -3117,7 +3505,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WRDW",
         "source_url":"https:\/\/www.wrdw.com\/2026\/01\/16\/data-center-projects-advance-3-local-counties-despite-resident-opposition\/",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"TWIGGS-20251115-001",
@@ -3133,7 +3523,9 @@
         "event_sentiment":"Opposed",
         "source_name":"13WMAZ",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/twiggs\/landowners-file-lawsuit-trying-stop-massive-twiggs-county-data-center\/93-17c91f2c-8504-417a-a2d9-2be68d00d8ec",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"TWIGGS-20251201-001",
@@ -3149,7 +3541,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Georgia Recorder",
         "source_url":"https:\/\/georgiarecorder.com\/2026\/01\/06\/data-center-gold-rush-pits-local-officials-hunt-for-new-revenue-against-residents-concerns\/",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"MONROE-20251128-001",
@@ -3165,7 +3559,9 @@
         "event_sentiment":"Neutral",
         "source_name":"AJC",
         "source_url":"https:\/\/www.ajc.com\/business\/2025\/11\/21b-data-center-proposal-aims-to-become-one-of-georgias-largest\/",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":33.013836134,
+        "Longitude":-83.9187076484
     },
     {
         "event_id":"HENRY-20260106-001",
@@ -3181,7 +3577,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Atlanta News First",
         "source_url":"https:\/\/www.atlantanewsfirst.com\/2026\/01\/06\/henry-county-commissioners-look-put-guardrails-any-future-data-centers\/",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":33.4529655949,
+        "Longitude":-84.1541705805
     },
     {
         "event_id":"RICHMOND-20260114-001",
@@ -3197,7 +3595,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WFXG",
         "source_url":"https:\/\/www.wfxg.com\/community\/residents-in-haynes-station-raise-concerns-about-possible-new-data-center\/article_b9108025-1182-43b2-8049-20afadf67920.html",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":33.3596280175,
+        "Longitude":-82.073552367
     },
     {
         "event_id":"STATE-20260128-001",
@@ -3213,7 +3613,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2026\/01\/28\/resistance-data-centers-fuels-flood-of-georgia-bills-targeting-the-industry",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"DEKALB-20260127-001",
@@ -3229,7 +3631,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WABE",
         "source_url":"https:\/\/www.wabe.org\/dekalb-extends-data-center-moratorium-defers-regulations\/",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.7715120512,
+        "Longitude":-84.2263564668
     },
     {
         "event_id":"SPALDING-20260112-001",
@@ -3245,7 +3649,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Griffin Daily News",
         "source_url":"https:\/\/www.griffindailynews.com\/news\/spalding-county-planning-commission-to-hear-data-center-request-jan-12\/article_23798d5c-e7e3-5412-af18-1ff51bdfc020.html",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"SPALDING-20260123-001",
@@ -3261,7 +3667,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Fox 5 Atlanta",
         "source_url":"https:\/\/www.fox5atlanta.com\/news\/spalding-county-data-center-vote",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"COWETA-20251216-001",
@@ -3277,7 +3685,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"WSB Radio",
         "source_url":"https:\/\/www.wsbradio.com\/news\/local\/coweta-county-approves-new-data-center-guidelines-after-months-debate\/COC7XVGMXBCH3KXWY3NMSETG7E\/",
-        "date_captured":"2026-01-30"
+        "date_captured":"2026-01-30",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"FULTON-20260112-001",
@@ -3293,7 +3703,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WABE",
         "source_url":"https:\/\/www.wabe.org\/roswell-enacts-moratorium-on-new-data-centers\/",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.7899907568,
+        "Longitude":-84.4677133608
     },
     {
         "event_id":"MONROE-20260203-001",
@@ -3309,7 +3721,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2026\/02\/03\/the-promise-of-quintupled-tax-revenue-the-city-of-forsyth-approves-data-center",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.013836134,
+        "Longitude":-83.9187076484
     },
     {
         "event_id":"COLUMBIA-20260203-001",
@@ -3325,7 +3739,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WRDW",
         "source_url":"https:\/\/www.wrdw.com\/2026\/02\/04\/columbia-co-passes-one-data-center-others-be-voted\/",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"CARROLL-20260115-001",
@@ -3341,7 +3757,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"Times-Georgian; Data Center Dynamics",
         "source_url":"https:\/\/www.times-georgian.com\/news\/local\/data-center-proposed-for-temple\/article_843207fd-622f-5c76-b5b9-0a999e07bff5.html",
-        "date_captured":"2026-03-07"
+        "date_captured":"2026-03-07",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"CLARKE-20260205-001",
@@ -3357,7 +3775,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WUGA",
         "source_url":"https:\/\/www.wuga.org\/local-news\/2026-02-05\/local-environmental-groups-release-recommendations-for-data-center-rules",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.951243409,
+        "Longitude":-83.3673171393
     },
     {
         "event_id":"CHEROKEE-20250600-001",
@@ -3373,7 +3793,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":34.2439485549,
+        "Longitude":-84.4762447419
     },
     {
         "event_id":"COBB-20250601-001",
@@ -3389,7 +3811,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/108mw-data-center-campus-granted-zoning-approval-outside-atlanta-georgia\/",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":33.9415461374,
+        "Longitude":-84.5766950178
     },
     {
         "event_id":"GORDON-20250101-001",
@@ -3405,7 +3829,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Northwest Georgia News",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/calhoun_times\/news\/local\/gordon-county-enacts-preemptive-data-center-moratorium\/article_aee14801-6dd3-4b94-a453-2a3e684a8318.html",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":34.5031936991,
+        "Longitude":-84.8759115165
     },
     {
         "event_id":"GORDON-20250115-001",
@@ -3421,7 +3847,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Northwest Georgia News",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/calhoun_times\/business\/local\/2-million-square-foot-data-center-complex-proposed-for-178-acres-off-ga-53\/article_d11f0d6e-e4b3-11ef-b60c-dbfdc5195503.html",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":34.5031936991,
+        "Longitude":-84.8759115165
     },
     {
         "event_id":"CATOOSA-20241115-001",
@@ -3437,7 +3865,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Showcase Magazine",
         "source_url":"https:\/\/showcasemagazine.com\/2024\/11\/15\/permit-approved-for-ringgold-data-center-campus\/",
-        "date_captured":"2026-02-06"
+        "date_captured":"2026-02-06",
+        "Latitude":34.9036453451,
+        "Longitude":-85.1382598181
     },
     {
         "event_id":"FAYETTE-20260115-001",
@@ -3453,7 +3883,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Fayette News",
         "source_url":"https:\/\/www.fayette-news.net\/news\/fayetteville-passes-90-day-moratorium-for-data-center-developments\/article_d3771825-8187-49fa-b117-ae54b4738ef3.html",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"FAYETTE-20260127-001",
@@ -3469,7 +3901,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Fayette News",
         "source_url":"https:\/\/www.fayette-news.net\/news\/fayetteville-planning-commission-denies-data-center-conceptual-site-plan\/article_cecdfd07-7856-4a3e-b354-21648486dd0b.html",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"FAYETTE-20251115-002",
@@ -3485,7 +3919,9 @@
         "event_sentiment":"Supportive",
         "source_name":"The Citizen",
         "source_url":"https:\/\/www.thecitizen.com\/2025\/11\/15\/qts-unveils-new-multi-use-path-as-part-of-expanding-community-partnership-in-fayetteville\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"FAYETTE-20260101-001",
@@ -3501,7 +3937,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WSB-TV",
         "source_url":"https:\/\/www.wsbtv.com\/news\/local\/fayette-county\/fayette-county-neighbors-say-stopping-power-poles-is-like-fighting-evil\/Z5USGYR72VEEBIUFOXDCIQRANQ\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.4139488132,
+        "Longitude":-84.4942990913
     },
     {
         "event_id":"PSC-20260212-001",
@@ -3517,7 +3955,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WRDW; AJC",
         "source_url":"https:\/\/www.wrdw.com\/2026\/02\/12\/ga-utility-regulators-weigh-proposal-power-data-centers\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"HENRY-20260204-001",
@@ -3533,7 +3973,9 @@
         "event_sentiment":"Neutral",
         "source_name":"11Alive",
         "source_url":"https:\/\/www.11alive.com\/article\/news\/community\/board-of-commissioners-discuss-proposed-data-center-ordinances\/85-e8dafca2-ad5a-474d-b4a1-1f4afca32095",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.4529655949,
+        "Longitude":-84.1541705805
     },
     {
         "event_id":"RICHMOND-20260120-001",
@@ -3549,7 +3991,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WFXG",
         "source_url":"https:\/\/www.wfxg.com\/community\/richmond-county-residents-speak-out-against-data-center-project-in-haynes-station\/article_f1dbc655-21fd-49fe-8d23-f40cc732a736.html",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.3596280175,
+        "Longitude":-82.073552367
     },
     {
         "event_id":"STATE-20260200-001",
@@ -3565,7 +4009,9 @@
         "event_sentiment":"Mixed",
         "source_name":"AJC",
         "source_url":"https:\/\/www.ajc.com\/politics\/2026\/01\/data-center-tax-breaks-energy-costs-emerge-as-targets-for-georgia-lawmakers\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"PUTNAM-20250916-001",
@@ -3581,7 +4027,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Putnam County Government",
         "source_url":"https:\/\/www.putnamcountyga.us\/boc\/page\/moratorium-all-new-rezoning-applications",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.3217443495,
+        "Longitude":-83.3728661903
     },
     {
         "event_id":"PUTNAM-20251107-001",
@@ -3597,7 +4045,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Putnam County Government",
         "source_url":"https:\/\/www.putnamcountyga.us\/boc\/page\/moratorium-all-new-rezoning-applications",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.3217443495,
+        "Longitude":-83.3728661903
     },
     {
         "event_id":"HARALSON-20260200-001",
@@ -3613,7 +4063,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/atlas-development-files-for-12-building-data-center-campus-in-temple-georgia\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.7942226794,
+        "Longitude":-85.2110427109
     },
     {
         "event_id":"HARALSON-20260210-001",
@@ -3629,7 +4081,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Times-Georgian",
         "source_url":"https:\/\/www.times-georgian.com\/news\/local\/data-center-proposed-for-temple\/article_843207fd-622f-5c76-b5b9-0a999e07bff5.html",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":33.7942226794,
+        "Longitude":-85.2110427109
     },
     {
         "event_id":"CRISP-20250306-001",
@@ -3645,7 +4099,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/21-million-sq-ft-technology-campus-proposed-in-southern-georgia\/",
-        "date_captured":"2026-02-13"
+        "date_captured":"2026-02-13",
+        "Latitude":31.9229273294,
+        "Longitude":-83.7680852812
     },
     {
         "event_id":"STATE-20260212-002",
@@ -3661,7 +4117,9 @@
         "event_sentiment":"Mixed",
         "source_name":"MultiState",
         "source_url":"https:\/\/www.multistate.us\/insider\/2026\/2\/20\/state-data-center-legislation-in-2026-tackles-energy-and-tax-issues",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"STATE-20260209-002",
@@ -3677,7 +4135,9 @@
         "event_sentiment":"Mixed",
         "source_name":"MultiState; Senate Press",
         "source_url":"https:\/\/www.multistate.us\/insider\/2026\/2\/20\/state-data-center-legislation-in-2026-tackles-energy-and-tax-issues",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"PSC-20260218-001",
@@ -3693,7 +4153,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Sierra Club; AJC",
         "source_url":"https:\/\/www.sierraclub.org\/press-releases\/2026\/02\/georgia-psc-refuses-reconsider-data-center-energy-plan",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"HENRY-20260215-001",
@@ -3709,7 +4171,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Data Center Dynamics",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/hampton-technology-park-dri-filed\/",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":33.4529655949,
+        "Longitude":-84.1541705805
     },
     {
         "event_id":"NEWTON-20260125-001",
@@ -3725,7 +4189,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Rockdale-Newton Citizen; Covington News",
         "source_url":"https:\/\/www.rockdalenewtoncitizen.com\/news\/newton-county-puts-moratorium-on-data-center-applications\/article_9dec6ba2-6c6c-408f-afbd-d10a63f09add.html",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":32.5099625993,
+        "Longitude":-84.8770360566
     },
     {
         "event_id":"WALTON-20260115-001",
@@ -3741,7 +4207,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Walton Tribune",
         "source_url":"https:\/\/www.waltontribune.com\/news\/data-center-walton-county-approved\/",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"WALTON-20260115-002",
@@ -3757,7 +4225,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Monroe Local News",
         "source_url":"https:\/\/news.monroelocal.org\/social-circle-council-approves-data-center\/",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"TWIGGS-20260128-001",
@@ -3773,7 +4243,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WGXA; 13WMAZ",
         "source_url":"https:\/\/wgxa.tv\/news\/local\/judge-to-decide-whether-weyerhaeuser-stays-in-twiggs-data-center-rezoning-lawsuit",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":32.6671305614,
+        "Longitude":-83.4270670582
     },
     {
         "event_id":"LOWNDES-20250708-001",
@@ -3789,7 +4261,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WTXL; l-a-k-e.org",
         "source_url":"http:\/\/www.l-a-k-e.org\/blog\/2025\/07\/videos-two-rezonings-and-a-beer-and-wine-license-lcc-regular-2025-07-08.html",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":30.8337923882,
+        "Longitude":-83.2677042158
     },
     {
         "event_id":"LOWNDES-20260218-001",
@@ -3805,7 +4279,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WTXL; Valdosta Daily Times",
         "source_url":"https:\/\/www.wtxl.com\/news\/local-news\/in-your-neighborhood\/lowndes-county\/lowndes-county-citizens-push-back-on-potential-data-centers-during-town-hall",
-        "date_captured":"2026-02-20"
+        "date_captured":"2026-02-20",
+        "Latitude":30.8337923882,
+        "Longitude":-83.2677042158
     },
     {
         "event_id":"STATE-20260226-001",
@@ -3821,7 +4297,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Georgia Recorder; WTOC; AJC",
         "source_url":"https:\/\/georgiarecorder.com\/2026\/02\/26\/data-center-bill-stalls-after-last-minute-change-opposed-by-industry-finds-support\/",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"COBB-20260224-001",
@@ -3837,7 +4315,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Fox 5 Atlanta; Hoodline",
         "source_url":"https:\/\/www.fox5atlanta.com\/news\/cobb-county-temporarily-pauses-new-data-center-boom-in-unincorporated-areas",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":33.9415461374,
+        "Longitude":-84.5766950178
     },
     {
         "event_id":"BULLOCH-20260220-001",
@@ -3853,7 +4333,9 @@
         "event_sentiment":"Neutral",
         "source_name":"Grice Connect",
         "source_url":"https:\/\/www.griceconnect.com\/local-government\/bulloch-county-implements-moratoriums-on-data-centers-and-residential-rezonings-receives-six-figure-pilot-check-11884716",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":32.3967498564,
+        "Longitude":-81.7430098282
     },
     {
         "event_id":"MUSCOGEE-20260224-001",
@@ -3869,7 +4351,9 @@
         "event_sentiment":"Neutral",
         "source_name":"WTVM; GPB",
         "source_url":"https:\/\/www.wtvm.com\/2026\/02\/16\/columbus-leaders-pursue-5-billion-data-center-project\/",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":32.5099625993,
+        "Longitude":-84.8770360566
     },
     {
         "event_id":"CLARKE-20260225-001",
@@ -3885,7 +4369,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Flagpole Magazine",
         "source_url":"https:\/\/flagpole.com\/news\/news-features\/2026\/02\/25\/athens-clarke-county-commissioners-want-to-outright-ban-data-centers\/",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":33.951243409,
+        "Longitude":-83.3673171393
     },
     {
         "event_id":"COLUMBIA-20260226-001",
@@ -3901,7 +4387,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WRDW",
         "source_url":"https:\/\/www.wrdw.com\/2026\/02\/26\/columbia-county-citizen-files-lawsuits-challenging-data-center-rezonings\/",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"RICHMOND-20260211-001",
@@ -3917,7 +4405,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WRDW",
         "source_url":"https:\/\/www.wrdw.com\/2026\/02\/11\/augusta-data-center-meeting-draws-concerned-neighbors\/",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":33.3596280175,
+        "Longitude":-82.073552367
     },
     {
         "event_id":"IRWIN-20260226-001",
@@ -3933,7 +4423,9 @@
         "event_sentiment":"Mixed",
         "source_name":"WALB TV; WWALS",
         "source_url":"https:\/\/www.walb.com\/2026\/02\/16\/2nd-south-georgia-county-moves-dissolve-industrial-authority-what-it-could-mean-future-data-center-builds\/",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":31.6023031205,
+        "Longitude":-83.2763182052
     },
     {
         "event_id":"IRWIN-20260302-001",
@@ -3949,7 +4441,9 @@
         "event_sentiment":"Neutral",
         "source_name":"WALB TV",
         "source_url":"https:\/\/www.walb.com\/2026\/02\/10\/rural-communities-raise-concerns-data-centers-expand-across-georgia-beyond\/",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":31.6023031205,
+        "Longitude":-83.2763182052
     },
     {
         "event_id":"STATE-20260224-001",
@@ -3965,7 +4459,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Georgia Recorder; Capitol Beat",
         "source_url":"https:\/\/georgiarecorder.com\/2026\/02\/26\/data-center-bill-stalls-after-last-minute-change-opposed-by-industry-finds-support\/",
-        "date_captured":"2026-02-27"
+        "date_captured":"2026-02-27",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"TROUP-20260310-001",
@@ -3981,7 +4477,9 @@
         "event_sentiment":"Opposed",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/news\/troup-extends-data-center-moratorium-another-90-days-c6ce311c",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"STATE-20260306-002",
@@ -3997,7 +4495,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"Atlanta News First; Capitol Beat",
         "source_url":"https:\/\/www.atlantanewsfirst.com\/2026\/03\/06\/bill-data-center-power-costs-property-tax-fights-highlight-georgias-crossover-day-crunch\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"STATE-20260304-001",
@@ -4013,7 +4513,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"Washington Times; White House",
         "source_url":"https:\/\/www.whitehouse.gov\/articles\/2026\/03\/ratepayer-protection-pledge\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"NEWTON-20260304-001",
@@ -4029,7 +4531,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Covington News; WSB-TV",
         "source_url":"https:\/\/www.covnews.com\/news\/county\/newton-county-enacts-moratoriums-data-centers-convenience-stores\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":32.5099625993,
+        "Longitude":-84.8770360566
     },
     {
         "event_id":"POLK-20260301-001",
@@ -4045,7 +4549,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"Polk Today",
         "source_url":"https:\/\/polktoday.com\/county-looking-at-preemptive-ordinance-language-for-data-centers\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":34.0018223419,
+        "Longitude":-85.1881769724
     },
     {
         "event_id":"MONROE-20260303-001",
@@ -4061,7 +4567,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"13WMAZ; WGXA",
         "source_url":"https:\/\/www.13wmaz.com\/article\/news\/local\/forsyth-monroe\/monroe-county-to-vote-on-new-data-center-rules\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":33.013836134,
+        "Longitude":-83.9187076484
     },
     {
         "event_id":"COWETA-20260301-001",
@@ -4077,7 +4585,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"Newnan Times-Herald",
         "source_url":"https:\/\/www.times-herald.com\/news\/new-proposed-4-billion-data-center-development-under-review-in-coweta\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"HALL-20251211-001",
@@ -4093,7 +4603,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"AccessWDUN",
         "source_url":"https:\/\/accesswdun.com\/news\/project-turbo-developers-announce-they-are-still-pursuing-data-center",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":34.3169996671,
+        "Longitude":-83.8196613929
     },
     {
         "event_id":"HALL-20260226-001",
@@ -4109,7 +4621,9 @@
         "event_sentiment":"Opposed",
         "source_name":"AccessWDUN; WSB-TV; Gainesville Times",
         "source_url":"https:\/\/accesswdun.com\/news\/hall-co-approves-180-day-moratorium-includes-detention-centers",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":34.3169996671,
+        "Longitude":-83.8196613929
     },
     {
         "event_id":"COLUMBIA-20260300-001",
@@ -4125,7 +4639,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WGAC; The Augusta Press; WRDW",
         "source_url":"https:\/\/wgac.com\/episodes\/doug-duncan-shares-some-huge-news\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"SPALDING-20260123-002",
@@ -4141,7 +4657,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Fox 5 Atlanta; Data Center Dynamics",
         "source_url":"https:\/\/www.fox5atlanta.com\/news\/spalding-county-data-center-vote",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":33.2608889177,
+        "Longitude":-84.2841650035
     },
     {
         "event_id":"STATE-20260106-001",
@@ -4157,7 +4675,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Georgia Recorder; Flagpole Magazine; GovTech",
         "source_url":"https:\/\/georgiarecorder.com\/2026\/01\/06\/data-center-gold-rush-pits-local-officials-hunt-for-new-revenue-against-residents-concerns\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"CLARKE-20260303-001",
@@ -4173,7 +4693,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Red and Black; WUGA",
         "source_url":"https:\/\/www.redandblack.com\/athensnews\/athens-mayor-and-commission-votes-to-extend-data-center-moratorium\/",
-        "date_captured":"2026-03-06"
+        "date_captured":"2026-03-06",
+        "Latitude":33.951243409,
+        "Longitude":-83.3673171393
     },
     {
         "event_id":"CARROLL-20260303-001",
@@ -4189,7 +4711,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Gradick Communications",
         "source_url":"https:\/\/gradickcommunications.com\/carroll-county-board-of-commissioners-approve-100-day-moratorium-on-data-centers-battery-energy-storage-systems\/",
-        "date_captured":"2026-03-07"
+        "date_captured":"2026-03-07",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"STATE-20260306-003",
@@ -4205,7 +4729,9 @@
         "event_sentiment":"Opposed",
         "source_name":"AJC",
         "source_url":"https:\/\/www.ajc.com\/politics\/2026\/03\/georgia-legislature-takes-aim-at-data-center-tax-breaks-on-crossover-day\/",
-        "date_captured":"2026-03-16"
+        "date_captured":"2026-03-16",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"STATE-20260306-004",
@@ -4221,7 +4747,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Flagpole Magazine; Atlanta News First",
         "source_url":"https:\/\/flagpole.com\/news\/news-features\/2026\/03\/11\/property-tax-data-center-bills-advance-on-crossover-day\/",
-        "date_captured":"2026-03-16"
+        "date_captured":"2026-03-16",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"DEKALB-20260312-001",
@@ -4237,7 +4765,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WABE",
         "source_url":"https:\/\/www.wabe.org\/dekalb-extends-data-center-moratorium-defers-regulations\/",
-        "date_captured":"2026-03-16"
+        "date_captured":"2026-03-16",
+        "Latitude":33.7715120512,
+        "Longitude":-84.2263564668
     },
     {
         "event_id":"MCDUFFIE-20260303-001",
@@ -4253,7 +4783,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Good Jobs First; AJC",
         "source_url":"https:\/\/goodjobsfirst.org\/data-center-moratorium-bills-are-spreading-in-2026\/",
-        "date_captured":"2026-03-16"
+        "date_captured":"2026-03-16",
+        "Latitude":33.4827681381,
+        "Longitude":-82.4813088962
     },
     {
         "event_id":"MCDUFFIE-20260310-001",
@@ -4269,7 +4801,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"AJC",
         "source_url":"https:\/\/www.ajc.com\/business\/2026\/03\/from-peanuts-to-processors-south-georgia-gets-largest-data-center-pitch-yet\/",
-        "date_captured":"2026-03-16"
+        "date_captured":"2026-03-16",
+        "Latitude":33.4827681381,
+        "Longitude":-82.4813088962
     },
     {
         "event_id":"LOWNDES-20260312-001",
@@ -4285,7 +4819,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Valdosta Daily Times; Lanier County News",
         "source_url":"https:\/\/valdostadailytimes.com\/2026\/03\/14\/open-letter-to-the-lowndes-county-board-of-commissioners\/",
-        "date_captured":"2026-03-16"
+        "date_captured":"2026-03-16",
+        "Latitude":30.8337923882,
+        "Longitude":-83.2677042158
     },
     {
         "event_id":"MUSCOGEE-20260308-001",
@@ -4301,7 +4837,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"WTVM",
         "source_url":"https:\/\/www.wtvm.com\/2026\/03\/08\/project-ruby-sparks-questions-over-data-center-columbus\/",
-        "date_captured":"2026-03-16"
+        "date_captured":"2026-03-16",
+        "Latitude":32.5099625993,
+        "Longitude":-84.8770360566
     },
     {
         "event_id":"WALTON-20260310-001",
@@ -4317,7 +4855,9 @@
         "event_sentiment":"Supportive",
         "source_name":"AJC",
         "source_url":"https:\/\/www.ajc.com\/business\/2026\/03\/atlanta-area-facility-to-train-electrical-workers-as-data-centers-expand\/",
-        "date_captured":"2026-03-16"
+        "date_captured":"2026-03-16",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"CARROLL-20260200-001",
@@ -4333,7 +4873,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Gradick Communications; Times-Georgian",
         "source_url":"https:\/\/gradickcommunications.com\/developer-pulls-data-center-proposal-at-least-for-now\/",
-        "date_captured":"2026-03-07"
+        "date_captured":"2026-03-07",
+        "Latitude":33.5827790375,
+        "Longitude":-85.0798619445
     },
     {
         "event_id":"MUSCOGEE-20260318-001",
@@ -4349,7 +4891,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"WTVM",
         "source_url":"https:\/\/www.wtvm.com\/2026\/03\/18\/columbus-residents-pack-town-hall-over-proposed-5b-data-center-project-ruby\/",
-        "date_captured":"2026-03-20"
+        "date_captured":"2026-03-20",
+        "Latitude":32.5099625993,
+        "Longitude":-84.8770360566
     },
     {
         "event_id":"COLUMBIA-20260319-001",
@@ -4365,7 +4909,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WRDW\/WAGT",
         "source_url":"https:\/\/www.wrdw.com\/2026\/03\/19\/lawsuits-targeting-columbia-county-data-center-projects-dismissed\/",
-        "date_captured":"2026-03-20"
+        "date_captured":"2026-03-20",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"IRWIN-20260302-002",
@@ -4381,7 +4927,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"WWALS Watershed Coalition",
         "source_url":"https:\/\/wwals.net\/2026\/03\/16\/irwinville-data-center-withdrawn-by-applicant-irwin-county-commission-2026-03-02\/",
-        "date_captured":"2026-03-20"
+        "date_captured":"2026-03-20",
+        "Latitude":31.6023031205,
+        "Longitude":-83.2763182052
     },
     {
         "event_id":"IRWIN-20260317-001",
@@ -4397,7 +4945,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"WWALS Watershed Coalition",
         "source_url":"https:\/\/wwals.net\/2026\/03\/16\/public-hearing-about-datacenter-ordinance-irwin-county-board-of-commissioners-2026-03-17\/",
-        "date_captured":"2026-03-20"
+        "date_captured":"2026-03-20",
+        "Latitude":31.6023031205,
+        "Longitude":-83.2763182052
     },
     {
         "event_id":"STATE-20260317-001",
@@ -4413,7 +4963,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Atlanta News First",
         "source_url":"https:\/\/www.atlantanewsfirst.com\/2026\/03\/17\/georgia-psc-chairman-defends-data-center-power-expansion-amid-criticism\/",
-        "date_captured":"2026-03-20"
+        "date_captured":"2026-03-20",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"COWETA-20260312-001",
@@ -4429,7 +4981,9 @@
         "event_sentiment":"Opposed",
         "source_name":"The Citizen (Fayetteville)",
         "source_url":"https:\/\/thecitizen.com\/2026\/03\/12\/coweta-residents-mobilize-against-proposed-project-sail-data-center\/",
-        "date_captured":"2026-03-20"
+        "date_captured":"2026-03-20",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"MCDUFFIE-20260317-001",
@@ -4445,7 +4999,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WRDW\/WAGT",
         "source_url":"https:\/\/www.wrdw.com\/2026\/03\/18\/mcduffie-county-leaders-approve-1b-project-azalea-data-center\/",
-        "date_captured":"2026-03-20"
+        "date_captured":"2026-03-20",
+        "Latitude":33.4827681381,
+        "Longitude":-82.4813088962
     },
     {
         "event_id":"CHATHAM-20251219-001",
@@ -4461,7 +5017,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WTOC; The Current GA",
         "source_url":"https:\/\/www.wtoc.com\/2025\/12\/19\/port-wentworth-passes-data-center-zoning-amendment-despite-resident-opposition\/",
-        "date_captured":"2026-04-02"
+        "date_captured":"2026-04-02",
+        "Latitude":31.9738870247,
+        "Longitude":-81.0938281893
     },
     {
         "event_id":"EARLY-20260313-001",
@@ -4477,7 +5035,9 @@
         "event_sentiment":"Supportive",
         "source_name":"AJC; Data Center Dynamics; Georgia Trend; Early County News",
         "source_url":"https:\/\/www.ajc.com\/business\/2026\/03\/from-peanuts-to-processors-south-georgia-gets-largest-data-center-pitch-yet\/",
-        "date_captured":"2026-04-02"
+        "date_captured":"2026-04-02",
+        "Latitude":31.3228027158,
+        "Longitude":-84.9037185551
     },
     {
         "event_id":"STATE-20260403-001",
@@ -4493,7 +5053,9 @@
         "event_sentiment":"Mixed",
         "source_name":"GPB; AJC; 13WMAZ; Georgia Watch; WABE",
         "source_url":"https:\/\/www.gpb.org\/news\/2026\/04\/03\/2026-legislative-session-ends-concerns-of-possible-special-session",
-        "date_captured":"2026-04-10"
+        "date_captured":"2026-04-10",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"COWETA-20260407-001",
@@ -4509,7 +5071,9 @@
         "event_sentiment":"Mixed",
         "source_name":"AJC; Newnan Times-Herald; Fox 5 Atlanta; Atlanta News First",
         "source_url":"https:\/\/www.times-herald.com\/news\/full-sail-ahead-commissioners-approve-project-sail-data-center-in-split-3-2-vote\/article_479686a7-f485-47bd-9db1-7624cec24351.html",
-        "date_captured":"2026-04-10"
+        "date_captured":"2026-04-10",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"CHATHAM-20260408-001",
@@ -4525,7 +5089,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WTOC; WSAV; Savannah Tribune; Savannah Business Journal",
         "source_url":"https:\/\/www.wtoc.com\/2026\/04\/08\/data-center-town-hall-brings-conversation-savannah\/",
-        "date_captured":"2026-04-10"
+        "date_captured":"2026-04-10",
+        "Latitude":31.9738870247,
+        "Longitude":-81.0938281893
     },
     {
         "event_id":"STATE-20260408-001",
@@ -4541,7 +5107,9 @@
         "event_sentiment":"Opposed",
         "source_name":"SELC; Claxton Enterprise; AJC; WSB-TV Atlanta",
         "source_url":"https:\/\/www.selc.org\/press-release\/groups-challenge-pscs-approval-of-massive-georgia-power-gas-expansion\/",
-        "date_captured":"2026-04-10"
+        "date_captured":"2026-04-10",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"IRWIN-20260406-001",
@@ -4557,7 +5125,9 @@
         "event_sentiment":"Neutral",
         "source_name":"WWALS Watershed Coalition; WALB TV",
         "source_url":"https:\/\/wwals.net\/2026\/03\/24\/suggested-additional-sections-for-irwin-county-datacenter-ordinance-wwals-2026-03-17\/",
-        "date_captured":"2026-04-10"
+        "date_captured":"2026-04-10",
+        "Latitude":31.6023031205,
+        "Longitude":-83.2763182052
     },
     {
         "event_id":"STATE-20260407-001",
@@ -4573,7 +5143,9 @@
         "event_sentiment":"Opposed",
         "source_name":"DeSmog",
         "source_url":"https:\/\/www.desmog.com\/2026\/04\/07\/rural-georgia-data-centers\/",
-        "date_captured":"2026-04-10"
+        "date_captured":"2026-04-10",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"CLARKE-20260409-001",
@@ -4589,7 +5161,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"WUGA; Flagpole; Red and Black",
         "source_url":"https:\/\/www.wuga.org\/local-news\/2026-04-09\/athens-clarke-county-data-center-ban-lifted-replaced-with-ordinance",
-        "date_captured":"2026-04-17"
+        "date_captured":"2026-04-17",
+        "Latitude":33.951243409,
+        "Longitude":-83.3673171393
     },
     {
         "event_id":"TROUP-20260409-001",
@@ -4605,7 +5179,9 @@
         "event_sentiment":"Neutral",
         "source_name":"LaGrange Daily News",
         "source_url":"https:\/\/www.lagrangenews.com\/news\/troup-unveils-proposed-data-center-draft-ordinance-5b5dcee3",
-        "date_captured":"2026-04-17"
+        "date_captured":"2026-04-17",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"DECATUR-20260414-001",
@@ -4621,7 +5197,9 @@
         "event_sentiment":"Opposed",
         "source_name":"The Post-Searchlight; WCTV",
         "source_url":"https:\/\/thepostsearchlight.com\/2026\/04\/14\/county-approves-moratorium\/",
-        "date_captured":"2026-04-17"
+        "date_captured":"2026-04-17",
+        "Latitude":30.8782959667,
+        "Longitude":-84.5791133912
     },
     {
         "event_id":"MUSCOGEE-20260415-001",
@@ -4637,7 +5215,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"Now Georgia; WRBL",
         "source_url":"https:\/\/nowgeorgia.com\/city-council-votes-to-delay-ordinance-addressing-data-center",
-        "date_captured":"2026-04-17"
+        "date_captured":"2026-04-17",
+        "Latitude":32.5099625993,
+        "Longitude":-84.8770360566
     },
     {
         "event_id":"COLUMBIA-20260416-001",
@@ -4653,7 +5233,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WRDW\/WAGT; The Augusta Press",
         "source_url":"https:\/\/www.wrdw.com\/2026\/04\/16\/citizen-appeals-dismissals-of-columbia-county-data-center-rezoning-lawsuits\/",
-        "date_captured":"2026-04-17"
+        "date_captured":"2026-04-17",
+        "Latitude":33.5440906347,
+        "Longitude":-82.2640738485
     },
     {
         "event_id":"GLYNN-20260417-001",
@@ -4669,7 +5251,9 @@
         "event_sentiment":"Neutral\/Mixed",
         "source_name":"The Current GA; The Brunswick News",
         "source_url":"https:\/\/thecurrentga.org\/2026\/04\/15\/glynn-county-to-vote-on-zoning-residents-ask-to-delay-data-center-rule\/",
-        "date_captured":"2026-04-17"
+        "date_captured":"2026-04-17",
+        "Latitude":31.2132964716,
+        "Longitude":-81.4936241962
     },
     {
         "event_id":"STEPHENS-20260414-001",
@@ -4685,7 +5269,9 @@
         "event_sentiment":"Opposed",
         "source_name":"WNEG Radio",
         "source_url":"https:\/\/wnegradio.com\/stephens-county-commission-approves-moratorium-on-data-centers\/",
-        "date_captured":"2026-04-17"
+        "date_captured":"2026-04-17",
+        "Latitude":34.5540678002,
+        "Longitude":-83.2931829178
     },
     {
         "event_id":"IRWIN-20260416-001",
@@ -4701,7 +5287,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Data Center Dynamics; WWALS Watershed Coalition",
         "source_url":"https:\/\/www.datacenterdynamics.com\/en\/news\/12gw-data-center-campus-proposed-in-irwin-county-georgia\/",
-        "date_captured":"2026-04-17"
+        "date_captured":"2026-04-17",
+        "Latitude":31.6023031205,
+        "Longitude":-83.2763182052
     },
     {
         "event_id":"TROUP-20260421-001",
@@ -4717,7 +5305,9 @@
         "event_sentiment":"Supportive",
         "source_name":"AJC; Atlanta News First; WSB-TV",
         "source_url":"https:\/\/www.ajc.com\/business\/2026\/04\/what-is-georgias-project-pegasus-tech-giant-unveils-8-billion-answer\/",
-        "date_captured":"2026-04-24"
+        "date_captured":"2026-04-24",
+        "Latitude":33.0334623575,
+        "Longitude":-85.0283574318
     },
     {
         "event_id":"NEWTON-20260423-001",
@@ -4733,7 +5323,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Rockdale Newton Citizen; The Covington News",
         "source_url":"https:\/\/www.rockdalenewtoncitizen.com\/news\/meta-payments-to-joint-development-authority-ahead-of-schedule-8-million-to-be-paid-in\/article_8db2cd6c-82d3-4a82-9e0a-09ca1c8de8ba.html",
-        "date_captured":"2026-04-24"
+        "date_captured":"2026-04-24",
+        "Latitude":33.5550185366,
+        "Longitude":-83.85019106
     },
     {
         "event_id":"STATE-20260424-001",
@@ -4749,7 +5341,9 @@
         "event_sentiment":"Opposed",
         "source_name":"11Alive; CBS News Atlanta",
         "source_url":"https:\/\/www.11alive.com\/article\/news\/politics\/jon-ossoff-ai-data-centers-power-bill-impact-inquiry\/85-1fe2723c-097f-4028-8b3a-5ef70a5d835a",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"IRWIN-20260424-001",
@@ -4765,7 +5359,9 @@
         "event_sentiment":"Neutral",
         "source_name":"WWALS Watershed Coalition; Data Center Dynamics",
         "source_url":"https:\/\/wwals.net\/2026\/04\/25\/review-and-comment-dri-for-project-arrowhead-datacenter-irwin-county-ga-2026-04-24\/",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":31.6023031205,
+        "Longitude":-83.2763182052
     },
     {
         "event_id":"STATE-20260427-001",
@@ -4781,7 +5377,9 @@
         "event_sentiment":"Supportive",
         "source_name":"WRDW; WRBL",
         "source_url":"https:\/\/www.wrdw.com\/2026\/04\/27\/ga-regulators-push-back-ossoff-inquiry-about-data-centers\/",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"STATE-20260428-001",
@@ -4797,7 +5395,9 @@
         "event_sentiment":"Mixed",
         "source_name":"AJC; GPB",
         "source_url":"https:\/\/www.ajc.com\/politics\/2026\/04\/power-bills-data-centers-dominate-republican-georgia-psc-debate\/",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "event_id":"GORDON-20260428-001",
@@ -4813,7 +5413,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Northwest Georgia News (Calhoun Times); Coosa Valley News",
         "source_url":"https:\/\/www.northwestgeorgianews.com\/calhoun_times\/news\/local\/city-of-calhoun-passes-preemptive-data-center-moratorium\/article_753b655c-13d2-495d-bbc9-676caa977628.html",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":34.5031936991,
+        "Longitude":-84.8759115165
     },
     {
         "event_id":"HEARD-20260430-001",
@@ -4829,7 +5431,9 @@
         "event_sentiment":"Supportive",
         "source_name":"Atlanta News First; Georgia Power; FOX 5 Atlanta",
         "source_url":"https:\/\/www.atlantanewsfirst.com\/2026\/04\/30\/georgia-power-breaks-ground-power-plant-help-serve-data-centers\/",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":33.2970003,
+        "Longitude":-85.1282643391
     },
     {
         "event_id":"MUSCOGEE-20260504-001",
@@ -4845,7 +5449,9 @@
         "event_sentiment":"Mixed",
         "source_name":"Georgia Public Broadcasting",
         "source_url":"https:\/\/www.gpb.org\/news\/2026\/05\/04\/new-map-shows-where-on-865-acres-proposed-columbus-data-center-would-be-built",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":32.5099625993,
+        "Longitude":-84.8770360566
     },
     {
         "event_id":"CAMDEN-20260504-001",
@@ -4861,7 +5467,9 @@
         "event_sentiment":"Opposed",
         "source_name":"The Current GA; News4Jax; First Coast News",
         "source_url":"https:\/\/thecurrentga.org\/2026\/05\/04\/florida-businessman-suspends-data-center-plans-in-camden-county\/",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":30.9224967213,
+        "Longitude":-81.6362741899
     },
     {
         "event_id":"CAMDEN-20260505-001",
@@ -4877,7 +5485,9 @@
         "event_sentiment":"Opposed",
         "source_name":"GPB; WABE; The Current GA",
         "source_url":"https:\/\/www.gpb.org\/news\/2026\/05\/06\/camden-becomes-first-county-on-the-coast-adopt-data-center-moratorium",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":30.9224967213,
+        "Longitude":-81.6362741899
     },
     {
         "event_id":"BULLOCH-20260505-001",
@@ -4893,7 +5503,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Statesboro Herald; WTOC; The Georgia Virtue",
         "source_url":"https:\/\/www.statesboroherald.com\/local\/commissioners-extend-both-moratoriums-step-toward-outright-ban-on-data-centers\/",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":32.3967498564,
+        "Longitude":-81.7430098282
     },
     {
         "event_id":"BULLOCH-20260505-002",
@@ -4909,7 +5521,9 @@
         "event_sentiment":"Opposed",
         "source_name":"Statesboro Herald; WTOC; The Georgia Virtue",
         "source_url":"https:\/\/www.statesboroherald.com\/local\/commissioners-extend-both-moratoriums-step-toward-outright-ban-on-data-centers\/",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":32.3967498564,
+        "Longitude":-81.7430098282
     },
     {
         "event_id":"COWETA-20260505-001",
@@ -4925,7 +5539,9 @@
         "event_sentiment":"Opposed",
         "source_name":"11Alive; CBS News Atlanta; Newnan Times-Herald",
         "source_url":"https:\/\/www.11alive.com\/article\/news\/local\/coweta-county-data-center-project-lawsuit\/85-c467e46a-e2c0-4deb-8066-51ed8e4cd596",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
     },
     {
         "event_id":"WALTON-20260505-001",
@@ -4941,7 +5557,9 @@
         "event_sentiment":"Supportive",
         "source_name":"The Covington News; Monroe Local",
         "source_url":"https:\/\/www.covnews.com\/news\/cities\/social-circle-council-members-unanimously-approve-new-data-center-complex\/",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":33.7815472607,
+        "Longitude":-83.7338341405
     },
     {
         "event_id":"STATE-20260505-001",
@@ -4957,6 +5575,134 @@
         "event_sentiment":"Mixed",
         "source_name":"Georgia Recorder; WABE; Daily Energy Insider",
         "source_url":"https:\/\/georgiarecorder.com\/2026\/05\/07\/advocates-question-georgia-power-fuel-rates-amid-data-center-boom\/",
-        "date_captured":"2026-05-09"
+        "date_captured":"2026-05-09",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "event_id":"TOOMBS-20260513-001",
+        "event_date":"2026-05-13",
+        "GEOID":"13279",
+        "location_name":"Toombs County",
+        "municipality":"Lyons",
+        "event_type":"Community Protest",
+        "event_title":"Toombs\/Emanuel\/Jefferson Landowners Organize Against Plant Hatch-Wadley Transmission Line",
+        "event_description":"Eastern Toombs County landowners organized opposition after learning Georgia Power intends to use eminent domain for a 45-65 mile, ~500 kV transmission line from Plant Hatch through Toombs, Emanuel, and Jefferson counties to the Wadley substation, tied to grid load including data centers. Residents led by Sara Brown and Melinda Morris gathered May 5 at First Baptist Church in Lyons with eminent-domain attorney Jordan Walker; many said they had not received a complete project map. Coverage published May 13. Multi-county corridor; Emanuel and Jefferson also affected.",
+        "project_name":"Plant Hatch-Wadley Transmission Line",
+        "outcome":"Ongoing",
+        "event_sentiment":"Opposed",
+        "source_name":"The Advance News",
+        "source_url":"https:\/\/www.theadvancenews.com\/2026\/05\/13\/georgia-power-eminent-domain\/",
+        "date_captured":"2026-05-22",
+        "Latitude":32.121633591,
+        "Longitude":-82.3312915896
+    },
+    {
+        "event_id":"COWETA-20260514-001",
+        "event_date":"2026-05-14",
+        "GEOID":"13077",
+        "location_name":"Coweta County",
+        "municipality":null,
+        "event_type":"Other",
+        "event_title":"Ashley Park-Wansley 500kV Line Eminent Domain Disputes Tied to Data Center Load Go Statewide",
+        "event_description":"AJC, 11Alive, and WSB-TV spotlighted Georgia Power's use and threatened use of eminent domain for the ~35-mile, 500 kV Ashley Park-Wansley transmission corridor through Coweta and Fayette counties to serve at least four AI data centers. Reports cite roughly 330 affected parcels and 20-30 homes expected to be demolished. Coweta homeowner Ansley Brown disputed Georgia Power's appraisal of her mother's home; Georgia Power said it offered well above 125% of fair market value and that under 1% of acquisitions use eminent domain. Land acquisition began 2026; completion expected 2028. Event date approximate (mid-May coverage surge). Corridor also crosses Fayette, Heard, and Fulton.",
+        "project_name":"Ashley Park-Wansley Transmission Line",
+        "outcome":"Ongoing",
+        "event_sentiment":"Opposed",
+        "source_name":"Atlanta Journal-Constitution; 11Alive; WSB-TV",
+        "source_url":"https:\/\/www.ajc.com\/business\/2026\/05\/the-data-center-boom-is-transforming-georgia-some-residents-could-lose-their-land\/",
+        "date_captured":"2026-05-22",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
+    },
+    {
+        "event_id":"COWETA-20260518-001",
+        "event_date":"2026-05-18",
+        "GEOID":"13077",
+        "location_name":"Coweta County",
+        "municipality":null,
+        "event_type":"Community Protest",
+        "event_title":"Project Oak Data Center Open House Draws Shouting Opposition; Commission Candidate Removed",
+        "event_description":"Developers held the data-center ordinance-required open house for 'Project Oak,' a second proposed Coweta data center (one 255-acre industrial parcel rezoned 2024, one 200-acre rural-conservation parcel; ~$40M projected tax revenue; ~28,000 gal\/day water), at the Madras Community Center on May 18. Attendees shouted in opposition and County Commission District 3 candidate Tim Ryan was removed by a deputy. Resident Michele Lore said neighbors are preparing a petition opposing the rezoning; a 'Stop Project Oak' campaign is active.",
+        "project_name":"Project Oak",
+        "outcome":"Ongoing",
+        "event_sentiment":"Opposed",
+        "source_name":"Newnan Times-Herald",
+        "source_url":"https:\/\/www.times-herald.com\/news\/tensions-flare-at-project-oak-open-house-as-commission-candidate-removed\/article_8af3411b-2b83-4450-b5fd-41d0bc62c549.html",
+        "date_captured":"2026-05-22",
+        "Latitude":33.35332871,
+        "Longitude":-84.7633370491
+    },
+    {
+        "event_id":"DEKALB-20260512-001",
+        "event_date":"2026-05-12",
+        "GEOID":"13089",
+        "location_name":"DeKalb County",
+        "municipality":null,
+        "event_type":"Public Hearing",
+        "event_title":"DeKalb BOC Again Defers Data Center Text Amendment to June 23; Moratorium Continues",
+        "event_description":"At the long-scheduled May 12 public hearing, the DeKalb County Board of Commissioners again deferred the data center text amendment that would add data centers as a permitted use in industrial areas with location, design, and review standards. No vote on the substance was taken and the 500,000 sq ft 'data center campus' definition question was not resolved. The ordinance is slated for the June 23 agenda, with a committee-of-the-whole discussion set for June 2. The application moratorium remains extended to June 23.",
+        "project_name":null,
+        "outcome":"Deferred to June 23",
+        "event_sentiment":"Neutral",
+        "source_name":"Decaturish; WABE; CBS News Atlanta",
+        "source_url":"https:\/\/www.decaturish.com\/news\/dekalb\/dekalb-commission-defers-data-center-legislation-until-june\/article_9e377f51-8ca7-4f25-8a4e-8a935c27e0ba.html",
+        "date_captured":"2026-05-22",
+        "Latitude":33.7715120512,
+        "Longitude":-84.2263564668
+    },
+    {
+        "event_id":"MUSCOGEE-20260512-001",
+        "event_date":"2026-05-12",
+        "GEOID":"13215",
+        "location_name":"Muscogee County",
+        "municipality":"Columbus",
+        "event_type":"Public Hearing",
+        "event_title":"Columbus Council Delays Project Ruby Technology Overlay First Reading Up to 45 Days",
+        "event_description":"Rather than holding the scheduled first reading of the technology overlay district amendments to the Unified Development Ordinance (the framework for the proposed ~865-acre, ~$5.18B Project Ruby hyperscale data center in NE Muscogee County), Columbus Council voted to pause. A motion by Councilor Toyia Tucker to delay any first reading for up to 45 days passed unanimously on a voice vote, pushing any vote past the May 19 city election amid significant resident opposition over water, power, and undisclosed project details.",
+        "project_name":"Project Ruby",
+        "outcome":"Delayed up to 45 days (unanimous voice vote)",
+        "event_sentiment":"Neutral",
+        "source_name":"WRBL; Columbus Ledger-Enquirer; Now Georgia",
+        "source_url":"https:\/\/www.wrbl.com\/news\/council-pause-on-data-center-zoning-ordinance-will-push-any-vote-past-the-may-19-election\/",
+        "date_captured":"2026-05-22",
+        "Latitude":32.5099625993,
+        "Longitude":-84.8770360566
+    },
+    {
+        "event_id":"GORDON-20260519-001",
+        "event_date":"2026-05-19",
+        "GEOID":"13129",
+        "location_name":"Gordon County",
+        "municipality":null,
+        "event_type":"Moratorium Extended",
+        "event_title":"Gordon County Extends Data Center Moratorium to August 4 to Draft Strict Ordinance",
+        "event_description":"The Gordon County Board of Commissioners voted to extend its temporary data center moratorium (originally enacted February 2026) through August 4, 2026 to allow time to draft regulations; the county currently has no data-center-specific ordinance. Chair Bud Owens said the county would protect its citizens and County Administrator Jim Ledbetter said attorneys are drafting a 'very strict ordinance.' A parallel anaerobic-digestion moratorium was also extended. Exact meeting date approximate (reported May 21).",
+        "project_name":null,
+        "outcome":"Approved",
+        "event_sentiment":"Opposed",
+        "source_name":"WRGA News",
+        "source_url":"https:\/\/www.wrganews.com\/2026\/05\/21\/gordon-county-commission-extends-temporary-moratorium-on-data-centers\/",
+        "date_captured":"2026-05-22",
+        "Latitude":34.5031936991,
+        "Longitude":-84.8759115165
+    },
+    {
+        "event_id":"STATE-20260519-001",
+        "event_date":"2026-05-19",
+        "GEOID":"99999",
+        "location_name":"State-Level County",
+        "municipality":null,
+        "event_type":"State-Level Action",
+        "event_title":"May 19 PSC Primary: Edwards Wins Dem D5; GOP D5 Heads to Runoff; Fitz Johnson Wins D3 GOP",
+        "event_description":"Georgia's May 19 PSC primary, widely framed around data center cost allocation, produced: District 5 Democrat Shelia Edwards winning outright over Angelia Pressley and Craig Cupid; the District 5 GOP race heading to a June 16 runoff between Josh Tolbert (~41%) and Bobby Mehan (~31%); and in District 3, former Commissioner Fitz Johnson narrowly winning the GOP nod over Brandon Martin (~2,948-vote margin) to face unopposed Democratic incumbent Peter Hubbard in November. If Democrats win both contested seats in November, the PSC would flip to a 3-2 Democratic majority, directly affecting data center cost-allocation policy.",
+        "project_name":null,
+        "outcome":"Edwards wins D5 Dem; D5 GOP runoff June 16; Fitz Johnson wins D3 GOP",
+        "event_sentiment":"Mixed",
+        "source_name":"AJC; WABE; Georgia Recorder",
+        "source_url":"https:\/\/www.ajc.com\/politics\/2026\/05\/shelia-edwards-wins-democratic-psc-primary-as-gop-contest-heads-to-runoff\/",
+        "date_captured":"2026-05-22",
+        "Latitude":null,
+        "Longitude":null
     }
 ]
