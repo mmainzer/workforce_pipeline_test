@@ -5398,5 +5398,23 @@
         "date_captured":"2026-06-18",
         "Latitude":33.5827790375,
         "Longitude":-85.0798619445
+    },
+    {
+        "event_id":"STATEWIDE-20260625-001",
+        "event_date":"2026-06-25",
+        "GEOID":"13000",
+        "location_name":"Statewide County",
+        "municipality":null,
+        "event_type":"Georgia Power Procurement",
+        "event_title":"Georgia Power Opens CARES CIR Enrollment and Discloses 385 MW Additional CARES 2023 Solar PPAs Filed With PSC",
+        "event_description":"Georgia Power opened enrollment for the new PSC-approved Clean and Renewable Energy Subscription Customer Identified Resource (CARES CIR) program. Two tracks: Utility-Scale (customers >3 MW annual demand, projects >6 MW) and Distributed Generation (1-3 MW customers subscribing to 250 kW-6 MW GA solar projects). DG NOI window opens Q4 2026. Total program pathway up to ~3 GW. The same announcement disclosed two additional CARES 2023 RFP solar PPAs totaling 385 MW filed with the Georgia PSC for approval \u2014 bringing CARES 2023 total to more than 1.4 GW pending \u2014 and confirmed CARES 2025 has now signed 5 contracts totaling 752 MW. Meaningful net-new statewide procurement metadata for the solar pipeline.",
+        "project_name":"Georgia Power CARES CIR + CARES 2023 procurement update",
+        "outcome":"Enrollment opened; 385 MW additional CARES 2023 PPAs filed with PSC",
+        "event_sentiment":"Supportive",
+        "source_name":"Georgia Power \/ Daily Energy Insider \/ PR Newswire",
+        "source_url":"https:\/\/www.georgiapower.com\/news-hub\/press-releases\/georgia-power-continues-to-offer-options-to-connect-customers-to-solar.html",
+        "date_captured":"2026-07-07",
+        "Latitude":null,
+        "Longitude":null
     }
 ]
