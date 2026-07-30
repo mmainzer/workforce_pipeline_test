@@ -1,17 +1,1 @@
-[
-  {
-    "GEOID":"13999",
-    "Area":"Georgia",
-    "2024 GRP":779915370527.5318603516,
-    "2019 GRP":567657204840.7934570312,
-    "GRP_Change":212258165686.7384643555,
-    "GRP Pct Change":37.39,
-    "2000 Total Population":8186453,
-    "2023 Total Population (ACS 5-Yr)":10822590,
-    "Pct Change":32.2012109518,
-    "Labor_Fore_August_2025":5372194,
-    "Labor_Fore_August_2024":5391013,
-    "Labor_Force_Change":-18819,
-    "Labor_Force_Pct_Change":-0.35
-  }
-]
+[{"GEOID": "13999", "Area": "Georgia", "GRP_Start": 567657204840.7935, "GRP_End": 779915370527.5319, "GRP_Change": 212258165686.7384, "GRP_Pct_Change": 37.39, "Population_Base": 8186453, "Population_Current": 10940407, "Population_Change": 2753954, "Population_Pct_Change": 33.64, "Labor_Force_Current": 5494651, "Labor_Force_Prior_Year": 5418094, "Labor_Force_Change": 76557, "Labor_Force_Pct_Change": 1.41}]
