@@ -5524,5 +5524,23 @@
         "date_captured":"2026-07-31",
         "Latitude":31.6023031205,
         "Longitude":-83.2763182052
+    },
+    {
+        "event_id":"EVANS-20260804-001",
+        "event_date":"2026-08-04",
+        "GEOID":"13109",
+        "location_name":"Evans County",
+        "municipality":"Claxton",
+        "event_type":"Project Approval",
+        "event_title":"Evans County BOC Approves Evans Hearn Solar Farm on US 280 Near Claxton",
+        "event_description":"The Evans County Board of Commissioners voted August 4 to approve the Evans Hearn Solar Farm \u2014 20,561 PV panels on steel trackers across ~67 buildout acres of a 198-acre tract off U.S. Hwy 280 near Claxton, a partnership between landowner Caughey Hearn and Atlanta-based Inman Solar LLC. Commissioners found the applicant met all county solar-ordinance requirements; construction completion expected March 2028 with a $152,974 decommissioning bond under Georgia HB 300 (2024) and decommissioning planned for 2058. No organized opposition reported. Nameplate MW not disclosed (~10-15 MW class estimated from panel count). Notable: Inman Solar wins an approval here weeks after its 4-1 Lee County denial. Three independent search lanes converged on this event; publication date 2026-08-06 confirmed via article metadata and the 2026\/08 application-PDF path.",
+        "project_name":"Evans Hearn Solar Farm (Inman Solar \/ Caughey Hearn, ~67 ac buildout \/ 198-ac tract)",
+        "outcome":"Approved Aug 4; construction complete by March 2028; $152,974 decommissioning bond",
+        "event_sentiment":"Supportive",
+        "source_name":"The Georgia Virtue",
+        "source_url":"https:\/\/www.thegeorgiavirtue.com\/local-government-south-georgia\/evans-county-commissioners-approve-solar-farm-on-highway-280\/",
+        "date_captured":"2026-08-07",
+        "Latitude":32.156745254,
+        "Longitude":-81.8868413377
     }
 ]
