@@ -5776,5 +5776,41 @@
         "date_captured":"2026-09-11",
         "Latitude":33.4089317503,
         "Longitude":-82.6767147976
+    },
+    {
+        "event_id":"BIBB-20260915-001",
+        "event_date":"2026-09-15",
+        "GEOID":"13021",
+        "location_name":"Bibb County",
+        "municipality":"Macon-Bibb",
+        "event_type":"Project Operational",
+        "event_title":"Robins Battery Storage Facility Achieves Commercial Operation (128 MW \/ 512 MWh)",
+        "event_description":"Georgia Power announced Sept 15, 2026 that its Robins Battery Facility achieved commercial operation \u2014 128 MW \/ 512 MWh, co-located with the Robins solar facility near Robins Air Force Base in Macon-Bibb County, built by Burns & McDonnell and described as delivered on schedule; part of the PSC-approved IRP battery storage portfolio. Resolves a long-standing watchlist item: COD had originally been projected for June 2026, with portfolio Phase II targeted for September 2026.",
+        "project_name":"Robins BESS (128 MW \/ 512 MWh)",
+        "outcome":"Commercial operation achieved Sept 15, 2026",
+        "event_sentiment":"Supportive",
+        "source_name":"Georgia Power \/ Solar Power World",
+        "source_url":"https:\/\/www.prnewswire.com\/news-releases\/georgia-powers-robins-battery-storage-achieves-commercial-operation-helping-to-ensure-reliable-energy-in-georgia-302879345.html",
+        "date_captured":"2026-09-18",
+        "Latitude":32.8064948932,
+        "Longitude":-83.6974023774
+    },
+    {
+        "event_id":"JACKSON-20260917-001",
+        "event_date":"2026-09-17",
+        "GEOID":"13157",
+        "location_name":"Jackson County",
+        "municipality":"Pendergrass",
+        "event_type":"Other",
+        "event_title":"NeoVolta Signs ~$53M Capacity Reservation Agreement with Infinite Grid Capital for Pendergrass Plant",
+        "event_description":"NeoVolta announced Sept 17, 2026 a binding capacity reservation agreement with Infinite Grid Capital reserving approximately $53M of manufacturing capacity at its Pendergrass BESS plant \u2014 the first CRA under its ~$200M utility-scale framework, supplying battery storage for Northern Ontario AI data-center projects in CY2027. The release also states the initial production line is in commissioning\/Site Acceptance Testing with ramp on track for Q4 CY2026. Note: the facility's grand-opening ceremony was scheduled for the same day but no post-hoc coverage confirms it was held (outcome unconfirmed, not logged per no-inference rule).",
+        "project_name":"NeoVolta Pendergrass BESS plant",
+        "outcome":"CRA executed; SAT underway, Q4 2026 ramp on track",
+        "event_sentiment":"Supportive",
+        "source_name":"NeoVolta (GlobeNewswire)",
+        "source_url":"https:\/\/www.globenewswire.com\/news-release\/2026\/09\/17\/3363986\/0\/en\/neovolta-announces-capacity-reservation-agreement-with-infinite-grid-capital-ahead-of-pendergrass-facility-grand-opening.html",
+        "date_captured":"2026-09-18",
+        "Latitude":34.133970045,
+        "Longitude":-83.5664213864
     }
 ]
