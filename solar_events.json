@@ -5830,5 +5830,41 @@
         "date_captured":"2026-09-25",
         "Latitude":34.133970045,
         "Longitude":-83.5664213864
+    },
+    {
+        "event_id":"BUTTS-20261013-001",
+        "event_date":"2026-10-13",
+        "GEOID":"13035",
+        "location_name":"Butts County",
+        "municipality":"Jackson",
+        "event_type":"Other",
+        "event_title":"Central Georgia EMC and Base Power Launch 50 MW Residential Battery Program",
+        "event_description":"Central Georgia EMC (headquartered in Jackson, Butts County; serving ~14 middle-Georgia counties) and Base Power announced a partnership Oct 13, 2026 to deploy 50 MW of residential battery storage \u2014 whole-home backup for a $95 one-time cost, with the fleet dispatched by the co-op as a virtual power plant; installations begin 2027. Base Power's first utility partnership outside Texas. MULTI-COUNTY NOTE: program spans CGEMC's ~14-county service territory; logged under Butts (co-op HQ) per primary-county convention. Source discrepancy: ESS News headline says 100 MWh; the release states 50 MW \u2014 release figure used. Centroid borrowed from DC dataset.",
+        "project_name":"CGEMC-Base Power residential BESS VPP (50 MW)",
+        "outcome":"Partnership announced; installations begin 2027",
+        "event_sentiment":"Supportive",
+        "source_name":"Central Georgia EMC \/ Base Power (Business Wire) \/ ESS News",
+        "source_url":"https:\/\/www.ess-news.com\/2026\/10\/15\/base-power-to-deploy-100-mwh-of-home-batteries-for-georgia-co-op\/",
+        "date_captured":"2026-10-16",
+        "Latitude":33.287838349,
+        "Longitude":-83.9571852114
+    },
+    {
+        "event_id":"JACKSON-20261014-001",
+        "event_date":"2026-10-14",
+        "GEOID":"13157",
+        "location_name":"Jackson County",
+        "municipality":"Pendergrass",
+        "event_type":"Other",
+        "event_title":"NeoVolta Signs ~$10M Master Supply Agreement with Lion Power; First C&I Deliveries Ship Q4 from Pendergrass",
+        "event_description":"NeoVolta Power announced Oct 14, 2026 a Master Supply Agreement with Lion Power LLC (Greenville, SC): binding ~$10M minimum commitment through 2027, over $4M in initial purchase orders, multiple MWh shipping Q4 2026 from the Pendergrass plant \u2014 the company's first commercial-and-industrial deliveries. Per Oct 14 coverage the plant remains in commissioning\/Site Acceptance Testing with the production ramp on track for Q4 2026 (SAT completion not yet confirmed). No new 8-K on EDGAR as of capture (latest: Sept 4 term-loan filing).",
+        "project_name":"NeoVolta Pendergrass BESS plant",
+        "outcome":"MSA signed; Q4 2026 shipments planned",
+        "event_sentiment":"Supportive",
+        "source_name":"NeoVolta (GlobeNewswire) \/ Power Progress",
+        "source_url":"https:\/\/www.powerprogress.com\/news\/neovolta-signs-10m-battery-pack-agreement\/8133812.article",
+        "date_captured":"2026-10-16",
+        "Latitude":34.133970045,
+        "Longitude":-83.5664213864
     }
 ]
